@@ -1,0 +1,180 @@
+.agenda-container, .container {
+font-family: arial;
+}
+
+.agenda-row {
+clear: both;
+margin-bottom: 10px;
+margin-right: 25px;
+}
+
+.agenda-column-time {
+width: 55px;
+}
+
+.agenda-column {
+float: left;
+padding: 4px;
+}
+
+.agenda-1col {
+width: 750px;
+}
+
+.agenda-header-item {
+border-color: #EA8110;
+background-color: #EA8110;
+border-width: 1px;
+border-style: solid;
+color: #fff;
+margin-bottom: 15px;
+margin-left: 5px;
+}
+
+.agenda-break {
+background-color: #GGDDDD;
+text-align: center;
+margin-bottom: 15px;
+margin-left: 5px;
+border-width: 1px;
+border-style: solid;
+border-color: EA8110;
+}
+
+agenda-timestamp, .timestamp {
+text-align: right;
+font-weight: 700;
+font-size: 80%;
+}
+
+.agenda-item {
+background-color: #DDDDDD;
+text-align: center;
+margin-bottom: 15px;
+margin-left: 5px;
+border-width: 1px;
+border-style: solid;
+border-color: EA8110;
+padding: 0px;
+}
+
+
+
+.container {
+position:relative;
+width:960px;
+z-index:2;
+font-family:arial;
+margin:0 auto;
+padding:0;
+}
+
+
+
+
+.timestamp {
+text-align:right;
+font-weight:700;
+font-size:80%;
+}
+
+.agenda-link {
+font-weight:bolder;
+}
+
+.agenda-link:hover {
+color:red;
+cursor:pointer!important;
+}
+
+.agenda-item {
+background-color:#DDDDDD;
+text-align:center;
+margin-bottom:15px;
+margin-left:5px;
+border-color:EA8110;
+border-style:solid;
+border-width:1px;
+padding:0;
+}
+
+.agenda-item a {
+font-weight:bold;
+text-decoration:none;
+color:black;
+}
+
+.agenda-item a:hover {
+color:#EA8110;
+}
+
+.agenda-break {
+background-color:#GGDDDD;
+text-align:center;
+margin-bottom:15px;
+margin-left:5px;
+border-color:EA8110;
+border-style:solid;
+border-width:1px;
+}
+
+agenda-multi-line, .multi-line {
+min-height:40px;
+}
+
+.agenda-header-item {
+background-color:#EA8110;
+color:#fff;
+margin-bottom:15px;
+margin-left:5px;
+border-color:#EA8110;
+border-style:solid;
+border-width:1px;
+}
+
+.agenda-row {
+clear:both;
+margin-bottom:10px;
+margin-right:25px;
+}
+
+.agenda-column {
+float:left;
+padding:4px;
+}
+
+.agenda-column-right {
+float:right;
+padding:4px;
+}
+
+.agenda-column-time {
+width:55px;
+}
+
+.agenda-col-openspace {
+width:138px;
+min-height:40px;
+}
+
+.agenda-column-3 {
+width:240px;
+}
+
+.agenda-col2 {
+width:368px;
+}
+
+.agenda-1col {
+width:750px;
+}
+
+.agenda-column-10 {
+width:830px;
+}
+
+
+.agenda-portrait {
+  width:60px;
+  padding-right: 8px;
+}
