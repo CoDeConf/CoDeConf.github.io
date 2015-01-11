@@ -1,4 +1,5 @@
-name: CoDe Conferences
+name: Continuous Delivery Conferences
+hashtag: CoDeConf
 highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
