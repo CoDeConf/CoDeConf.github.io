@@ -32,9 +32,9 @@ Oslo](http://www.meetup.com/code-u/events/219713474/){: .pushbox }
 [JCICPH<br/>
 Jenkins CI CodeCamp<br/>
 August 2015<br/>
-Copenhagen](http://www.meetup.com/code-u/events/219062705/){: .pushbox }
+Copenhagen](){: .pushbox }
 
 [JCICPH<br/>
 Jenkins CI Conference<br/>
 August 2015<br/>
-Copenhagen](http://www.meetup.com/DevOps-Norway/events/220027412/){: .pushbox }
+Copenhagen](){: .pushbox }
