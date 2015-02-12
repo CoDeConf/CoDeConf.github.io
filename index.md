@@ -27,7 +27,7 @@ Scandic Copenhagen](http://www.code-conf.com/cph15){: .pushbox #cph}
 [CoDe:U Meetup<br/>
 Docker in a development scenario<br/>
 March 4th 2015<br/>
-Oslo](http://www.meetup.com/Docker-Copenhagen/events/220457268/){: .pushbox }
+Copenhagen](http://www.meetup.com/Docker-Copenhagen/events/220457268/){: .pushbox }
 
 [JCICPH<br/>
 Jenkins CI CodeCamp<br/>
