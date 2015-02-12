@@ -5,7 +5,7 @@ title: CoDe Conferences Front
 
 #Continuous Delivery Conferences and Meetups
 
-##This event is relevant to:
+##These event are relevant to:
 IT executives & managers, software architects & developers, project managers, agile coaches, system administrators, QA Manages, Test managers R&D managers - and everyone who's got DevOps at heart.
 
 
@@ -26,8 +26,8 @@ Scandic Copenhagen](http://www.code-conf.com/cph15){: .pushbox #cph}
 
 [CoDe:U Meetup<br/>
 Docker in a development scenario<br/>
-Feb 11th 2015<br/>
-Oslo](http://www.meetup.com/code-u/events/219713474/){: .pushbox }
+March 4th 2015<br/>
+Oslo](http://www.meetup.com/Docker-Copenhagen/events/220457268/){: .pushbox }
 
 [JCICPH<br/>
 Jenkins CI CodeCamp<br/>
