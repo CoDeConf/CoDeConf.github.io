@@ -5,7 +5,7 @@ title: CoDe Conferences Front
 
 #Continuous Delivery Conferences and Meetups
 
-##These event are relevant to:
+##These events are relevant to:
 IT executives & managers, software architects & developers, project managers, agile coaches, system administrators, QA Manages, Test managers R&D managers - and everyone who's got DevOps at heart.
 
 
