@@ -24,10 +24,17 @@ City Conference Centre](http://www.code-conf.com/sto15){: .pushbox #sto}
 October 7th 2015<br/>
 Scandic Copenhagen](http://www.code-conf.com/cph15){: .pushbox #cph}
 
+[IMUS <br/>
+Java Evening After Work event<br/>
+March 3rd 2015, Copenhagen](http://imus.dk/2015-03-03/free-java-event-in-copenhagen){: .pushbox }
+
 [CoDe:U Meetup<br/>
 Docker in a development scenario<br/>
-March 4th 2015<br/>
-Copenhagen](http://www.meetup.com/Docker-Copenhagen/events/220457268/){: .pushbox }
+March 4th 2015, Copenhagen](http://www.meetup.com/Docker-Copenhagen/events/220457268/){: .pushbox }
+
+[Oslo ESW Meetup<br/>
+Introducing Bluetooth Smart (aka Bluetooth low energy)<br/>
+March 4th 2015, Oslo](http://www.meetup.com/Oslo-Embedded-Software-Meetup/events/220583833){: .pushbox }
 
 [JCICPH<br/>
 Jenkins CI CodeCamp<br/>

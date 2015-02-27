@@ -216,7 +216,7 @@ aside#sidebar p.repo-owner a {
 
 a.pushbox {
   -moz-border-radius: 30px;
-  -webkit-border-radius: 30px;                     
+  -webkit-border-radius: 30px;
   border-radius: 13px;
   border-top: solid 1px #cbcbcb;
   border-left: solid 1px #b7b7b7;
@@ -230,7 +230,7 @@ a.pushbox {
   display: block;
   float: left;
   width: 199px;
-  height: 87px;
+  height: 110px;
   padding: 12px 8px 12px 8px;
   margin: 12px 12px 12px 0px;
   background: #fdfdfd; /* Old browsers */
