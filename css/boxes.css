@@ -1,0 +1,221 @@
+/* http://praqma.com
+   License: none (public domain)
+*/
+
+.darkbox {
+  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+
+}
+
+.greenbox {
+  background: #336699;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+  clear:both;
+
+}
+
+.pushbox{
+	text-shadow: 2px 2px 4px #444444;
+
+}
+
+a.pushbox {
+	color: #ffffff;
+	font-family: 'Roboto Condensed', sans-serif;
+	line-height: 85%;
+	font-size: 15px;
+	display: block;
+	float: left;
+	width: 220px;
+	height: 320px;
+	padding: 0px;
+	margin: 12px 12px 0px 0px;
+	-moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 13px;
+  border-top: solid 1px #cbcbcb;
+  border-left: solid 1px #b7b7b7;
+  border-right: solid 1px #b7b7b7;
+  border-bottom: solid 1px #b3b3b3;
+	position: relative;
+
+  background: #fdfdfd; /* Old browsers */
+  background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* IE10+ */
+  background: linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* W3C */
+	background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+  -webkit-box-shadow: 10px 10px 5px #888;
+  -moz-box-shadow: 10px 10px 5px #888;
+  box-shadow: 3px 5px 5px #e8e8e8;
+}
+a.pushbox:hover {
+	color: #ffffff;
+  border-top: solid 1px #b7b7b7;
+  border-left: solid 1px #b3b3b3;
+  border-right: solid 1px #b3b3b3;
+  border-bottom: solid 1px #b3b3b3;
+  background: #fafafa; /* Old browsers */
+  background: -moz-linear-gradient(top,  #fdfdfd 0%, #f6f6f6 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f6f6f6)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* IE10+ */
+  background: linear-gradient(top,  #fdfdfd 0%,#f6f6f6, 100%); /* W3C */
+	background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+}
+
+
+.pushbox .title,.pushbox .date, .pushbox .venue, .pushbox .context, .pushbox .hashtag {
+	padding: 5px 0px 0px 10px;
+	line-height: 100%;
+}
+
+.pushbox .title{
+	font-size: 25px;
+	font-weight: bold;
+	padding: 35px 0px 0px 10px;
+}
+
+.pushbox .date, .pushbox .venue{
+	font-size: 17px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.pushbox .date {
+	padding-top: 15px;
+}
+
+.pushbox .hashtag {
+}
+
+.pushbox .venue, .pushbox .context, .pushbox .city {
+	font-variant: all-small-caps;
+	font-weight: bold;
+	padding-top: 0px;
+
+}
+
+.pushbox .context {
+	font-size: 30px;
+	color: #f59203;
+}
+
+.pushbox .city {
+	font-size: 40px;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:right;
+	padding-right: 10px;
+
+
+}
+
+.black-ribbon-bottom {
+	position: absolute;
+	bottom: 0px;
+	height: 45px;
+	background: #000000;
+	border-top: 1px solid #f0f0f0;
+	width: 100%;
+	border-bottom-right-radius:13px;
+	border-bottom-left-radius:13px;
+	display:table;
+
+}
+
+
+
+
+#osl.pushbox {
+	background-image: url("/images/boxes/CoDeU-OSL.jpg");
+}
+
+#sto.pushbox {
+	background-image: url("/images/boxes/CoDeU-STO.jpg");
+}
+
+#cph.pushbox {
+	background-image: url("/images/boxes/CoDeU-CPH.jpg");
+}
+
+
+.pushbox.meetup, a.pushbox.meetup:hover {
+  background: #4b4b4b;
+  height:190px;
+}
+
+.pushbox.meetup .city {
+  font-size: 20px;
+}
+
+.pushbox.meetup .context {
+	font-size: 25px;
+  color: #888888;
+  padding-top:10px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.pushbox.meetup .black-ribbon-bottom{
+
+}
+
+.pushbox.meetup .date{
+  padding-top:5px;
+  padding-bottom:5px;
+  background: #f59203;
+  color: #4b4b4b;
+  height:100%;
+  border-bottom-left-radius: 12px;
+  border-right: solid 1px #f0f0f0;
+  border-left: solid 1px #f59203;
+  border-bottom: solid 1px #f59203;
+}
+
+
+.pushbox.meetup .title{
+	font-size: 25px;
+	font-weight: bold;
+	padding: 15px 0px 0px 10px;
+}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 403px) {
+
+
+}
