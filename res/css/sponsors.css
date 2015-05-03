@@ -1,0 +1,121 @@
+a.sponsorbox {
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 13px;
+  border-top: solid 1px #cbcbcb;
+  border-left: solid 1px #b7b7b7;
+  border-right: solid 1px #b7b7b7;
+  border-bottom: solid 1px #b3b3b3;
+  color: #777777;
+  font-weight: normal;
+  font-size: 11px;
+  padding: 12px 8px 12px 8px;
+  display: block;
+  float: left;
+  width: 200px;
+  height: 100px;
+  padding: 12px 8px 12px 8px;
+  margin: 12px 12px 12px 0px;
+  background: #fdfdfd; /* Old browsers */
+  background: -moz-linear-gradient( #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
+  background: -webkit-gradient(color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(#fdfdfd 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(#fdfdfd 0%,#f2f2f2 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(fdfdfd 0%,#f2f2f2 100%); /* IE10+ */
+  background: linear-gradient(#fdfdfd 0%,#f2f2f2 100%); /* W3C */
+  background-repeat: no-repeat;
+  background-position: 50% 8px;
+  background-size: 200px;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+  -webkit-box-shadow: 10px 10px 5px #888;
+  -moz-box-shadow: 10px 10px 5px #888;
+  box-shadow: 3px 5px 5px #e8e8e8;
+}
+a.sponsorbox:hover {
+  border-top: solid 1px #b7b7b7;
+  border-left: solid 1px #b3b3b3;
+  border-right: solid 1px #b3b3b3;
+  border-bottom: solid 1px #b3b3b3;
+  background: #fafafa; /* Old browsers */
+  background: -moz-linear-gradient(#fdfdfd 0%, #f6f6f6 100%); /* FF3.6+ */
+  background: -webkit-gradient(color-stop(0%,#fdfdfd), color-stop(100%,#f6f6f6)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(#fdfdfd 0%,#f6f6f6 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(#fdfdfd 0%,#f6f6f6 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(#fdfdfd 0%,#f6f6f6 100%); /* IE10+ */
+  background: linear-gradient(#fdfdfd 0%,#f6f6f6, 100%); /* W3C */
+  background-repeat: no-repeat;
+  background-position: 58% 9px;
+  background-size: 200px;
+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+}
+
+a.sponsorbox.host, a.sponsorbox.host:hover{
+   background-size: 315px;
+   width: 314px;
+   height: 61px;
+   padding-top:166px /* height of image + the padding from a.sponsorbox*/
+}
+
+
+a.sponsorbox.gold, a.sponsorbox.gold:hover, a.sponsorbox.silver, a.sponsorbox.silver:hover,a.sponsorbox.community, a.sponsorbox.community:hover{
+   background-size: 200px;
+   width: 200px;
+   height: 50px;
+   padding-top:108px /* height of image + the padding from a.sponsorbox*/
+
+}
+
+a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
+   background-size: 180px;
+   width: 200px;
+   height: 90px;
+   padding:0px;
+   margin:0px;
+   background-position: 50% 0px;
+   border:none;
+   border:none;
+   box-shadow:none;
+   background-color:#ffffff;
+}
+
+
+#praqma.sponsorbox {
+   background-image: url("/sponsors/logos/praqma_4x2.png");
+}
+
+#sample.sponsorbox {
+   background-image: url("/sponsors/logos/sample_4x2.png");
+}
+
+#ca.sponsorbox {
+   background-image: url("/sponsors/logos/ca_4x2.png");
+}
+
+#atlassian.sponsorbox {
+   background-image: url("/sponsors/logos/atlassian_4x2.png");
+}
+
+#xebialabs.sponsorbox {
+   background-image: url("/sponsors/logos/xebialabs_4x2.png");
+}
+
+#delphix.sponsorbox {
+  background-image: url("/sponsors/logos/delphix_4x2.png");
+}
+
+#softhouse.sponsorbox {
+  background-image: url("/sponsors/logos/softhouse_4x2.png");
+}
+
+#bekk.sponsorbox {
+  background-image: url("/sponsors/logos/bekk_4x2.png");
+}
+
+#appdynamics.sponsorbox {
+  background-image: url("/sponsors/logos/appdynamics_4x2.png");
+}
+
+#devopsnorway.sponsorbox {
+  background-image: url("/sponsors/logos/devopsnorway_4x2.png");
+}

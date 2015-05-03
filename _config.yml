@@ -5,3 +5,4 @@ exclude: [README.md]
 timezone: Europe/Copenhagen
 url: www.code-conf.com
 markdown: kramdown
+permalink: none

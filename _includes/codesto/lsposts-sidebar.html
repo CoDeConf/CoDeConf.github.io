@@ -1,0 +1,6 @@
+        <aside id="sidebar">
+             <div><strong>Blog posts {{site.name}}</strong></div>
+            {% for post in site.posts %}
+            <div class="post"><span style="color:#fe950d;font-weight:bold;">::&nbsp;</span><a title="{{ post.date | date_to_string }}" href="{{site.root}}{{ post.url }}">{{ post.title }}</a></div>
+            {% endfor %}
+        </aside>
