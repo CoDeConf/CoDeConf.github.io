@@ -100,6 +100,10 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
    background-image: url("/sponsors/logos/xebialabs_4x2.png");
 }
 
+#cloudbees.sponsorbox {
+   background-image: url("/sponsors/logos/cloudbees_4x2.png");
+}
+
 #delphix.sponsorbox {
   background-image: url("/sponsors/logos/delphix_4x2.png");
 }

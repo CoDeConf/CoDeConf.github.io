@@ -1,5 +1,5 @@
 ---
-layout: codesto/front
+layout: codesthlm/front
 title: CoDe STO Conference 2015 Front
 ---
 

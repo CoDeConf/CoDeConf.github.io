@@ -1,5 +1,5 @@
 ---
-layout: codesto/sponsor
+layout: codesthlm/sponsor
 title: Sponsors
 ---
 <div style="width:200px;float:left;padding:20px">

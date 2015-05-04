@@ -1,5 +1,5 @@
 ---
-layout: sponsor
+layout: codesthlm/sponsor
 title: Sponsor packages
 ---
 #Sponsor packages

@@ -1,5 +1,5 @@
 ---
-layout: codesto/sponsor
+layout: codesthlm/sponsor
 title: Sponsors
 ---
 #Organizers, hosts, and sponsors
@@ -12,5 +12,6 @@ title: Sponsors
 
 [__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.](/sthlm15/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
+[__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/sthlm15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>
