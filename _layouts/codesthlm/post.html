@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {%include heads-for-all.html%}
+    {%include codesto/head.html%}
+  </head>
+  <body>
+
+    {%include codesto/banner.html%}
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+
+          {{ content }}
+
+        </section>
+
+        {%include codesto/lsposts-sidebar.html%}
+
+      </div>
+    </div>
+  </body>
+</html>
