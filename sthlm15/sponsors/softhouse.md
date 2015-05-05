@@ -11,4 +11,8 @@ title: Sponsors
 
 
 
-Softhouse is a consultancy company that is excellent at developing solutions with software and developing people and businesses and has been doing this since 1996. Today Softhouse is one of the leading companies in Scandinavia within Lean & Agile with a total of 200 employees at sites in Stockholm, Gothenburg, Malmö, Karlskrona and Växjö.
+Softhouse – we help you develop
+
+The world is changing fast and there is a constant need for your organisation to become more flexible and effective. We offer professional services for high-paced, quality-assured software development, using state-of-the-art methodologies which help your R&D teams thrive. We have an extensive experience in Lean & Agile development, ranging from delivery of turn-key solutions to education of domain experts. This also includes hands-on experience of Continuous Integration, Continuous Delivery and DevOps.
+
+Contact us if you want to assess and improve your capability to deliver the right product at the right time.
