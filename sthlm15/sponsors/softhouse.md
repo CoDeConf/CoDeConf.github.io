@@ -12,6 +12,5 @@ title: Sponsors
 
 
 Softhouse – we help you develop
-The world is changing fast and there is a constant need for your organisation to become more flexible and effective. We offer professional services for high-paced, quality-assured software development, using state-of-the-art methodologies which help your R&D teams thrive. We have an extensive experience in Lean & Agile development, ranging from delivery of turn-key solutions to education of domain experts. This also includes hands-on experience of Continuous Integration, Continuous Delivery and DevOps.
 
-Contact us if you want to assess and improve your capability to deliver the right product at the right time.
+The world is changing fast and there is a constant need for your organisation to become more flexible and effective. We offer professional services for high-paced, quality-assured software development, using state-of-the-art methodologies which help your R&D teams thrive. We have an extensive experience in Lean & Agile development, ranging from delivery of turn-key solutions to education of domain experts. This also includes hands-on experience of Continuous Integration, Continuous Delivery and DevOps. Contact us if you want to assess and improve your capability to deliver the right product at the right time.
