@@ -16,6 +16,8 @@ _Continuous Delivery, DevOps, configuration as code, software factory, software 
 
 _Join the movement_{: .inverted} and come to the CoDe conference to get an insight.
 
-Right now we're busy planning the [Oslo event](http://www.code-conf.com/osl15) we will soon start adding details to the Stockholm event on these pages.
-
 Stay tuned - [follow us on Twitter](http://www.twitter.com/codesthlm/){: target="_blank"}
+
+  <div style="width:100%; text-align:left;" >
+    <iframe  src="//eventbrite.com/tickets-external?eid=15596906768&ref=etckt" frameborder="0" height="347" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+  </div>
