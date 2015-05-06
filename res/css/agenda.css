@@ -1,34 +1,55 @@
-.agenda-container, .container {
-font-family: arial;
+
+agenda {
+  position:relative;
+  width:100%;
+  z-index:2;
+  font-family:arial;
+  margin:0 auto;
+  padding:0;
+  display:inline-table;
+  clear:both;
 }
 
-.agenda-row {
-clear: both;
-margin-bottom: 10px;
-margin-right: 25px;
+agenda timeslot {
+  clear: both;
+  margin-bottom: 10px;
+  margin-right: 25px;
+  display: block;
 }
 
-.agenda-column-time {
-width: 55px;
+timeslot start {
+  width: 7%;
+  text-align: right;
+  font-weight: 700;
+  font-size: 80%;
+  float: left;
+  padding: 4px;
 }
 
-.agenda-column {
-float: left;
-padding: 4px;
+.agenda-column, column, timeslot point {
+  float: left;
+  padding: 4px;
+  background-color: #DDDDDD;
+  text-align: center;
+  margin-bottom: 15px;
+  margin-left: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: EA8110;
+  padding: 0px;
+  width: 88%;
 }
 
-.agenda-1col {
-width: 750px;
-}
+.
 
-.agenda-header-item {
-border-color: #EA8110;
-background-color: #EA8110;
-border-width: 1px;
-border-style: solid;
-color: #fff;
-margin-bottom: 15px;
-margin-left: 5px;
+.agenda-header-item,  point.header, .header {
+  border-color: #EA8110;
+  background-color: #EA8110;
+  border-width: 1px;
+  border-style: solid;
+  color: #fff;
+  margin-bottom: 15px;
+  margin-left: 5px;
 }
 
 .agenda-break {
@@ -60,22 +81,15 @@ padding: 0px;
 
 
 
-.container {
-position:relative;
-width:960px;
-z-index:2;
-font-family:arial;
-margin:0 auto;
-padding:0;
-}
+
 
 
 
 
 .timestamp {
-text-align:right;
-font-weight:700;
-font-size:80%;
+  text-align:right;
+  font-weight:700;
+  font-size:80%;
 }
 
 .agenda-link {
@@ -108,21 +122,18 @@ color:black;
 color:#EA8110;
 }
 
-.agenda-break {
-background-color:#GGDDDD;
-text-align:center;
-margin-bottom:15px;
-margin-left:5px;
-border-color:EA8110;
-border-style:solid;
-border-width:1px;
+point.break {
+  text-align:center;
+  margin-bottom:15px;
+  margin-left:5px;
+  border-color:EA8110;
+  border-style:solid;
+  border-width:1px;
+  background-color: #ffffff;
 }
 
-agenda-multi-line, .multi-line {
-min-height:40px;
-}
 
-.agenda-header-item {
+.agenda-header-item, point.header {
 background-color:#EA8110;
 color:#fff;
 margin-bottom:15px;
@@ -132,7 +143,7 @@ border-style:solid;
 border-width:1px;
 }
 
-.agenda-row {
+.agenda-row, agenda .row, agenda row {
 clear:both;
 margin-bottom:10px;
 margin-right:25px;
@@ -149,30 +160,20 @@ padding:4px;
 }
 
 .agenda-column-time {
-width:55px;
+width:7%;
 }
 
-.agenda-col-openspace {
-width:138px;
-min-height:40px;
+.agenda-col3, point#three-tracks {
+width:28.6%;
 }
 
-.agenda-column-3 {
-width:240px;
-}
-
-.agenda-col2 {
-width:368px;
+.agenda-col2, point#two-tracks {
+width:43.5%;
 }
 
 .agenda-1col {
-width:750px;
+width:88%;
 }
-
-.agenda-column-10 {
-width:830px;
-}
-
 
 .agenda-portrait {
   width:60px;
