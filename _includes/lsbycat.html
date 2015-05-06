@@ -1,0 +1,18 @@
+{% for category in site.categories %}
+    {% for catname in site.data.catnames %}
+      {% if catname.dir == category.first %}
+        <div style="padding-bottom:15px;"><a name="{{ category.first }}"></a>
+          <b><span title="{{catname.description}}">{{ catname.name}}<span></b>
+          {% for posts in category %}
+            {% for post in posts %}
+                <div class="list"><a title="{{ post.date | date: "%A %B %-d. %Y" }}" href="{{ post.url }}">{{ post.title }}</a></div>
+            {% endfor %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+{% endfor %}
+
+
+
+    

@@ -1,5 +1,5 @@
 ---
-layout: codesthlm/front
+layout: codesthlm/preconf
 title: Continuous delivery Pre-Conference Birds of a Feathers
 ---
 #CoDeSTHLM Pre-Conference
