@@ -10,6 +10,10 @@ _Make the most of your trip to Stockholm_{: .inverted} __by taking advantage of 
 
 _Our BoFs are facilitated by hand picked Continuous Delivery and DevOps thought leaders_{: .inverted}
 
+## It's free to attend if you are signed up to the CoDeSTHLM conference - but don't stall: Seats are limited! First signed - first served!
+
+#[REGISTER HERE](http://www.meetup.com/code-u/events/222370140/){: target="_blank"}
+
 The pre-conference day is laid out as an _un-conference_ meaning that the majority of the content will we given as discussions and knowledge sharing among participants and less by actual speakers. The format goes like this:
 
 * The day is divided into sessions. Each session is approximately an hour.
@@ -22,7 +26,7 @@ The pre-conference day is laid out as an _un-conference_ meaning that the majori
 
 ---
 
-__Refreshments during registration, snacks and coffee during breaks and a pub meal and your first drink to go with it - is all complemantary - sponsored by Josra - the [Joint Open Source Roadmap Alliance](www.josra.org)__
+__Refreshments during registration, snacks and coffee during breaks are all complemantary - sponsored by Josra - the [Joint Open Source Roadmap Alliance](www.josra.org) The meal and drinks at the pub in the eventing are at your own expense.__
 
 ---
 <agenda>
