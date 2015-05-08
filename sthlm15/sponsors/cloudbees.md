@@ -4,7 +4,7 @@ title: Sponsors
 ---
 <div style="width:200px;float:left;padding:20px">
   <div style="height:200px;position:relative;">
-    <a href="http://www.cloudbees.com" target="_blank"><img style="position: absolute; top: 0;width:200px" src="/sponsors/logos/cb_4x2.jpg" /></a>
+    <a href="http://www.cloudbees.com" target="_blank"><img style="position: absolute; top: 0;width:200px" src="/sponsors/logos/cb_4x2.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;"><br/></div>
 </div>
