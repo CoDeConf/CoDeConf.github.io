@@ -23,7 +23,7 @@ title: CoDe STHLM 2015 - speakers
 ![Seb Rose](/images/speakers/srose.jpg){: .portrait} Seb Rose has been involved in the full development lifecycle with experience ranging from Architecture to Support and from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).
 
 ## Dag Arne Brænd
-{: #dbrænd}
+{: #dbraend}
 
 ###### Chief Operating Officer, Novelda
 
@@ -41,14 +41,13 @@ title: CoDe STHLM 2015 - speakers
 ![Lars Kruse](/sthlm15/images/speakers/lkruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
 
 ## Peter Thorngren
-{: #pthomgren}
+{: #pthorngren}
 
 ###### Vehicle Engineering Technology Specialists - Integration, Volvo GTT AB
 
 #### Speak [Continuous Integration as a step in the Stairway to Heaven Vision](/sthlm15/program#stairway)
 
-![Peter Thorngren](/sthlm15/images/speakers/pthorngren.jpg){: .portrait} Peter Thorngren has the the ability to combine customer demands with technical possibilities and limitations to create working commercial solutions. Peter has also had personal experience in running a successful business in the management/system development area.
-Peter works especially well in projects with a combination of technical, organizational, and commercial challenges. With his technical understanding and experience in larger projects, he can perform well in the areas of technology and business development.
+![Peter Thorngren](/sthlm15/images/speakers/pthorngren.jpg){: .portrait} Peter Thorngren has the the ability to combine customer demands with technical possibilities and limitations to create working commercial solutions. Peter has also had personal experience in running a successful business in the management/system development area. Peter works especially well in projects with a combination of technical, organizational, and commercial challenges. With technical experience in larger projects, he performs well in the areas of technology and business development.
 
 ## Andy Cars
 {: #acars}
@@ -66,7 +65,7 @@ Peter works especially well in projects with a combination of technical, organiz
 
 #### Speak [Enterprise Scale Continuous Integration and Delivery: A Bunch of Problems and a Few Solutions](/sthlm15/program#problems)
 
-![Daniel Ståhl](/sthlm15/images/speakers/dstaal.jpg){: .portrait} Daniel Ståhl is continuous integration manager and subject matter expert at Ericsson AB. He has a background of eight years of professional software development, integration and architecting in the telecom industry, where his work primarily revolves the application of continuous integration practices to multinational enterprise scale organizations. In addition, he has conducted continuous integration research within the context of Software Center since 2012.
+![Daniel Ståhl](/sthlm15/images/speakers/dstahl.jpg){: .portrait} Daniel Ståhl is continuous integration manager and subject matter expert at Ericsson AB. He has a background of eight years of professional software development, integration and architecting in the telecom industry, where his work primarily revolves the application of continuous integration practices to multinational enterprise scale organizations. In addition, he has conducted continuous integration research within the context of Software Center since 2012.
 
 ## Christian Pendleton
 {: #cpendleton}
@@ -77,7 +76,6 @@ Peter works especially well in projects with a combination of technical, organiz
 
 ![Christian Pendleton](/sthlm15/images/speakers/cpendleton.jpg){: .portrait} Christian Pendleton has been working with CM in the swedish telecom and IT industry since 1994. His main focus have been how to get CM to best support the development process. He joined Softhouse in 2008 to be able to focus on how to work with CM when using agile methods.<br/>&nbsp;
 
-
 ## Marcus Philip
 {: #mphilip}
 
@@ -85,4 +83,4 @@ Peter works especially well in projects with a combination of technical, organiz
 
 #### Speak [Continuous Delivery for Databases](/sthlm15/program#databases)
 
-![Marcus Philip](/sthlm15/images/speakers/mphilip.jpg){: .portrait} Marcus Philip is a Continuous delivery advocate and consultant helping organizations to improve the software delivery process on all levels by technical, process and cultural changes.
+![Marcus Philip](/sthlm15/images/speakers/mphilip.jpg){: .portrait} Marcus Philip is a Continuous Delivery advocate and consultant helping organizations to improve the software delivery process on all levels by technical, process and cultural changes.

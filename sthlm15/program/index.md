@@ -30,16 +30,16 @@ DevOps is often referred to in the meaning; “to close the gap between Developm
 ## Operational Excellence in Multi-disciplinary Product Development
 {: #excellence}
 
-######[Dag Arne Brænd](/sthlm15/speakers#lkruse), Novelda
+######[Dag Arne Brænd](/sthlm15/speakers#dbraend), Novelda
 
 Answering the following questions from an industrial point of view: How do you develop, control, and maintain an advanced SW codebase that distributes and ships into multiple HW products? How does Continuous Delivery of SW fit into such an environment? How do you set-up a SW quality toolchain that starts with design and ends up in a product at the customers desk?
 
 ## Continuous Integration as a step in the Stairway to Heaven Vision
 {: #stairway}
 
-######[Peter Thorngren](/sthlm15/speakers#pthorgren), Volvo GTT AB (Volvo Lastvagnar)
+######[Peter Thorngren](/sthlm15/speakers#pthorngren), Volvo GTT AB (Volvo Lastvagnar)
 
-The automotive industry is on the verge of a fundamental revolution as the vehicle themselves becomes autonomous – CI and CD will play key roles in making this happened. The heavy duty truck industry will be in the center of this change. Trucks are already today advanced technical products with Internet integrated functions, but this is still very limited compared to what we will see in the upcoming years. This change will offer fascinating possibilities for innovation and creativity when trucks that already today have very advanced functions will be parts of integrated autonomous transport solutions.
+The automotive industry is on the verge of a fundamental revolution as the vehicle themselves becomes autonomous – Continuous Integration and Continuous Delivery will play key roles in making this happen. The heavy duty truck industry will be in the center of this change. Trucks are already today advanced technical products with internet integrated functions, however, this is still very limited compared to what we will see in the upcoming years. This change will offer fascinating possibilities for innovation and creativity when trucks that already today have very advanced functions will be parts of integrated autonomous transport solutions.
 
 ## Lean Startup for B2B
 {: #lean}
@@ -53,24 +53,21 @@ Lean Startup is often associated with small agile B2C startups. But what about d
 
 ######[Daniel Ståhl](/sthlm15/speakers#dsthaal), Ericsson AB
 
-Continuous Integration and Delivery can be easier said than done - particularly in large scale: the size and complexity of the products increase, the number of stakeholders is greater, the volume of changes to integrate is larger and the stakes are higher.
-
-What are the problems we run into when scaling continuous integration and delivery? What can we do about it? And how do we approach the problem?
+Continuous Integration and Delivery can be easier said than done - particularly in large scale: the size and complexity of the products increase, the number of stakeholders is greater, the volume of changes to integrate is larger and the stakes are higher. What are the problems we run into when scaling Continuous Integration and Delivery? What can we do about it? And how do we approach the problem?
 
 ## Analyzing Continuous Delivery
 {: #analyzing}
 
 ######[Lars Bendix](/sthlm15/speakers#bendix), Lund University
 
-How does Continuous Delivery (and DevOps) look like from “the Ivory Tower” (the academic point of view)? In this analysis, I will focus on why you might want to use Continuous Delivery and what you should probably look out for if you want to succeed. What are the advantages - big and small - that you can look forward to once you have Continuous Delivery in place? Furthermore, I will address what prequisites should be in place before starting and what kind of obstacles you should be prepared to meet. The analysis will be spiffed up with some practical experience (aka Lessons Learned) from primarily student projects - that might or might not relate to “your real world”.
+How does Continuous Delivery (and DevOps) look like from “The Ivory Tower” (the academic point of view)? In this analysis, I will focus on why you might want to use Continuous Delivery and what you should probably look out for if you want to succeed. What are the advantages - big and small - that you can look forward to once you have Continuous Delivery in place? Furthermore, I will address what prequisites should be in place before starting and what kind of obstacles you should be prepared to meet. The analysis will be spiffed up with some practical experience (aka Lessons Learned) from primarily student projects - that might or might not relate to “your real world”.
 
 ## Boosting your agile mindset with Continuous Delivery
 {: #boosting}
 
-######[Christian Pendleton](/sthlm15/speakers#spendleton), Softhouse
+######[Christian Pendleton](/sthlm15/speakers#cpendleton), Softhouse
 
-Continuous Delivery and DevOps is an important piece of the infrastructure that is essential when you want to apply an agile way of working in an organization.
-We would like to share our view on how an agile organization benefits from a working continuous delivery solution and tell the story about a successful large scale implementation from one of our customers.
+Continuous Delivery and DevOps are important pieces of the infrastructure that is essential when you want to apply an agile way of working in an organization. We would like to share our view on how an agile organization benefits from a working Continuous Delivery solution and tell the story about a successful large scale implementation from one of our customers.
 
 ## Continuous Delivery for Databases
 {: #databases}
