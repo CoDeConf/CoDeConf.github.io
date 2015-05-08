@@ -1,149 +1,88 @@
 ---
-layout: post
-title: CoDe CPH 2014 - speakers
+layout: codesthlm/post
+title: CoDe STHLM 2015 - speakers
 ---
 #{{site.hashtag}} - speakers
-
-## Andi Mann
-{: mann}
-
-###### Vice President, Office of the CTO
-
-#### Speak:[Keynote, DevOps, Cloud and Your SDLC]({{site.root}}/program#devops)
-
-![Andi Mann]({{site.root}}/images/speakers/andimann.jpg){: .portrait}Andi Mann is a Vice President in the Office of the Chief Technology Officer at CA Technologies. He is an accomplished digital business executive with extensive global expertise as a strategist, technologist, innovator, marketer, and communicator. For over 25 years across five continents, Andi has built success with corporations, vendors, governments, and as a leading research analyst and business consultant.<br clear="both">
 
 ## Jan Bosch
 {: jbosch}
 
 ###### Professor of Software Engineering, Chalmers University of Technology
 
-#### Speak:[Keynote, Using Continuous Delivery to Build Products Customers Actually Use]({{site.root}}/program#usingcd)
+#### Speak:[Keynote, Using Continuous Delivery to Build Products Customers Actually Use](/sthlm15/program#usingcd)
 
-![Jan Bosch]({{site.root}}/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
+![Jan Bosch](/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
 
-## Paul Speers
-{: #speers}
+## Seb Rose
+{: #srose}
 
-###### CEO, Speerhead
+###### Consultant & Coach, Claysnow
 
-#### Speak: [How to find & grow your own DevOps experts…]({{site.root}}/program#howto)
+#### Speak [Estimates and Continuous Delivery](/sthlm15/program#estimates)
 
-![Paul Speers]({{site.root}}/images/speakers/pspeers.jpg){: .portrait}Paul Speers started life as a Dev working for HP in R&D, then a key founder in a number of startups and latterly as an Op founding Fox IT the Global Service Managment Consulting and Training practice. He is co-founder of  Speerhead International - The Global DevOps recruitment specialist, which he started two years ago with the mission to put a recruitment and training practice into each global DevOps tech hub.<br clear="both">
+![Seb Rose](/images/speakers/srose.jpg){: .portrait} Seb Rose has been involved in the full development lifecycle with experience ranging from Architecture to Support and from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).
+
+## Dag Arne Brænd
+{: #dbrænd}
+
+###### Chief Operating Officer, Novelda
+
+#### Speak [Operational Excellence in Multi-disciplinary Product Development](/sthlm15/program#excellence)
+
+![Dag Arne Brænd](/sthlm15/images/speakers/dbraend.jpg){: .portrait} Dag Arne Braand is the Chief Operating Officer for Novelda. He is responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, hardware debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually. Dag Arne graduated with an M.Sc EE From NTH.
 
 ## Lars Kruse
 {: #lkruse}
 
-###### Continuous Delivery Coach, Praqma
+###### Continuous Delivery Consultant, Praqma
 
-#### Speaks: [Continuous Delivery Maturity]({{site.root}}/program#cdmaturity) & [Peer reviews are for sissies]({{site.root}}/program#sissies)
+#### Speak [NoOps - beyond the DevOps frontier!](/sthlm15/program#noops)
 
-![Lars Kruse]({{site.root}}/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
+![Lars Kruse](/sthlm15/images/speakers/lkruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
 
-## Michiel Sens
-{: #sens}
+## Peter Thorngren
+{: #pthomgren}
 
-###### Solution Architect, Xebia
+###### Vehicle Engineering Technology Specialists - Integration, Volvo GTT AB
 
-#### Speak: [The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global]({{site.root}}/program#cdziggo)
+#### Speak [Continuous Integration as a step in the Stairway to Heaven Vision](/sthlm15/program#stairway)
 
-![Michael Sens]({{site.root}}/images/speakers/msens.jpg){: .portrait} Michiel Sens has worked in the IT Industry for over 18 years, is co-writer of the book 'Continuous Delivery for Managers' and works as a Principal Consultant/Solution Architect at Xebia in The Netherlands. Michiel specializes in Continuous Delivery and full lifecycle software development programs and as such focuses on coaching Agile Teams, setting up central build environments, automating tests, automating deployment over multiple environments and implementing fully automated PaaS platforms. He advocates the use of Continuous Delivery at seminars and meetups, while remaining in touch with its details by performing actual implementations as well.<br clear="both">
+![Peter Thorngren](/sthlm15/images/speakers/pthorngren.jpg){: .portrait} Peter Thorngren has the the ability to combine customer demands with technical possibilities and limitations to create working commercial solutions. Peter has also had personal experience in running a successful business in the management/system development area.
+Peter works especially well in projects with a combination of technical, organizational, and commercial challenges. With his technical understanding and experience in larger projects, he can perform well in the areas of technology and business development.
 
-## Benjamin Wootton
-{: #wootton}
+## Andy Cars
+{: #acars}
 
-###### Co-Founder, Contino
+###### Founder, Seedcap and Lean Ventures
 
-#### Speak: [DevOps At Scale]({{site.root}}/program#scale)
+#### Speak [Lean Startup for B2B](/sthlm15/program#lean)
 
-![Benjamin Wootton]({{site.root}}/images/speakers/bwootton.jpg){: .portrait} Benjamin is the Co-Founder of Contino, a London based professional services firm that specializes in helping enterprise organisations adopt DevOps and Continuous Deliver tools, practices and approaches.<br clear="both">
+![Andy Cars](/sthlm15/images/speakers/acars.jpg){: .portrait} Andy Cars is the founder of Seedcap and Lean Ventures. Seedcap assists tech startups with business advice relating to strategy, business development, lean startup and fundraising. www.seedcap.se Lean Ventures leverages the experience gained in the fast moving high-tech startup sector to help large companies to accelerate innovation. www.leanventures.se
 
-## Jonas Bang Christensen
-{: #bang}
+## Daniel Ståhl
+{: #dstaal}
 
-###### SW Release Manager, Schneider Electric
+###### Continuous Integration Manager, Ericsson AB
 
-#### Speak: [Implementing Continuous Delivery in practice for embedded devices]({{site.root}}/program#embedded)
+#### Speak [Enterprise Scale Continuous Integration and Delivery: A Bunch of Problems and a Few Solutions](/sthlm15/program#problems)
 
-![Jonas Bang Christensen]({{site.root}}/images/speakers/jbang.jpg){: .portrait} Jonas bang Christensen has 10+ years of experience as project manager within software integration, releasing and deployment, but has also setup his share of Jenkins jobs and pipelines. The last few years he has been working explicitly on implementing Continuous Integration & Delivery in different organizations.<br clear="both">
+![Daniel Ståhl](/sthlm15/images/speakers/dstaal.jpg){: .portrait} Daniel Ståhl is continuous integration manager and subject matter expert at Ericsson AB. He has a background of eight years of professional software development, integration and architecting in the telecom industry, where his work primarily revolves the application of continuous integration practices to multinational enterprise scale organizations. In addition, he has conducted continuous integration research within the context of Software Center since 2012.
 
-## Rasmus Voss
-{: #voss}
+## Christian Pendleton
+{: #cpendleton}
 
-###### Continuous Integration Consultant, VossCon
+###### Senior Consultant, Softhouse
 
-#### Speak: [Implementing Continuous Delivery in practice for embedded devices]({{site.root}}/program#embedded)
+#### Speak [Boosting your agile mindset with Continuous Delivery](/sthlm15/program#boosting)
 
-![Rasmus Voss]({{site.root}}/images/speakers/rvoss.jpg){: .portrait} Rasmus Voss is specialized in Continuous Integration, software releasing, and process automation. His vast knowledge on these areas has been built by a 10-year career in Nokia. Today, Rasmus has his own company VossCon, where he consults with companies on how to make the most of their developers and testers by optimizing and automating.<br clear="both">
+![Christian Pendleton](/sthlm15/images/speakers/cpendleton.jpg){: .portrait} Christian Pendleton has been working with CM in the swedish telecom and IT industry since 1994. His main focus have been how to get CM to best support the development process. He joined Softhouse in 2008 to be able to focus on how to work with CM when using agile methods.<br/>&nbsp;
 
-## Lars Bendix
-{: #bendix}
 
-###### Professor of software engineering, Lund University
+## Marcus Philip
+{: #mphilip}
 
-#### Speak [Continuous Delivery X-rayed]({{site.root}}/program#xrayed)
+###### Consultant, Diabol
 
-![Lars Bendix]({{site.root}}/images/speakers/bendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department's agile activities.
+#### Speak [Continuous Delivery for Databases](/sthlm15/program#databases)
 
-## Allan Tange
-{: #tange}
-
-###### CEO, Testhuset
-
-#### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery]({{site.root}}/program#sdlc)
-
-![Allan Tange]({{site.root}}/images/speakers/tange.jpg){: .portrait} Allan Tange is the founder of Testhuset and has over the last 20 years helped many customers improving their quality of software applications. His focus is and has always been around getting testing and quality assurance as a natural part of the Software Delivery Life Cycle. Areas like mobile testing, testing of SAP solutions, browser compatibility tests and later Service Virtualization are all parts of Testhuset’s domain knowledge.
-
-## Nicola Paolucci
-{: #paolucci}
-
-###### Developer Advocate, Atlassian
-
-#### Speak [A Business Case for Git]({{site.root}}/program#git)
-
-![Nicola Paolucci]({{site.root}}/images/speakers/npaolucci.jpg){: .portrait} Nicola is a Developer Advocate at Atlassian. He writes and talks about git, development workflows, collaboration around code and is an all-round hacker. Prior to Atlassian he lead software teams, built crowd sourcing applications for geo-spatial data, worked on huge e-commerce deployments. Little known facts about Nicola: he gesticulates a lot while speaking (being Italian), lives in Amsterdam and rides a Ducati.
-
-## Morten Elvang
-{: #elvang}
-
-###### Principal Consultant, DELTA
-
-#### Speak [Game changing beliefs]({{site.root}}/program#gamechanging)
-
-![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and Partner in WWW.LKU.DK. He received his MSc and Phd in Computer Science from the Technical University of Denmark. He has helped product and service development teams of all sizes to gain better results with less hassle.<br clear="both">
-
-## Florin Iten
-{: #iten}
-
-###### Managing Partner, QACube
-
-#### Speak [DevOps Agility: Lifecycle Reporting & Dashboards]({{site.root}}/program#agility)
-
-![Florin Iten]({{site.root}}/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the Managing Partner of QACube, which was founded in 2014 to deliver analytics and C-level views across the software delivery lifecycle. Additionally Florin serves as CEO and Founder of ESGroup and CFO and Founder of Sixsentix. Florin is an active innovator and serial entrepreneur in Software DevOps and reporting and an expert in keeping pace with apps.
-
-## Chris Gargiulo
-{: #gargiulo}
-
-###### Head of DevOps and Enterprise Service Platforms, Maersk Group Infrastructure Services
-
-#### Speak [DevOps and Moving the Elephant]({{site.root}}/program#elephant)
-
-![Chris Gargiulo]({{site.root}}/images/speakers/cgargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
-
-## Per Arnold Blaasmo
-{: #blaasmo}
-
-###### Senior Software Craftsman, Atmel Norway
-
-#### Speak [On the way towards the vision of DevOps]({{site.root}}/program#vision)
-
-![Per Arnold Blaasmo]({{site.root}}/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
-
-## Austin Bingham
-{: #bingham}
-
-###### Technical Director, Sixty North AS
-
-#### Speak [Making the Case for Review]({{site.root}}/program#making)
-
-![Austin Bingham]({{site.root}}/images/speakers/abingham.jpg){: .portrait} Austin is a founding director of Sixty North, a software consulting, training, and application development company. A native of Texas, in 2008 Austin moved to Stavanger, Norway where he helped develop industry-leading oil reservoir modeling software in C++ and Python. Prior to that he worked at National Instruments developing LabVIEW, at Applied Research Labs (Univ. of Texas at Austin) developing sonar systems for the U.S. Navy, and at a number of telecommunications companies. He is an experienced presenter and teacher, having spoken at numerous conferences, software groups, and internal corporate venues. Austin is also an active member of the Open Source community, contributing regularly to various Python and Emacs projects, and he’s the founder of Stavanger Software Developers, one of the largest and most active social software groups in Stavanger. Austin holds a Master of Science in Computer Engineering from the University of Texas at Austin.
+![Marcus Philip](/sthlm15/images/speakers/mphilip.jpg){: .portrait} Marcus Philip is a Continuous delivery advocate and consultant helping organizations to improve the software delivery process on all levels by technical, process and cultural changes.
