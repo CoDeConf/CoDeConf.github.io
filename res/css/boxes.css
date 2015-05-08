@@ -2,6 +2,10 @@
    License: none (public domain)
 */
 
+.greenbox, .darkbox, .goldbox, .pushbox, .factbox{
+  font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 .darkbox {
   background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
   max-width: 200px;
@@ -9,6 +13,7 @@
   color: #FFFFFF;
   padding: 12px;
   font-size: 130%;
+  border-radius: 8px;
 
 }
 
@@ -20,11 +25,25 @@
   padding: 12px;
   font-size: 130%;
   clear:both;
+  border-radius: 8px;
+
 
 }
 
+.goldbox {
+  background: #c77600;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+	border-radius: 8px;
+}
+
+
 .pushbox{
 	text-shadow: 2px 2px 4px #444444;
+  border-radius: 8px;
 
 }
 

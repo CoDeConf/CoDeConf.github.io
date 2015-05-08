@@ -152,26 +152,14 @@ header a.menu:hover {
 }
 
 .darkbox {
-  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
-  max-width: 200px;
-  width: 100%;
-  color: #FFFFFF;
-  padding: 12px;
-  font-size: 130%;
 
+.inverted{
+  background:#4b4b4b;
+  color:#FFFFFF;
+  padding:2px;
+  font-style: normal;
+  font-weight: normal;
 }
-
-.greenbox {
-  background: #336699;
-  max-width: 200px;
-  width: 100%;
-  color: #FFFFFF;
-  padding: 12px;
-  font-size: 130%;
-  clear:both;
-
-}
-
 
 
 
