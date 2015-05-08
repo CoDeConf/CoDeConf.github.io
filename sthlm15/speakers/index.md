@@ -29,7 +29,7 @@ title: CoDe STHLM 2015 - speakers
 
 #### Speak [Operational Excellence in Multi-disciplinary Product Development](/sthlm15/program#excellence)
 
-![Dag Arne Brænd](/sthlm15/images/speakers/dbraend.jpg){: .portrait} Dag Arne Braand is the Chief Operating Officer for Novelda. He is responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, hardware debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually. Dag Arne graduated with an M.Sc EE From NTH.
+![Dag Arne Brænd](/sthlm15/images/speakers/dbraend.jpg){: .portrait} Dag Arne Braand is the COO of Novelda. He is responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, HW debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually.
 
 ## Lars Kruse
 {: #lkruse}
