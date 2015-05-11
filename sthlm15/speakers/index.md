@@ -9,7 +9,7 @@ title: CoDe STHLM 2015 - speakers
 
 ###### Professor of Software Engineering, Chalmers University of Technology
 
-#### Speak:[Keynote, Using Continuous Delivery to Build Products Customers Actually Use](/sthlm15/program#usingcd)
+#### Speak [Keynote, Using Continuous Delivery to Build Products Customers Actually Use](/sthlm15/program#usingcd)
 
 ![Jan Bosch](/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
 
