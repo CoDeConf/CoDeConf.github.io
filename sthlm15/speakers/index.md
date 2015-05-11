@@ -84,3 +84,14 @@ title: CoDe STHLM 2015 - speakers
 #### Speak [Continuous Delivery for Databases](/sthlm15/program#databases)
 
 ![Marcus Philip](/sthlm15/images/speakers/mphilip.jpg){: .portrait} Marcus Philip is a Continuous Delivery advocate and consultant helping organizations to improve the software delivery process on all levels by technical, process and cultural changes.
+
+<br/>&nbsp;
+
+## Lars Bendix
+{: #lbendix}
+
+###### Professor of software engineering, Lund University
+
+#### Speak [Analyzing Continuous Delivery](/sthlm15/program/#analyzing)
+
+![Lars Bendix](/sthlm15/images/speakers/lbendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department’s agile activities.

@@ -58,7 +58,7 @@ Continuous Integration and Delivery can be easier said than done - particularly 
 ## Analyzing Continuous Delivery
 {: #analyzing}
 
-######[Lars Bendix](/sthlm15/speakers#bendix), Lund University
+######[Lars Bendix](/sthlm15/speakers#lbendix), Lund University
 
 How does Continuous Delivery (and DevOps) look like from “The Ivory Tower” (the academic point of view)? In this analysis, I will focus on why you might want to use Continuous Delivery and what you should probably look out for if you want to succeed. What are the advantages - big and small - that you can look forward to once you have Continuous Delivery in place? Furthermore, I will address what prequisites should be in place before starting and what kind of obstacles you should be prepared to meet. The analysis will be spiffed up with some practical experience (aka Lessons Learned) from primarily student projects - that might or might not relate to “your real world”.
 
