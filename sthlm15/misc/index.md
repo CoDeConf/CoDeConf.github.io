@@ -1,5 +1,5 @@
 ---
-layout: codesthlm/post
+layout: codesthlm/default
 title: The rest
 ---
 #All the information you need

@@ -1,5 +1,5 @@
 ---
-layout: codesthlm/post
+layout: codesthlm/default
 title: CoDe CPH 2014 Program
 ---
 # {{site.hashtag}} - Program
