@@ -65,7 +65,7 @@ How does Continuous Delivery (and DevOps) look like from “The Ivory Tower” (
 ## Boosting your agile mindset with Continuous Delivery
 {: #boosting}
 
-######[Christian Pendleton](/sthlm15/speakers#cpendleton), Softhouse
+######[Christian Pendleton](/sthlm15/speakers#cpendleton) & [Mikael Reinholdsson](/sthlm15/speakers##mreinholdsson), Softhouse
 
 Continuous Delivery and DevOps are important pieces of the infrastructure that is essential when you want to apply an agile way of working in an organization. We would like to share our view on how an agile organization benefits from a working Continuous Delivery solution and tell the story about a successful large scale implementation from one of our customers.
 

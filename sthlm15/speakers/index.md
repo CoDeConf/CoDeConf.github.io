@@ -76,6 +76,15 @@ title: CoDe STHLM 2015 - speakers
 
 ![Christian Pendleton](/sthlm15/images/speakers/cpendleton.jpg){: .portrait} Christian Pendleton has been working with CM in the swedish telecom and IT industry since 1994. His main focus have been how to get CM to best support the development process. He joined Softhouse in 2008 to be able to focus on how to work with CM when using agile methods.<br/>&nbsp;
 
+## Mikael Reinholdsson
+{: #mreinholdsson}
+
+###### Partner & co-founder, Softhouse
+
+#### Speak [Boosting your agile mindset with Continuous Delivery](/sthlm15/program#boosting)
+
+![Mikael Reinholdsson](/sthlm15/images/speakers/mreinholdsson.jpg){: .portrait} Mikael Reinholdsson is partner and co-founder of Softhouse, a consultancy company specialized in Lean/Agile software development and methodology. Mikael has many years experience as program manager for large projects including execution of large scale Agile projects using continuous delivery.<br/>&nbsp;
+
 ## Marcus Philip
 {: #mphilip}
 
