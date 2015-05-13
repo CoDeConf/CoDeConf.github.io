@@ -46,7 +46,7 @@ The automotive industry is on the verge of a fundamental revolution as the vehic
 
 ######[Andy Cars](/sthlm15/speakers#acars), Lean Ventures
 
-Lean Startup is often associated with small agile B2C startups. But what about doing Lean Startup in a big corp. B2B environment? What are some of the challenges and how does it differ?
+The challenges and possibilities when implementing Lean Startup in large companies are many. Most of us have heard of Lean Startup, some even apply it in their own startups. But how many large companies work according to Lean Startup? This presentation will cover some of the challenges large companies face as well as the results seen in some of the early pilots. This and more will be the content of the talk held by innovation consultant Andy Cars.
 
 ## Enterprise Scale Continuous Integration and Delivery: A Bunch of Problems and a Few Solutions
 {: #problems}
