@@ -12,7 +12,11 @@ _Our BoFs are facilitated by hand picked Continuous Delivery and DevOps thought 
 
 ## It's free to attend if you are signed up to the CoDeSTHLM conference - but don't stall: Seats are limited! First signed - first served!
 
-#[REGISTER HERE](http://www.meetup.com/code-u/events/222370140/){: target="_blank"}
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=mmphh1ifov6ajg4rj7elva95t5";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
+#REGISTER
+Simply by pushing this button
+<a href="http://www.meetup.com/code-u/events/222370140/" data-event="222370140" class="mu-rsvp-btn">RSVP</a>
 
 The pre-conference day is laid out as an _un-conference_ meaning that the majority of the content will we given as discussions and knowledge sharing among participants and less by actual speakers. The format goes like this:
 

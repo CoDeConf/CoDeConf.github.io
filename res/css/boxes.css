@@ -166,11 +166,11 @@ a.pushbox:hover {
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;
   border-radius: 8px;
-
-
-
 }
 
+.factbox p{
+  margin-bottom: 0px;
+}
 
 
 
