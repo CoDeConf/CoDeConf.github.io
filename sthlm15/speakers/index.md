@@ -1,5 +1,5 @@
 ---
-layout: codesthlm/default
+layout: codesthlm/program
 title: CoDe STHLM 2015 - speakers
 ---
 #{{site.hashtag}} - speakers
