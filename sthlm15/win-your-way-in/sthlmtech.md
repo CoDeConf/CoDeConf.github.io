@@ -12,7 +12,7 @@ __These are the game rules:__
 1. You shall follow [@CoDeSTHLM](http://twitter.com/codesthlm) on twitter to be eligible
 2. Tweet something related to the Continuous Delivery & DevOps conference in Stockholm
 3. Your tweet shall mention __[@CoDeSTHLM](http://twitter.com/codesthlm)__ and it shall include the hashtag __[#SthlmTech](http://twitter.com/search?q=%23sthlmtech)__
-3. Do it before Midnight on Tuesday May 18th
+3. Do it before Midnight on Tuesday May 19th
 
 __The more you tweet the more you're in the game.__
 
