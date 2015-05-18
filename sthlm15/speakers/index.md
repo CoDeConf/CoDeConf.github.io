@@ -115,3 +115,12 @@ In addition to being a Scrum trainer and coach, Cope leads and facilitates the i
 #### Speak [Analyzing Continuous Delivery](/sthlm15/program/#analyzing)
 
 ![Lars Bendix](/sthlm15/images/speakers/lbendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department’s agile activities.
+
+## Jyrki Pulliainen
+{: #jpulliainen}
+
+###### Content Engineer, Spotify
+
+#### Speak [Why test in production?](/sthlm15/program/#production)
+
+![Jyrki Pulliainen](/sthlm15/images/speakers/jpulliainen.jpg){: .portrait} Jyrki Pulliainen is a content developer at Spotify, the music streaming company. In his day to day life he works with the music pipeline getting new music into the production.

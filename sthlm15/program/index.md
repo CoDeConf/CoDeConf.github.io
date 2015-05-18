@@ -84,3 +84,10 @@ Continuous Delivery and DevOps are important pieces of the infrastructure that i
 ######[Marcus Philip](/sthlm15/speakers#mphilip), Diabol
 
 How do you apply Continuous Delivery on complex database applications? Automation and Continuous Delivery are all the rage at the moment, but not so much for databases (DB). Only half of those that use CD for their applications use it for their DB. There is a mistrust in automation for the DB. But moving towards CD for the DB can increase productivity and shorten time to market, while at the same time reduce risk. In this talk, join our journey of moving towards CD for a complex Oracle DB application, treating DB schemas as code. We will present the rationale, the concepts, the considerations, the obstacles and what remains to be improved.
+
+## Why test in production?
+{: #production}
+
+######[Jyrki Pulliainen](/sthlm15/speakers#jpulliainen), Spotify
+
+Why do you need to be able to test stuff in production, even with the best CI/CD platform there is? What kind of stuff do you just need to roll out into the open and see how it performs? This presentation will touch things like feature flags, gradual rollouts and why it is in general a good idea to be able to do testing in production!
