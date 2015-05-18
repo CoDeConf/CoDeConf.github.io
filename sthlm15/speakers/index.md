@@ -5,13 +5,24 @@ title: CoDe STHLM 2015 - speakers
 #{{site.hashtag}} - speakers
 
 ## Jan Bosch
-{: jbosch}
+{: #jbosch}
 
 ###### Professor of Software Engineering, Chalmers University of Technology
 
 #### Speak [Keynote, Using Continuous Delivery to Build Products Customers Actually Use](/sthlm15/program#usingcd)
 
 ![Jan Bosch](/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
+
+## Jim Coplien
+{: #jcoplien}
+
+###### Agile Consultant, Gertudandcope
+
+#### Speak [Keynote, Continuous Deployment: What happens afterwards](/sthlm15/program#afterwards)
+
+![Jim Coplien](/images/speakers/jcoplien.jpg){: .portrait} Jim Coplien has over 40 years of experience in software development and has been a pioneer of object-oriented design, agile development process, and software patterns. He has written books covering a versatile spectrum of disciplines ranging from organizational structure to programming. During his career he has held positions as varied as the VUB Vloebergh Endowed Chair, electronic design automation developer, Bell Labs researcher, and independent consultant.
+
+In addition to being a Scrum trainer and coach, Cope leads and facilitates the industry Scrum PLoP® community effort (scrumplop.org) to create a de facto standard of rationalized Scrum. He lives in Denmark with his wife and son. He still writes code, loving Ruby and tolerating Objective-C.
 
 ## Seb Rose
 {: #srose}

@@ -13,6 +13,15 @@ title: CoDe CPH 2014 Program
 
 Research shows that for a typical system, more than half of all the features are never used. This is a colossal waste of R&D effort and is caused by companies asking customers and users what they want. Users don't know what they want and it's the engineer's job to find out. The presentation shows how Continuous Delivery can address this challenge by providing a systematic approach to exploring a broad set of hypotheses about functionality that might add value for users at different stages of development. The presentation introduces the notion of Innovation Experiment Systems as a systematic method for optimizing the user experience of existing features, developing new features as well as developing new products. Continuous Delivery is discussed as it provides the core enabling technology for successfully implementing this approach. The presentation is based on data from eight industrial cases and stresses the importance of speed and rapid iterations in development. The presentation uses numerous examples from industry are used to illustrate the concepts.
 
+## Continuous Deployment: What happens afterwards
+{: #afterwards}
+
+#### Keynote
+
+###### [Jim Coplien](/sthlm15/speakers#jcoplien), Gertudandcope
+
+Continuous deployment helps the enterprise finish its work and ready the product for delivery into the client’s hands at a moment’s notice. Technology can triumph over uncertainty. But the bigger challenges lie in managing the market expectations, and those of the people outside the enterprise — the end users. It’s less about being always ready to synchronise with their readiness rather than yours. Software is never just a product, and delivers value only when running and providing a service. So it’s not really about either the product nor about delivery. It must be a living product. This means that the product isn’t at the end of the deployment loop but that it is in the loop. Continuous service doesn’t end with delivery, but starts there.
+
 ## Estimates and Continuous Delivery
 {: #estimates}
 
