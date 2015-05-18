@@ -123,4 +123,4 @@ In addition to being a Scrum trainer and coach, Cope leads and facilitates the i
 
 #### Speak [Why test in production?](/sthlm15/program/#production)
 
-![Jyrki Pulliainen](/sthlm15/images/speakers/jpulliainen.jpg){: .portrait} Jyrki Pulliainen is a content developer at Spotify, the music streaming company. In his day to day life he works with the music pipeline getting new music into the production.
+![Jyrki Pulliainen](/sthlm15/images/speakers/jpulliainen.jpg){: .portrait} Jyrki Pulliainen is a software engineer with experience from both small startups and the bigger companies. Currently he is working as a content engineer at Spotify. His on-going passion has been Python and the build tooling for it, including continuous delivery pipelines and automated testing setups. Nowadays he juggles both Python and Java with the help of bunch of different CD/CI tools.
