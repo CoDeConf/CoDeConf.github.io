@@ -14,7 +14,7 @@ title: Sponsors
 
 [__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/sthlm15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
 
-[__T2Data is community and drink-up sponsor__<br/>Provider of Continuous Delivery tools and services.](/sthlm15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
+[__T2Data is community and drink-up sponsor__ Provider of Continuous Delivery tools and services.](/sthlm15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
 
 [__Diabol is silver sponsor__<br/>Specialized in Agile software development and Continuous Delivery.](/sthlm15/sponsors/diabol.html){: .sponsorbox .silver #diabol style="vertical-align:middle"}
 
