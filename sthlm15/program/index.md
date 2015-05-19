@@ -20,7 +20,7 @@ Research shows that for a typical system, more than half of all the features are
 
 ###### [Jim Coplien](/sthlm15/speakers#jcoplien), Gertudandcope
 
-Continuous deployment helps the enterprise finish its work and ready the product for delivery into the client’s hands at a moment’s notice. Technology can triumph over uncertainty. But the bigger challenges lie in managing the market expectations, and those of the people outside the enterprise — the end users. It’s less about being always ready to synchronise with their readiness rather than yours. Software is never just a product, and delivers value only when running and providing a service. So it’s not really about either the product nor about delivery. It must be a living product. This means that the product isn’t at the end of the deployment loop but that it is in the loop. Continuous service doesn’t end with delivery, but starts there.
+Continuous deployment helps the enterprise finish its work and ready the product for delivery into the client’s hands at a moment’s notice. Technology can triumph over uncertainty. But the bigger challenges lie in managing the market expectations, and those of the people outside the enterprise — the end users. It’s less about being always ready to synchronise with their readiness rather than theirs. Software is never just a product, and delivers value only when running and providing a service. So it’s not really about either the product nor about delivery. It must be a living product. This means that the product isn’t at the end of the deployment loop but that it is in the loop. Continuous service doesn’t end with delivery, but starts there.
 
 ## Estimates and Continuous Delivery
 {: #estimates}
