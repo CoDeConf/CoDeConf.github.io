@@ -24,7 +24,8 @@ title: CoDe & DevOps Conference
 
   <timeslot>
     <start>09:30</start>
-    <point><strong>KEYNOTE<br/>Using Continuous Delivery to Build Products Customers Actually Use</strong>
+    <point><strong>KEYNOTE<br/></strong>
+    <a href="/sthlm15/program/#usingcd"><strong>Using Continuous Delivery to Build Products Customers Actually Use</strong></a>
     <em><br/>Jan Bosch, Professor of Software Engineering,<br/> Chalmers University of Technology</em>
     </point>
   </timeslot>
@@ -48,13 +49,13 @@ title: CoDe & DevOps Conference
     <timeslot>
       <start>10:35</start>
       <point id="two-tracks">
-        <strong>Continuous Integration as a step in the Stairway to Heaven Vision</strong>
+      <a href="/sthlm15/program/#stairway"><strong>Continuous Integration as a step in the Stairway to Heaven Vision</strong></a>
         <br /><em>Peter Thorngren,
   Vehicle Engineering Technology Specialist<br/> Volvo GTT AB</em><br/>
       </point>
 
       <point id="two-tracks">
-        <strong>Estimates and Continuous Delivery</strong>
+      <a href="/sthlm15/program/#estimates"> <strong>Estimates and Continuous Delivery</strong></a>
         <br/>&nbsp;<br/><em>Seb Rose, Consultant & Coach, <br/>Claysnow</em><br/>&nbsp;<br/>  
       </point>
 
@@ -70,12 +71,12 @@ title: CoDe & DevOps Conference
     <timeslot>
       <start>11:15</start>
       <point id="two-tracks">
-        <strong>NoOps <br/>- beyond the DevOps frontier!</strong>
+      <a href="/sthlm15/program/#noops"><strong>NoOps <br/>- beyond the DevOps frontier!</strong></a>
         <br/>&nbsp;<br/><em>Lars Kruse, Continuous Delivery Consultant, Praqma</em>
       </point>
 
       <point id="two-tracks">
-        <strong>Lean Startup for B2B</strong><br/>&nbsp;<br/>
+      <a href="/sthlm15/program/#lean"> <strong>Lean Startup for B2B</strong><br/>&nbsp;<br/></a>
         <em>Andy Cars, <br/>Founder Seedcap and Lean Ventures</em><br/>&nbsp;
       </point>
 
@@ -92,12 +93,12 @@ title: CoDe & DevOps Conference
         <timeslot>
           <start>12:45</start>
           <point id="two-tracks">
-            <strong>Enterprise Scale CI and CD: A Bunch of Problems and a Few Solutions</strong><br/>&nbsp;<br/>
+          <a href="/sthlm15/program/#problems"><strong>Enterprise Scale CI and CD: A Bunch of Problems and a Few Solutions</strong></a><br/>&nbsp;<br/>
             <em>Daniel Ståhl, Continuous Integration Manager, Ericsson AB</em>
           </point>
 
           <point id="two-tracks">
-            <strong>Continuous Delivery for Databases</strong><br/>&nbsp;<br/>
+          <a href="/sthlm15/program/#databases"><strong>Continuous Delivery for Databases</strong></a><br/>&nbsp;<br/>
             <em>Marcus Philip, Consultant, <br/>Diabol</em><br/>&nbsp;
           </point>
 
@@ -113,12 +114,12 @@ title: CoDe & DevOps Conference
         <timeslot>
           <start>13:25</start>
           <point id="two-tracks">
-            <strong>Why Test in Production?</strong><br/>&nbsp;<br/>
+          <a href="/sthlm15/program/#production"><strong>Why Test in Production?</strong></a><br/>&nbsp;<br/>
             <em>Jyrki Pulliainen, Content Engineer, <br/>Spotify</em><br/>&nbsp;
           </point>
 
           <point id="two-tracks">
-            <strong>Boosting your agile mindset with Continuous Delivery</strong><br/>&nbsp;<br/>
+          <a href="/sthlm15/program/#boosting"><strong>Boosting your agile mindset with Continuous Delivery</strong></a><br/>&nbsp;<br/>
             <em>Christian / Mikael<br/>Softhouse</em>
           </point>
 
@@ -134,12 +135,12 @@ title: CoDe & DevOps Conference
         <timeslot>
           <start>14:55</start>
           <point id="two-tracks">
-            <strong>Operational Excellence in Multi-disciplinary Product Development</strong><br/>
+          <a href="/sthlm15/program/#excellence"><strong>Operational Excellence in Multi-disciplinary Product Development</strong></a><br/>
             </em>Dag Arne Brænd,<br/> Chief Operating Officer<br/> Novelda</em>
           </point>
 
           <point id="two-tracks">
-            <strong>Analyzing Continuous Delivery</strong><br/>&nbsp;<br/>
+          <a href="/sthlm15/program/#analyzing"><strong>Analyzing Continuous Delivery</strong></a><br/>&nbsp;<br/>
             <em>Lars Bendix,<br/> Professor of software engineering,<br/> Lund University</em>
           </point>
 
@@ -164,7 +165,8 @@ title: CoDe & DevOps Conference
   <timeslot>
     <start>15:45</start>
     <point>
-      <strong>KEYNOTE<br/> Continuous Deployment: What happens afterwards</strong><br/>
+      <strong>KEYNOTE<br/> </strong>
+      <a href="/sthlm15/program/#afterwards"><strong>Continuous Deployment: What happens afterwards</strong></a><br/>
       <em> Jim Coplien,<br/> Agile Consultant,  </em>
     </point>
   </timeslot>
@@ -172,7 +174,7 @@ title: CoDe & DevOps Conference
   <timeslot>
     <start>16:30</start>
     <point>
-      <strong>Panel Discussion</strong>
+    <a href="/sthlm15/program/#usingcd"><strong>Panel Discussion</strong></a>
     </point>
   </timeslot>
 
