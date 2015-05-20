@@ -194,6 +194,6 @@ title: CoDe & DevOps Conference
   <timeslot>
     <start>17:15</start>
     <point>
-      <strong>Drink-up</strong>
+      <strong>Drink-up<br/>Drinks are sponsored by <a href="/sthlm15/sponsors/t2data.html">T2Data</a></strong>
     </point>
   </timeslot>
