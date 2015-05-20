@@ -1,168 +1,199 @@
 ---
-layout: agenda
+layout: codesthlm/agenda
 title: CoDe & DevOps Conference
 ---
-#{{site.name}}
+#Continuous Delivery & DevOps Conference Stockholm-2015
+<agenda>
+  <timeslot>
+    <start>&nbsp;</start>
+    <point class="header">
+      <strong>CoDeSTHLM Conference Agenda</strong><br/>
+      Stockholm June 2nd
+    </point>
+  </timeslot>
 
-<div class="container">
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Welcome</div>
-  </div>
+  <timeslot>
+    <start>8:00</start>
+    <point><strong>Registration &amp; Light Breakfast</strong><br/></point>
+  </timeslot>
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">8:00</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Registration &amp; Light Breakfast</strong></div>
-  </div>
+  <timeslot>
+    <start>09:00</start>
+    <point><strong>Welcome &amp; Announcements</strong></point>
+  </timeslot>
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:00</div>
-    <div class="agenda-column agenda-1col agenda-item">
-      <strong>Welcome &amp; Announcements</strong><br /><em></em>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:10</div>
-    <div class="agenda-column agenda-1col agenda-item">
-      <a href="{{site.root}}/program/#devops">Keynote: DevOps, Cloud and Your SDLC</a><br />
-      <em>Andi Mann, CA Technologies</em>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">09:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Branch Track - 45 Minutes per Session</div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:10</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
-    </div>
-
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time">&nbsp;</div>
-  <div class="agenda-column agenda-1col agenda-header-item">30 Minutes Per Session</div>
-</div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-    <a href="{{site.root}}/program#embedded">Implementing Continuous Delivery in Practice for Embedded Devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="{{site.root}}/program#sdlc">Robust Functional- and Integration Testing Earlier in
- the SDLC is Mandatory When Introducing Continuous Delivery</a><br/><em>Allan Tange, Testhuset</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:35</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Lunch</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:20</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
-    </div>
-
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:50</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:00</div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="{{site.root}}/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="{{site.root}}/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:30</div>
-  <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:40</div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="{{site.root}}/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="{{site.root}}/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
-</div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:10</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Exhibition</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 15 minutes per talk</div>
-  </div>  
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#howto">How to Find and Grow Your Own Experts..</a><br /><em>Paul Speers, Speerhead</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:10</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Swap speaker</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:15</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#agility">DevOps Agility: Lifecycle Reporting & Dashboards</a><br/><em>Florin Iten, QACube</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#xrayed">Continuous Delivery X-rayed<br /></a><em>Lars Bendix, Lund University</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:30</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Merge tracks</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">15:40</div>
-  <div class="agenda-column agenda-1col agenda-item">
-    <a href="{{site.root}}/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
-    <em>Jan Bosch, Professor of Software Engineering, Chalmers University of Technology</em>
-  </div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:25</div>
-
-  <div class="agenda-column agenda-1col agenda-item"><a href="{{site.root}}/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codecph</a> during the day</em></div>
+  <timeslot>
+    <start>09:30</start>
+    <point><strong>KEYNOTE<br/>Using Continuous Delivery to Build Products Customers Actually Use</strong>
+    <em><br/>Jan Bosch, Professor of Software Engineering,<br/> Chalmers University of Technology</em>
+    </point>
+  </timeslot>
 
 
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:55</div>
-  <div class="agenda-column agenda-1col agenda-item"><strong>Wrap Up</strong></div>
-</div>
+  <timeslot>
+    <start>10:15</start>
+    <point class="break">
+    <strong>Break</strong>
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>&nbsp;</start>
+    <point class="header">
+      Branch out
+    </point>
+  </timeslot>
+
+
+    <timeslot>
+      <start>10:35</start>
+      <point id="two-tracks">
+        <strong>Continuous Integration as a step in the Stairway to Heaven Vision</strong>
+        <br /><em>Peter Thorngren,
+  Vehicle Engineering Technology Specialist<br/> Volvo GTT AB</em><br/>
+      </point>
+
+      <point id="two-tracks">
+        <strong>Estimates and Continuous Delivery</strong>
+        <br/>&nbsp;<br/><em>Seb Rose, Consultant & Coach, <br/>Claysnow</em><br/>&nbsp;<br/>  
+      </point>
+
+    </timeslot>
+
+    <timeslot>
+      <start>11:05</start>
+      <point class="break">
+      <strong>Swap Track</strong>
+      </point>
+    </timeslot>
+
+    <timeslot>
+      <start>11:15</start>
+      <point id="two-tracks">
+        <strong>NoOps <br/>- beyond the DevOps frontier!</strong>
+        <br/>&nbsp;<br/><em>Lars Kruse, Continuous Delivery Consultant, Praqma</em>
+      </point>
+
+      <point id="two-tracks">
+        <strong>Lean Startup for B2B</strong><br/>&nbsp;<br/>
+        <em>Andy Cars, <br/>Founder Seedcap and Lean Ventures</em><br/>&nbsp;
+      </point>
+
+    </timeslot>
+
+
+        <timeslot>
+          <start>11:45</start>
+          <point class="break">
+          <strong>Lunchbuffet</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>12:45</start>
+          <point id="two-tracks">
+            <strong>Enterprise Scale CI and CD: A Bunch of Problems and a Few Solutions</strong><br/>&nbsp;<br/>
+            <em>Daniel Ståhl, Continuous Integration Manager, Ericsson AB</em>
+          </point>
+
+          <point id="two-tracks">
+            <strong>Continuous Delivery for Databases</strong><br/>&nbsp;<br/>
+            <em>Marcus Philip, Consultant, <br/>Diabol</em><br/>&nbsp;
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>13:15</start>
+          <point class="break">
+          <strong>Swap Track</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>13:25</start>
+          <point id="two-tracks">
+            <strong>Why Test in Production?</strong><br/>&nbsp;<br/>
+            <em>Jyrki Pulliainen, Content Engineer, <br/>Spotify</em><br/>&nbsp;
+          </point>
+
+          <point id="two-tracks">
+            <strong>Boosting your agile mindset with Continuous Delivery</strong><br/>&nbsp;<br/>
+            <em>Christian / Mikael<br/>Softhouse</em>
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>13:55</start>
+          <point class="break">
+          <strong>Exhibition/Coffe &amp; Cake</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>14:55</start>
+          <point id="two-tracks">
+            <strong>Operational Excellence in Multi-disciplinary Product Development</strong><br/>
+            </em>Dag Arne Brænd,<br/> Chief Operating Officer<br/> Novelda</em>
+          </point>
+
+          <point id="two-tracks">
+            <strong>Analyzing Continuous Delivery</strong><br/>&nbsp;<br/>
+            <em>Lars Bendix,<br/> Professor of software engineering,<br/> Lund University</em>
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>15:25</start>
+          <point class="break">
+          <strong>Break</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>&nbsp;</start>
+          <point class="header">
+            Merge
+          </point>
+        </timeslot>
+
+
+
+  <timeslot>
+    <start>15:45</start>
+    <point>
+      <strong>KEYNOTE<br/> Continuous Deployment: What happens afterwards</strong><br/>
+      <em> Jim Coplien,<br/> Agile Consultant,  </em>
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>16:30</start>
+    <point>
+      <strong>Panel Discussion</strong>
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>17:00</start>
+    <point>
+      <strong>Wrap Up</strong>
+    </point>
+  </timeslot>
+
+
+  <timeslot>
+    <start>&nbsp;</start>
+    <point class="header">
+      STAY!  ...for a drink - it ends when it ends
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>17:15</start>
+    <point>
+      <strong>Drink-up</strong>
+    </point>
+  </timeslot>
