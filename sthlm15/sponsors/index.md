@@ -12,6 +12,8 @@ title: Sponsors
 
 [__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.](/sthlm15/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
+[__Container Solutions is gold sponsor__<br/>Specialised in advanced technologies, including Docker and Mesos.](/sthlm15/sponsors/container-solutions.html){: .sponsorbox .gold #container style="vertical-align:middle"}
+
 [__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/sthlm15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
 
 [__T2Data is community and drink-up sponsor__ Provider of Continuous Delivery tools and services.](/sthlm15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
