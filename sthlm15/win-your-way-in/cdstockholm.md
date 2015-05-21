@@ -5,7 +5,7 @@ title: Win your way in
 
 # Win a free ticket to the conference
 
-## The @cdstockholmH raffle
+## The @cdstockholm raffle
 
 __These are the game rules:__
 
