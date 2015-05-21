@@ -144,16 +144,14 @@ header a.menu:hover {
   color: #fff;
 }
 
-
 .inner {
   position: relative;
   width: 940px;
   margin: 0 auto;
 }
 
-.darkbox {
 
-.inverted{
+.inverted {
   background:#4b4b4b;
   color:#FFFFFF;
   padding:2px;
