@@ -348,11 +348,16 @@ a {
    padding-right:  5px;
    padding-bottom: 5px;
    font-size: 83%;
+	 display: block;
 
 }
 
 .stdright, .stdleft, .stdcenter {
    width:300px;
+}
+
+.stdright#small, .stdleft#small, .stdcenter#small {
+   width:150px;
 }
 
 
