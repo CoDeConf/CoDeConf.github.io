@@ -29,10 +29,11 @@ The pre-conference day is laid out as an _un-conference_ meaning that the majori
 * To wrap up the day we have invited a special guest speaker to light you up before we invite you all to come and have a beer and a bite to eat and the pre-conference [meetup](http://www.meetup.com/code-u/events/222344305/).
 
 ---
-
-__Refreshments during registration, snacks and coffee during breaks are all complemantary - sponsored by Josra - the [Joint Open Source Roadmap Alliance](www.josra.org) The meal and drinks at the pub in the eventing are at your own expense.__
+__Refreshments during registration, snacks and coffee during breaks and are all complementary - sponsored by [Container Solutions](/sthlm15/sponsors/container-solutions.html). The meal and drinks at the pub in the evening are at your own expense.__
+![Container Solutions](/sponsors/logos/container-solutions_4x2.png){: .stdcenter #small}
 
 ---
+
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
@@ -123,8 +124,8 @@ __Refreshments during registration, snacks and coffee during breaks are all comp
   <timeslot>
     <start>15:55</start>
     <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock D
+      <strong><a href="#branch">To Branch or Not to Branch</a></strong>
+      <br/>Facilitator: Lars Kruse
     </point>
     <point id="three-tracks">
       <strong>Birds of a Feather</strong>
@@ -146,7 +147,8 @@ __Refreshments during registration, snacks and coffee during breaks are all comp
   <timeslot>
     <start>16:55</start>
     <point>
-      <strong>Speak by special guest</strong>
+      <a href="#campfire"><strong>Glorious Failures during Swap Week</strong>
+      </a><br/>Speak by special guest Shay Weiss, Spotify
     </point>
   </timeslot>
 
@@ -166,193 +168,35 @@ __Refreshments during registration, snacks and coffee during breaks are all comp
     <start>18:00</start>
     <point>
       <strong>Bar meal + Drink-up</strong><br/>
-      <a href="http://www.meetup.com/code-u/events/222344305/" target="_blank">The official pre-conference drink-up</a>
+      <a href="http://www.meetup.com/code-u/events/222344305/" target="\_blank">The official pre-conference drink-up</a>
     </point>
   </timeslot>
 
   <timeslot>
     <start>&nbsp;</start>
     <point class="header">
-      <strong>It ends when it ends!<br/>Typically people hang around until 9 or 10 pm
+      <strong>It ends when it ends!<br/>Typically people hang around until 9 or 10 pm</strong>
     </point>
   </timeslot>
 
 </agenda>
 
+---
 
-<!--agenda>
-  <timeslot>
-    <start>&nbsp;</start>
-    <point class="header">
-      <strong>CoDeSTHLM pre-conference Birds of a Feather sessions</strong><br/>
-      Stockholm June 1st
-    </point>
-  </timeslot>
+##To Branch Not to Branch
+{: #branch}
+<<<<<<< HEAD
 
-  <timeslot>
-    <start>11:30</start>
-    <point>Sandwiches and registrations</point>
-  </timeslot>
+_Facilitated by:_{: .inverted} Lars Kruse, Praqma.
 
-  <timeslot>
-    <start>12:30</start>
-    <point><strong>Welcome</strong><br/>Present agenda for the day</point>
-  </timeslot>
+Following up on a heated discussion that ignited at the Continuous Delivery & DevOps conference in Oslo in April: Can branching in a version control system be compliant with Continuos Integration and Continuos Delivery at all? Lars says _"Yes! - and it can even be automated"_ but in a [Google hangout](https://plus.google.com/u/0/hangouts/onair/watch?hid=hoaevent/c1mbqj6b93o6stcbl2qkdt8udmc&ytl=30yN4hefrt0&wpsrc=yta){: target="\_blank"} we had with Dave Farley, Steve Schmidt and Olve Maudal they all say _"No! - Only trunk based development is compliant with Continuous ...what ever - and even pretested intagrations are incompatible with CI"_. Take a dive into the heat in the blog post "[To Branch or Not to Branch](www.josra.org/blog/to-branch-or-not-to-branch.html){: target="\_blank"}"
 
-  <timeslot>
-    <start>12:40</start>
-    <point>
-      <strong>Free riders vs innovators</strong><br/>
-      Joint Open Source Roadmap Alliance
-    </point>
-  </timeslot>
 
-  <timeslot>
-    <start>13:10</start>
-    <point class="break">
-      Swap speaker
-    </point>
-  </timeslot>
+## Glorious Failures during Swap Week
+{: #campfire}
 
-  <timeslot>
-    <start>&nbsp;</start>
-    <point class="header">
-      &nbsp;
-    </point>
-  </timeslot>
+_Speaker:_{: .inverted} Shay Weiss, Spotify
 
-  <timeslot>
-    <start>13:20</start>
-    <point>
-      <strong>Three lightning talks</strong><br/>
-      Short ~5 minute presentations of the BoF topics
-    </point>
-  </timeslot>
+Come and sit by the fire, fellow devopers, and I'll tell you all about a crazy habit called "Swap Week" at my squad. During squad weeks we take all our perfectly functional, stable, shiny, development-critical production infrastructure servers and shut them off in favor of newly spawned machines. Basically, we risk grinding all of the development infrastructure to halt (and even lose data), lose lots of money for the company, miss deadlines for the business and make sure we're all fired.
 
-  <timeslot>
-    <start>13:40</start>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock A
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock B
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock C
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>14:25</start>
-    <point class="break">
-      Break
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>&nbsp;</start>
-    <point class="header">
-      &nbsp;
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>14:40</start>
-    <point>
-      <strong>Three more lightning talks</strong><br/>
-      Short ~5 minute presentations of the BoF topics
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>15:00</start>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock D
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock E
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock F
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>14:25</start>
-    <point class="break">
-      Break
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>&nbsp;</start>
-    <point class="header">
-      &nbsp;
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>16:00</start>
-    <point>
-      <strong>Three more lightning talks</strong><br/>
-      Short ~5 minute presentations of the BoF topics
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>16:20</start>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock G
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock H
-    </point>
-    <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock I
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>17:05</start>
-    <point class="break">
-      Break
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>17:20</start>
-    <point>
-      <strong>Speak by special guest</strong>
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>17:50</start>
-    <point>
-      <strong>Wrap-up</strong>
-    </point>
-  </timeslot>
-
-  <timeslot>
-    <start>18:00</start>
-    <point class="break">Walk to the pub</point>
-  </timeslot>
-
-  <timeslot>
-    <start>18:15</start>
-    <point>
-      <strong>Burger + Drink-up</strong><br/>
-      <a href="http://www.meetup.com/code-u/events/222344305/" target="_blank">The official pre-conference drink-up</a>
-    </point>
-  </timeslot>
-
-</agenda-->
+I'm gonna reveal to you why we pursue such madness, explain how it's done in a way that is actually beneficial, tell you how we gloriously failed (and thus dubbed Swap Week as a huge success) and, if you promise not to tell anyone, let you in on a few close-calls we had ;)
