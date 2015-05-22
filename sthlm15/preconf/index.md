@@ -183,7 +183,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 ---
 
-##Why delivery pipelines so often are red and what to do about it
+##Why delivery pipelines so often are red and what to do about it.
 {: #pipelines}
 
 _Facilitated by:_{: .inverted} Andrey Devyatkin, Ericsson AB.
