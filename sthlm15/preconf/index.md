@@ -147,7 +147,8 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
   <timeslot>
     <start>16:55</start>
     <point>
-      <strong>Speak by special guest</strong>
+      <a href="#campfire"><strong>Glorious Failures during Swap Week</strong>
+      </a><br/>Speak by special guest Shay Weiss, Spotify
     </point>
   </timeslot>
 
@@ -184,7 +185,18 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 ##To Branch Not to Branch
 {: #branch}
+<<<<<<< HEAD
 
 _Facilitated by:_{: .inverted} Lars Kruse, Praqma.
 
-Following up on a heated discussion that ignited at the Continuous Delivery & DevOps conference in Oslo in April: Can branching in a version control system be compliant with Continuos Integration and Continuos Delivery at all? Lars says _"Yes! - and it can even be automated"_ but in a {Google hangout](https://plus.google.com/u/0/hangouts/onair/watch?hid=hoaevent/c1mbqj6b93o6stcbl2qkdt8udmc&ytl=30yN4hefrt0&wpsrc=yta){: target="\_blank"} we had with Dave Farley, Steve Schmidt and Olve Maudal they all say _"No! - Only trunk based development is compliant with Continuous ...what ever - and even pretested intagrations are incompatible with CI"_. Take a dive into the heat in the blog post "[To Branch or Not to Branch](www.josra.org/blog/to-branch-or-not-to-branch.html){: target="\_blank"}"
+Following up on a heated discussion that ignited at the Continuous Delivery & DevOps conference in Oslo in April: Can branching in a version control system be compliant with Continuos Integration and Continuos Delivery at all? Lars says _"Yes! - and it can even be automated"_ but in a [Google hangout](https://plus.google.com/u/0/hangouts/onair/watch?hid=hoaevent/c1mbqj6b93o6stcbl2qkdt8udmc&ytl=30yN4hefrt0&wpsrc=yta){: target="\_blank"} we had with Dave Farley, Steve Schmidt and Olve Maudal they all say _"No! - Only trunk based development is compliant with Continuous ...what ever - and even pretested intagrations are incompatible with CI"_. Take a dive into the heat in the blog post "[To Branch or Not to Branch](www.josra.org/blog/to-branch-or-not-to-branch.html){: target="\_blank"}"
+
+
+## Glorious Failures during Swap Week
+{: #campfire}
+
+_Speaker:_{: .inverted} Shay Weiss, Spotify
+
+Come and sit by the fire, fellow devopers, and I'll tell you all about a crazy habit called "Swap Week" at my squad. During squad weeks we take all our perfectly functional, stable, shiny, development-critical production infrastructure servers and shut them off in favor of newly spawned machines. Basically, we risk grinding all of the development infrastructure to halt (and even lose data), lose lots of money for the company, miss deadlines for the business and make sure we're all fired.
+
+I'm gonna reveal to you why we pursue such madness, explain how it's done in a way that is actually beneficial, tell you how we gloriously failed (and thus dubbed Swap Week as a huge success) and, if you promise not to tell anyone, let you in on a few close-calls we had ;)
