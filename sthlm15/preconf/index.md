@@ -193,6 +193,7 @@ This talk is about how stability of the delivery pipeline will help you prevent 
 
 ##To Branch Not to Branch
 {: #branch}
+<<<<<<< HEAD
 
 _Facilitated by:_{: .inverted} Lars Kruse, Praqma.
 
