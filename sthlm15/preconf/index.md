@@ -188,7 +188,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 _Facilitated by:_{: .inverted} Andrey Devyatkin, Ericsson AB.
 
-Teams that work with CI automation and operations are quite often associated with firefighter teams as there is always some small issue in the machinery, source code, test case or script that breaks your delivery flow when you least expect it. Hell breaks loose and all men are called on deck to fix the issue and restore the delivery flow so the work can continue. When one problem is fixed another is waiting just around the corner.  Sounds familiar?
+Teams working with CI automation and operations are quite often associated with firefighter teams as there is always some small issue in the machinery, source code, test case or script that breaks your delivery flow when you least expect it. Hell breaks loose and all men are called on deck to fix the issue and restore the delivery flow so the work can continue. When one problem is fixed another is waiting just around the corner.  Sounds familiar?
 This talk is about how stability of the delivery pipeline will help you prevent firefighting and start benefitting from your automation solutions.
 
 ##To Branch Not to Branch
