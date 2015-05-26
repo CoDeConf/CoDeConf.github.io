@@ -29,4 +29,4 @@ The BoF will run for 45 minutes and you will facilitate it. So consider to prepa
 
 A BoF where everyone agrees tends to be tame. You wanna start a fight, solve a problem, dig into nitty gritty details, create a sense of urgency.
 
-Please submit your title and abstract to [events@praqma-net](events@praqma-net)
+Please submit your title and abstract to [events@praqma-net](mailto:events@praqma-net)
