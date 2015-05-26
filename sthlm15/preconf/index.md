@@ -10,7 +10,7 @@ _Make the most of your trip to Stockholm_{: .inverted} __by taking advantage of 
 
 _Our BoFs are facilitated by hand picked Continuous Delivery and DevOps thought leaders_{: .inverted}
 
-## It's free to attend if you are signed up to the CoDeSTHLM conference - but don't stall: Seats are limited! First signed - first served!
+## It's free to attend - but don't stall: Seats are limited! First signed - first served!
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=mmphh1ifov6ajg4rj7elva95t5";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
@@ -188,7 +188,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 _Facilitated by:_{: .inverted} Andrey Devyatkin, Ericsson AB.
 
-Teams that work with CI automation and operations are quite often associated with firefighter teams as there is always some small issue in the machinery, source code, test case or script that breaks your delivery flow when you least expect it. Hell breaks loose and all men are called on deck to fix the issue and restore the delivery flow so the work can continue. When one problem is fixed another is waiting just around the corner.  Sounds familiar?
+Teams working with CI automation and operations are quite often associated with firefighter teams as there is always some small issue in the machinery, source code, test case or script that breaks your delivery flow when you least expect it. Hell breaks loose and all men are called on deck to fix the issue and restore the delivery flow so the work can continue. When one problem is fixed another is waiting just around the corner.  Sounds familiar?
 This talk is about how stability of the delivery pipeline will help you prevent firefighting and start benefitting from your automation solutions.
 
 ##To Branch Not to Branch
