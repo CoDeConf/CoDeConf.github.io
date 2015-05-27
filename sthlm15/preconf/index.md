@@ -86,11 +86,11 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
   <timeslot>
     <start>14:35</start>
     <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock A
+      <strong><a href="#deliver">Deliver or die</a><br/>&nbsp;</strong>
+      <br/>Facilitator:<br/> Johan Kardell
     </point>
     <point id="three-tracks">
-      <strong><a href="#pipelines">Why delivery pipelines so often are red and what to do about it</a></strong>
+      <strong><a href="#pipelines">Why are delivery pipelines so often in red?</a></strong>
       <br/>Facilitator: Andrey Devyatkin
     </point>
     <point id="three-tracks">
@@ -125,11 +125,11 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
     <start>15:55</start>
     <point id="three-tracks">
       <strong><a href="#branch">To Branch or Not to Branch</a></strong>
-      <br/>Facilitator: Lars Kruse
+      <br/>Facilitator:<br/> Lars Kruse
     </point>
     <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock E
+      <strong><a href="#spread">How do you spread CD in an organization?</a></strong>
+      <br/>Facilitator:<br/> Gustav Rånby
     </point>
     <point id="three-tracks">
       <strong>Birds of a Feather</strong>
@@ -148,7 +148,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
     <start>16:55</start>
     <point>
       <a href="#campfire"><strong>Glorious Failures during Swap Week</strong>
-      </a><br/>Speak by special guest Shay Weiss, Spotify
+      </a><br/>Speak by special guest:<br/> Shay Weiss, Spotify
     </point>
   </timeslot>
 
@@ -183,21 +183,38 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 ---
 
-##Why delivery pipelines so often are red and what to do about it.
+##Why are delivery pipelines so often in are?
 {: #pipelines}
 
 _Facilitated by:_{: .inverted} Andrey Devyatkin, Ericsson AB.
 
 Teams working with CI automation and operations are quite often associated with firefighter teams as there is always some small issue in the machinery, source code, test case or script that breaks your delivery flow when you least expect it. Hell breaks loose and all men are called on deck to fix the issue and restore the delivery flow so the work can continue. When one problem is fixed another is waiting just around the corner.  Sounds familiar?
-This talk is about how stability of the delivery pipeline will help you prevent firefighting and start benefitting from your automation solutions.
+This lightning talk and BoF is about how stability of the delivery pipeline will help you prevent firefighting and start benefitting from your automation solutions.
+
+## Deliver or die
+{: #deliver}
+
+_Facilitated by:_{: .inverted} Johan Kardell, Softhouse
+
+Sometimes we find ourselves in projects with modern technologies, serious automated testing, automated deliveries and working feedback loops. Sometimes we find ourselves in projects with fewer of those qualities. Sometimes we even stumble upon projects with none of those qualities.
+
+When we find ourselves knee deep in ancient legacy systems and the market demands higher quality at a higher pace, what do we do? Total rewrite is not an option. Feature freeze is not an option. There are no money to hire a new team…
+
+This lightning talk and BoF is about quality assurance in legacy systems, and the reality is that we have to deliver or die.
 
 ##To Branch Not to Branch
 {: #branch}
-<<<<<<< HEAD
 
 _Facilitated by:_{: .inverted} Lars Kruse, Praqma.
 
 Following up on a heated discussion that ignited at the Continuous Delivery & DevOps conference in Oslo in April: Can branching in a version control system be compliant with Continuos Integration and Continuos Delivery at all? Lars says _"Yes! - and it can even be automated"_ but in a [Google hangout](https://plus.google.com/u/0/hangouts/onair/watch?hid=hoaevent/c1mbqj6b93o6stcbl2qkdt8udmc&ytl=30yN4hefrt0&wpsrc=yta){: target="\_blank"} we had with Dave Farley, Steve Schmidt and Olve Maudal they all say _"No! - Only trunk based development is compliant with Continuous ...what ever - and even pretested intagrations are incompatible with CI"_. Take a dive into the heat in the blog post "[To Branch or Not to Branch](www.josra.org/blog/to-branch-or-not-to-branch.html){: target="\_blank"}"
+
+## How do you spread CD in an organization?
+{: #spread}
+
+_Facilitated by:_{: .inverted} Gustav Rånby, Diabol.
+
+The problem with spreading CD in an organization is that it has many aspects (TDD, automated testing, automated deployments, culture) and it affects several roles. Should you start automating your tests or should you start automating your deployments? Does automation drive culture or do you need good culture to maintain a working build pipeline? There are some common barriers to CD like starting to release directly from the main branch, release often to production or dividing the system into smaller components. It's like a leap of fait going from one paradigm to another - how do you convince others to make that leap? You are already on the inside and you have proved that it works so this should be easy, right?
 
 
 ## Glorious Failures during Swap Week
