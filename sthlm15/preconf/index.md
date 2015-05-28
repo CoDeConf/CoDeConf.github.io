@@ -91,11 +91,11 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
     </point>
     <point id="three-tracks">
       <strong><a href="#pipelines">Why are delivery pipelines so often in red?</a></strong>
-      <br/>Facilitator: Andrey Devyatkin
+      <br/>Facilitator:<br/> Andrey Devyatkin
     </point>
     <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock C
+      <strong><a href="#nothing">Hosting cost for Nothing</a><br/>&nbsp;</strong>
+      <br/>Facilitator:<br/>Tom Benedictus
     </point>
   </timeslot>
 
@@ -215,6 +215,13 @@ Following up on a heated discussion that ignited at the Continuous Delivery & De
 _Facilitated by:_{: .inverted} Gustav Rånby, Diabol.
 
 The problem with spreading CD in an organization is that it has many aspects (TDD, automated testing, automated deployments, culture) and it affects several roles. Should you start automating your tests or should you start automating your deployments? Does automation drive culture or do you need good culture to maintain a working build pipeline? There are some common barriers to CD like starting to release directly from the main branch, release often to production or dividing the system into smaller components. It's like a leap of fait going from one paradigm to another - how do you convince others to make that leap? You are already on the inside and you have proved that it works so this should be easy, right?
+
+##Hosting cost for Nothing
+{: #nothing}
+
+_Facilitated by:_{: .inverted} Tom Benedictus, Container Solutions.
+
+As long as a project can support a business case with a plus on the bottom line it has been accepted that hosting partners dig well into the profit. But what happens when development cost drops with higher competition and operations keeps coming with bills for three years of ownership in the region of millions? Will operations learn, will they be replaced, or will entire businesses fail due to competition in the Cloud?
 
 
 ## Glorious Failures during Swap Week
