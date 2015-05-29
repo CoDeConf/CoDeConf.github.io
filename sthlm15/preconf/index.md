@@ -90,7 +90,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
       <br/>Facilitator:<br/> Johan Kardell
     </point>
     <point id="three-tracks">
-      <strong><a href="#pipelines">Why are delivery pipelines so often in red?</a></strong>
+      <strong><a href="#pipelines">Why are delivery pipelines so often red?</a></strong>
       <br/>Facilitator:<br/> Andrey Devyatkin
     </point>
     <point id="three-tracks">
@@ -132,8 +132,8 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
       <br/>Facilitator:<br/> Gustav Rånby
     </point>
     <point id="three-tracks">
-      <strong>Birds of a Feather</strong>
-      <br/>Flock F
+    <strong><a href="#dba">Continuous Delay - are DBA's the enemy?</a></strong>
+    <br/>Facilitator:<br/>Jes Breslaw
     </point>
   </timeslot>
 
@@ -183,7 +183,7 @@ __Refreshments during registration, snacks and coffee during breaks and are all 
 
 ---
 
-##Why are delivery pipelines so often in are?
+##Why are delivery pipelines so often red?
 {: #pipelines}
 
 _Facilitated by:_{: .inverted} Andrey Devyatkin, Ericsson AB.
@@ -196,10 +196,7 @@ This lightning talk and BoF is about how stability of the delivery pipeline will
 
 _Facilitated by:_{: .inverted} Johan Kardell, Softhouse
 
-Sometimes we find ourselves in projects with modern technologies, serious automated testing, automated deliveries and working feedback loops. Sometimes we find ourselves in projects with fewer of those qualities. Sometimes we even stumble upon projects with none of those qualities.
-
-When we find ourselves knee deep in ancient legacy systems and the market demands higher quality at a higher pace, what do we do? Total rewrite is not an option. Feature freeze is not an option. There are no money to hire a new team…
-
+Sometimes we find ourselves in projects with modern technologies, serious automated testing, automated deliveries and working feedback loops. Sometimes we find ourselves in projects with fewer of those qualities. Sometimes we even stumble upon projects with none of those qualities. When we find ourselves knee deep in ancient legacy systems and the market demands higher quality at a higher pace, what do we do? Total rewrite is not an option. Feature freeze is not an option. There are no money to hire a new team…
 This lightning talk and BoF is about quality assurance in legacy systems, and the reality is that we have to deliver or die.
 
 ##To Branch Not to Branch
@@ -215,6 +212,16 @@ Following up on a heated discussion that ignited at the Continuous Delivery & De
 _Facilitated by:_{: .inverted} Gustav Rånby, Diabol.
 
 The problem with spreading CD in an organization is that it has many aspects (TDD, automated testing, automated deployments, culture) and it affects several roles. Should you start automating your tests or should you start automating your deployments? Does automation drive culture or do you need good culture to maintain a working build pipeline? There are some common barriers to CD like starting to release directly from the main branch, release often to production or dividing the system into smaller components. It's like a leap of fait going from one paradigm to another - how do you convince others to make that leap? You are already on the inside and you have proved that it works so this should be easy, right?
+
+##Continuous Delay - are DBA's the enemy?
+{: #dba}
+
+_Facilitated by:_{: .inverted} Jes Breslaw, Delphix
+
+In the race to deliver faster and more often - data can slow you down.
+What do you do? Reduce the frequency of refresh? Accept data subsets or synthetic data?
+When it comes to provisioning data for development environments, even if you have buy in from operations it can still take days for DBA's to get you data, let alone refresh it. For test environments reseting the environment can take hours, come on DBA's - speed up! The time has come for developers to take control of data. Does that mean we even need DBA's any more? What about securing the data?
+This Bird of a Feather will discuss the relationship between DBA's and application teams, and how to get the most by working together.
 
 ##Hosting cost for Nothing
 {: #nothing}
