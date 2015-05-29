@@ -80,7 +80,7 @@ a:hover {
 header {
   padding-top: 0px;
   padding-bottom: 0px;
-  /*background: #336699;*/
+  background: #5B9B3D;
   height: 215px;
 }
 
@@ -128,7 +128,7 @@ header .menu {
   margin-top: 0px;
   padding-top: 0px;
   width: 120px;
-  color: #fe950d;
+  color: #5B9B3Dd;
   height: 26px;
   text-align: center;
   border-radius: 10px;
@@ -144,14 +144,43 @@ header a.menu:hover {
   color: #fff;
 }
 
+
 .inner {
   position: relative;
   width: 940px;
   margin: 0 auto;
 }
 
+.darkbox {
+  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
 
-.inverted {
+}
+
+.goldbox {
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+
+}
+
+.greenbox {
+  background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+
+}
+
+.inverted{
   background:#4b4b4b;
   color:#FFFFFF;
   padding:2px;
@@ -159,15 +188,13 @@ header a.menu:hover {
   font-weight: normal;
 }
 
-
-
 #content-wrapper {
   border-top: solid 1px #fff;
   padding-top: 30px;
 }
 
 #main-content {
-  width: 704px;
+  width: 690px;
   float: left;
 }
 
@@ -198,9 +225,6 @@ aside#sidebar p.repo-owner a {
 #downloads {
   margin-bottom: 40px;
 }
-
-
-
 
 a.button {
   width: 134px;
@@ -331,7 +355,7 @@ form {
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
-  color: #336699;
+  color: #5b9b3d;
 }
 
 p {
@@ -342,26 +366,17 @@ a {
   text-decoration: none;
 }
 
-.stdright, .stdleft, .stdcenter, .portrait, .round {
+.stdright, .stdleft, .stdcenter, .portrait {
    padding-top:    5px;
    padding-left:   5px;
    padding-right:  5px;
    padding-bottom: 5px;
    font-size: 83%;
-	 display: block;
 
 }
 
 .stdright, .stdleft, .stdcenter {
    width:300px;
-}
-
-.round {
-   width:200px;
-}
-
-.stdright#small, .stdleft#small, .stdcenter#small {
-   width:150px;
 }
 
 
@@ -371,19 +386,15 @@ a {
 
 
 
-.stdright, .round#right {
+.stdright {
    float:right;
 }
 
-.stdleft, .portrait, .round#left {
+.stdleft, .portrait {
    float:left;
    margin-right: 10px;
 }
 
-.round{
-	border-radius: 100%;
-
-}
 .stdcenter {
    margin-left:  auto;
    margin-right: auto;
