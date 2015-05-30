@@ -186,6 +186,9 @@ a.pushbox:hover {
 	background-image: url("/images/boxes/CoDeU-CPH.jpg");
 }
 
+#jcicph.pushbox {
+	background-image: url("/images/boxes/jcicph_automate.png");
+}
 
 .pushbox.meetup, a.pushbox.meetup:hover {
   background: #4b4b4b;
