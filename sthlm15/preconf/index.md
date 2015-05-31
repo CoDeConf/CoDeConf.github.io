@@ -199,7 +199,7 @@ _Facilitated by:_{: .inverted} Johan Kardell, Softhouse
 Sometimes we find ourselves in projects with modern technologies, serious automated testing, automated deliveries and working feedback loops. Sometimes we find ourselves in projects with fewer of those qualities. Sometimes we even stumble upon projects with none of those qualities. When we find ourselves knee deep in ancient legacy systems and the market demands higher quality at a higher pace, what do we do? Total rewrite is not an option. Feature freeze is not an option. There are no money to hire a new team…
 This lightning talk and BoF is about quality assurance in legacy systems, and the reality is that we have to deliver or die.
 
-##To Branch Not to Branch
+##To Branch or Not to Branch
 {: #branch}
 
 _Facilitated by:_{: .inverted} Lars Kruse, Praqma.
