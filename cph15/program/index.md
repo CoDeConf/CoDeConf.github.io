@@ -22,3 +22,18 @@ The talk is about how to do Continuous Delivery and deploy to production 10 time
 
 Twitter: [@allanebdrup](http://twitter.com/allanebdrup){: target="\_blank"}
 Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"}
+
+##What does Continuous Delivery demand of me as a person?
+
+###Mark Coleman, Implicit-Explicit
+![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is a freelance Continuous Delivery consultant, a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create and deliver software to their users. Mark lives in Amsterdam, the Netherlands.
+
+Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
+
+##NoOps - beyond the DevOps frontier!
+
+###Lars Kruse, Praqma
+![Lars Kruse](/cph15/images/speakers/lkruse.jpg){: .round #left} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
+
+Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
+Blog: [lakruzz.com](http://www.lakruzz.com)
