@@ -13,6 +13,6 @@ title: Sponsors
 __Praqmatic software development__.<br/>
 _Continuous delivery is our credo - DevOps runs in our veins._
 
-We support, develop and innovate Jenkins CI including the plugins and a many other Open Source technologies in your CoDe tool stack All wrapped up in just one [JOSRA](www.josra.org) alliance membership. We also cover proprietary tools through partnerships with CA Technologies, IBM, CloudBees, Atlassian and Programming Research.
+We support, develop and innovate Jenkins CI including the plugins and a many other Open Source technologies in your CoDe tool stack All wrapped up in just one [JOSRA](http://www.josra.org) alliance membership. We also cover proprietary tools through partnerships with CA Technologies, IBM, CloudBees, Atlassian and Programming Research.
 
 We're CoDe coaches and we offer CoDe and DevOps assessments. We operate through out all of Europe.

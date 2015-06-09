@@ -52,7 +52,7 @@ table {
 body {
   font-size: 15px;
   line-height: 1.5;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #fafafa url("/images/body-bg.jpg") 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #666;
@@ -172,13 +172,13 @@ header a.button {
   position: absolute;
   right: 0;
   top: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url("/images/github-button.png") 0 0 no-repeat;
 }
 aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url("/images/download-button.png") 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }

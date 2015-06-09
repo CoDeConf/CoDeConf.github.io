@@ -7,7 +7,7 @@
 }
 
 .darkbox {
-  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
+  background: #4b4b4b url("/images/4b4b4b.png") 0 0 repeat;
   max-width: 200px;
   width: 100%;
   color: #FFFFFF;

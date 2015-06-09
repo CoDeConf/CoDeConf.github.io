@@ -85,7 +85,7 @@ html[xmlns] .slides {
 }
 
 .flex-caption {
-    background: url(/images/trans.png);
+    background: url("/images/trans.png");
 }
 
 .flex-caption {
@@ -116,7 +116,7 @@ html[xmlns] .slides {
     height: 20px;
     margin: -16px 0 0;
     display: block;
-    background: url(/images/directionbg2.png) no-repeat;
+    background: url("/images/directionbg2.png") no-repeat;
     position: absolute;
     bottom: 10px;
     cursor: pointer;
@@ -160,7 +160,7 @@ html[xmlns] .slides {
     width: 13px;
     height: 13px;
     display: block;
-    background: url(/images/bg_control_nav.png) no-repeat;
+    background: url("/res/slider/bg_control_nav.png") no-repeat;
     cursor: pointer;
     text-indent: -999em;
 }
@@ -178,4 +178,3 @@ html[xmlns] .slides {
 nav ul {
     list-style: none;
 }
-
