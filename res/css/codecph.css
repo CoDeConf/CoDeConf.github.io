@@ -83,3 +83,10 @@ hr {
   border: none;
   background: transparent url('/images/ef9025.png') 0 0 repeat;
 }
+
+/*green box color*/
+
+.greenbox {
+  background: #5b9b3d url("/images/5b9b3d.png") 0 0 repeat;
+  color: #FFFFFF;
+  }
