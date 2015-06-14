@@ -8,7 +8,7 @@ title: Sponsor Lineup
 
 All sponsors are invited to participate in the sponsor-lineup, which will be held at 9:20. Immediately after the welcome and announcements.
 
-<img class="stdcenter" src="/images/The_usual_suspects_630x420.jpg" />{: style="width:500px"}
+<img class="stdcenter" src="/jues15/images/The_usual_suspects_630x420.jpg" />{: style="width:500px"}
 
 ###### These are the ground rules:
 

@@ -6,7 +6,7 @@ title: Call for Papers
  
 ###Jenkins CI Community Event - 2014 
 
-<img class="stdleft" src="/images/cfp2014.png" />The agenda is being prepared - we're asking for papers! Submit anything you have related to Jenkins CI. We're asking for speaks (45 mins) Lightning talks (10-15 mins), Tool demonstrations, facilitated discussions ....anything you have at heart!
+<img class="stdleft" src="/jues15/images/cfp2014.png" />The agenda is being prepared - we're asking for papers! Submit anything you have related to Jenkins CI. We're asking for speaks (45 mins) Lightning talks (10-15 mins), Tool demonstrations, facilitated discussions ....anything you have at heart!
 
 If you'd like to recommend a good speaker on a topic related to Jenkins CI tweet it on [#jcicph](/social/tweets.html).
 

@@ -1,15 +1,16 @@
 ---
 layout: jues/front
-title: Jenkins CI Code Camp 2014
+title: Jenkins CI Code Camp 2015
 ---
-#Jenkins CI Code Camp 2014
-__August 21st, 2014 at Praqmaplex__
+#Jenkins CI Code Camp 2015
+__August 11th, 2015 at TBD Copenhagen__
 
+<!--
 ######It has become a tradition that we host a Jenkins CI Code Camp on the day prior to the User Event. This full day event appeals to both established Jenkins CI developers and developers all new to Jenkins CI. The Code Camp has it's own designated Trello board [Go there](https://trello.com/b/bYqSkh1e){: target="_blank"} and see what's cooking"
 
 
 <a href="https://plus.google.com/photos/112243565708972138490/albums/5922621914342401441" target="_blank">
-<img src="/images/codecamp.jpg" class="stdright" style="width:500"></a>
+<img src="/jues15/images/codecamp.jpg" class="stdright" style="width:500"></a>
 __The format of the Code Camp__ is inspired by Open Space Technology where focus is dictated by constituency, which secures high levels of active participation from attendees.
 
 __Bring your own topics__ - prior to the Code Camp we will contact attendees and make a "call for topics". The different topic suggestions will all be added to a backlog and at the Code Camp we will simply cast votes to find the most popular ones. Then we split out into smaller groups and work with these topics in timeboxed sessions.
@@ -36,3 +37,5 @@ He will do this with off-set from a generic Jenkins plugin he has developed for 
 It's a drilled down fast-paced version of [Praqma's Jenkins CI Plugin Developer training class](http://www.praqma.com/events/jciplugindev){: target="_blank"}.
 
 __If you are focused you'll be able to learn Jenkins CI programming before lunch and release your first plugin before dinner.__
+
+-->

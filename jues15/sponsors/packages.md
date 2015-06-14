@@ -21,7 +21,7 @@ Show your support for the Jenkins CI Open Source community by sponsoring the 201
 ####The Deal:
 
 * An exclusive group ticket valid for 5 people at twice the price of ordinary tickets
-* Simply purchase the sponsorship online [Community Sponsorship](){: target="_blank"}
+* Simply purchase the sponsorship online [##Insert Link to eventbrite_Community Sponsorship](){: target="_blank"}
 * The possibility to donate a raffle prize of your choice
 
 ####Benefits:

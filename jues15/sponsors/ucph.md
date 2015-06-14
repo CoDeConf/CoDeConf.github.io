@@ -5,7 +5,7 @@ title: Sponsors
 #DIKU Business Club
 <div style="width:200px;float:left;padding:20px">
   <div style="height:200px;position:relative;">
-    <a href="http://www.diku.dk" target="_blank"><img style="position: absolute; bottom: 0;width:200px" src="/images/DIKU.png" /></a>
+    <a href="http://www.diku.dk" target="_blank"><img style="position: absolute; bottom: 0;width:200px" src="/jues15/images/DIKU.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Venue sponsor<br/></div>
 </div>

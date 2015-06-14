@@ -9,7 +9,7 @@ CoDe:U  is a professionally driven user group. It's an alliance for people withi
 * LinkedIn: [Continuous Delivery Users][linkedin]
 * Twitter: [@ContDeliU][twitter]
 
-<div class="stdcenter"><img src="/images/codeu-biz.jpg"/></div>
+<div class="stdcenter"><img src="/jues15/images/codeu-biz.jpg"/></div>
 
 ### A Plain Vanilla User Group
 The complexity that surrounds Continuous Delivery is quite overwhelming and for most companies Continuous Delivery is not just a matter of introducing new tools in the tool-stack and learn how to use them correctly. It's a cultural and organization change that shows it's mark on almost  every discipline within software development: Build, test, quality assurance, deployment, release, system architecture, management etc.
