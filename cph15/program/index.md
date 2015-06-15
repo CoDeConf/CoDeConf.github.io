@@ -36,4 +36,4 @@ Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 ![Lars Kruse](/cph15/images/speakers/lkruse.jpg){: .round #left} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
 
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
-Blog: [lakruzz.com](http://www.lakruzz.com)
+Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
