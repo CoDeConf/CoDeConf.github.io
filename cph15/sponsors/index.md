@@ -10,6 +10,7 @@ title: Sponsors
 
 [__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.](/cph15/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
+[__Serena is gold sponsor__ <br/> Leading provider of Orchestrated IT solutions for the Global 2000.](/cph15/sponsors/serena.html){: .sponsorbox .gold #serena style="vertical-align:middle"}
 
 [__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/cph15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
 

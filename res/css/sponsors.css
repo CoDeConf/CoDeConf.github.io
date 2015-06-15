@@ -137,3 +137,6 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 #coverity.sponsorbox {
   background-image: url("/sponsors/logos/coverity_4x2.png");
 }
+#serena.sponsorbox {
+  background-image: url("/sponsors/logos/serena_4x2.png");
+}
