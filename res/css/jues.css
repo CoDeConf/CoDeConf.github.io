@@ -19,6 +19,9 @@ header {
   padding-bottom: 0px;
   background: #abe1fa;
   height: 213px;
+  background-image: url("/jues15/images/jues15-banner-a.png");
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 
 .menubar {
@@ -87,24 +90,6 @@ header a.menu:hover {
   width: 940px;
   margin: 0 auto;
 }
-
-.darkbox {
-  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;
-  max-width: 200px;
-  width: 100%;
-  color: #FFFFFF;
-  padding: 12px;
-  font-size: 130%;
-
-}
-
-.greenbox {
-  background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;
-  max-width: 200px;
-  width: 100%;
-  color: #FFFFFF;
-  padding: 12px;
-  font-size: 130%;
 
 }
 
@@ -237,48 +222,6 @@ form {
 }
 
 
-/* GENERAL ELEMENT TYPE STYLES */
-
-#main-content h1 {
-  font-size: 2.8em;
-  letter-spacing: -1px;
-  color: #474747;
-}
-
-
-#main-content h2 {
-  font-size: 22px;
-  font-weight: bold;
-  margin-bottom: 8px;
-  color: #474747;
-}
-
-#main-content h3 {
-  font-size: 18px;
-  font-weight: bold;
-  margin-top: 24px;
-  margin-bottom: 8px;
-  color: #474747;
-}
-
-#main-content h4 {
-  font-size: 15px;
-  font-weight: bold;
-  color: #474747;
-}
-
-#main-content h5 {
-  font-size: 14px;
-  color: #474747;
-}
-
-#main-content h6 {
-  font-size: 19px;
-  font-weight: bold;
-  margin-bottom: 8px;
-  color: #028ab0;
-}
-
 p {
   margin-bottom: 20px;
 }
@@ -373,144 +316,4 @@ footer a:hover {
   display: block;
   visibility: hidden;
   height: 0;
-}
-
-.clearfix {display: inline-block;}
-* html .clearfix {height: 1%;}
-.clearfix {display: block;}
-
-/* #Media Queries
-================================================== */
-
-/* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) {}
-
-/* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-  .inner {
-    width: 740px;
-  }
-  header h1, header h2 {
-    width: 340px;
-  }
-  header h1 {
-    font-size: 47px;
-  }
-  header h2 {
-    font-size: 30px;
-  }
-
-  .menubar{
-    height: 60px;
-
-  }
-
-  #main-content {
-    width: 490px;
-  }
-   .stdright,
-   .stdleft,
-   .stdcenter {
-   width:200px;
-}
-}
-
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
-  .inner {
-    width: 93%;
-  }
-
-  header .inner {
-    position: relative;
-  }
-  header h1, header h2 {
-    width: 100%;
-  }
-  header h1 {
-    font-size: 48px;
-  }
-  header h2 {
-    font-size: 24px;
-  }
-  header a.button {
-    background-image: none;
-    height: auto;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 5px 5px;
-    font-size: 13px;
-    line-height: 1;
-    background-color: #fff;
-    color: #2879d0;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    visibility: hidden;
-  }
-  header a.button small {
-    font-size: 13px;
-    display: inline;
-  }
-
-  .menubar{
-    height: 60px;
-
-  }
-
-  header a.menu {
-    height: auto;
-    display: inline-block;
-    position: relative;
-    margin-top: 15px;
-    padding: 5px 0px;
-    line-height: 1;
-    float:none;
-  }
-  header .menu {
-
-  }
-  #main-content,
-  aside#sidebar {
-    float: none;
-    width: 100% ! important;
-  }
-  aside#sidebar {
-    background-image: none;
-    margin-top: 20px;
-    border-top: solid 1px #ddd;
-    padding: 20px 0;
-    min-height: 0;
-  }
-  aside#sidebar a.button {
-    display: none;
-  }
-  .stdright,
-  .stdleft,
-  .stdcenter {
-    width:200px;
-    float:none;
-  }
-}
-
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) {}
-
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (min-width: 404px) and (max-width: 537px) {
-
-  .menubar{
-    height: 90px;
-  }
-
-}
-
-
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 403px) {
-
-  .menubar{
-    height: 110px;
-  }
-
 }
