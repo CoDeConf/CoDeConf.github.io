@@ -1,5 +1,5 @@
 ---
-layout: jues/post
+layout: jues/program
 title: JUES 2015 Program
 ---
 #JUES 15 - Program
@@ -49,7 +49,9 @@ Twitter: [@nielsbech](https://twitter.com/nielsbech){: target="\_blank"}
 ###Jan Sørensen,Praqma
 ![Jan Sørensen](/jues15/images/speakers/anonymous.jpg){: .round #left}This presentation will demonstrate a one-click provisioning of infrastructure for a Continuous Delivery pipeline. The pipeline is Docker based, i.e. each service in the pipeline is implemented as a Docker image. The pipeline consists of typical Continuous Delivery services like Jenkins master, Jenkins slaves (provisioned on demand), Artifactory. The provisioning of Docker host is done with docker-machine, orchestration with docker-compose, and scaling with docker-swarm.<br/><br/><br/>
 
-##This is how we did it! - A Case Story
+##Test Driven Development in Excel
 
 ###Laurits Søgaard Nielsen, Visual Reporting
-![Laurits Søgaard Nielsen](/jues15/images/speakers/nsnielsen.jpg){: .round #right}Briefly speaking, we have developed a tool for Excel that allows Excel users: _Putting code sheets and files in Git,Develop VBA Test Drive and Perform tests_. In addition, we have integrated all of this in Jenkins pipelines, which means that we can test in 8 different Excel platforms in parallel and run static code analysis in VBA code. All this reduces the number of errors that can happen when developing Excel.
+![Laurits Søgaard Nielsen](/jues15/images/speakers/nsnielsen.jpg){: .round #right}Briefly speaking, we have developed a tool for Excel that allows Excel developers to: Put code sheets and Excel files in Git, develop VBA test driven and perform unit and acceptance tests on code and sheets. In addition, we have integrated all of this into Jenkins pipelines, which means that we can test 8 different Excel platforms in parallel and run static code analysis of the VBA code. All this reduces the number of errors that can happen when developing Excel - and documents the business rules of the business in tests.
+
+LinkedIN: [Laurits Søgaard Nielsen](https://dk.linkedin.com/in/lauritssogaardnielsen){: target="\_blank"}
