@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .menu, a.button{
+header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .bluebox, .menu, a.button{
   font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
