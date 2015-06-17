@@ -18,7 +18,7 @@
 }
 
 .greenbox {
-  background: #336699;
+  background: #5b9b3d;
   max-width: 200px;
   width: 100%;
   color: #FFFFFF;
@@ -30,9 +30,10 @@
 }
 .bluebox {
   background: #028ab0;
+  /*background: #336699;*/
   max-width: 200px;
   width: 100%;
-  color: #ffffff;
+  color: #FFFFFF;
   padding: 12px;
   font-size: 130%;
   border-radius: 8px;

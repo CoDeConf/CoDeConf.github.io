@@ -67,7 +67,7 @@ header .menu {
   margin-top: 0px;
   padding-top: 0px;
   width: 120px;
-  color: #5B9B3Dd;
+  color: #5B9B3D;
   height: 26px;
   text-align: center;
   border-radius: 10px;
@@ -83,10 +83,3 @@ hr {
   border: none;
   background: transparent url('/images/ef9025.png') 0 0 repeat;
 }
-
-/*green box color*/
-
-.greenbox {
-  background: #5b9b3d url("/images/5b9b3d.png") 0 0 repeat;
-  color: #FFFFFF;
-  }
