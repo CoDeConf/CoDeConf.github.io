@@ -1,9 +1,10 @@
 ---
 layout: jues/program
-title: JCICPH 2014 - speakers
+title: JUES 2015 - speakers
 ---
-#JCICPH 14 - Speakers
+#JUES 1 - Speakers
 
+<!--
 ## Kohsuke Kawaguchi
 {: #kohsuke}
 
@@ -171,3 +172,4 @@ Currently, Robert has a focus on improving test automation, mainly to reduce cyc
 ![Klaus Marius Hansen](/images/speakers/khm.jpg){: .portrait} Klaus Marius Hansen is a full professor of software development at the Department of Computer Science (DIKU), University of Copenhagen. From 2008-2010, Klaus was a full professor of software engineering at University of Iceland and prior to that, he was associate professor at Aarhus University from 2004-2008 where he also obtained his PhD.
 
 Klaus Marius Hansen’s research interests are within software development, in particular in software architecture, development processes, and software ecosystems. Klaus has most recently been involved in research in and development of a software ecosystems for the healthcare domain. Dating back from 1997, Klaus has a long history of collaboration projects with (software) industry; a collaboration that has provided much inspiration for his research.<br clear="both">
+-->

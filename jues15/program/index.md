@@ -5,7 +5,7 @@ title: JUES 2015 Program
 #JUES 15 - Program
 
 
-##Kohsuke Kawaguchi, CloudBees
+##Kohsuke Kawaguchi, CloudBees and Jenkins Creator
 ![Kohsuke Kawaguchi](/jues15/images/speakers/kkawaguchi.jpg){: .round #right}Kohsuke Kawaguchi is a well-respected developer and popular speaker at industry and Jenkins community events. He’s often asked to speak about his experience and approach in creating Jenkins; a CI platform that has become a widely adopted and successful community-driven open source project. The principles behind the Jenkins community – extensibility, inclusiveness, low barriers to participation – have been the keys to its success. Kohsuke’s sensibilities in creating Jenkins and his deep understanding of how to translate its capabilities into usable software have also had a major impact on CloudBees’ strategy as a company.
 
 Twitter: [@kohsukekawa](https://twitter.com/kohsukekawa){: target="\_blank"}
@@ -14,7 +14,7 @@ Blog: [kohsuke.org](http://kohsuke.org/){: target="\_blank"}
 ##Praqma & Zetta Work
 
 ###Jan Sørensen,Praqma
-![Jan Sørensen](/jues15/images/speakers/anonymous.jpg){: .round #left}This presentation will demonstrate a one-click provisioning of infrastructure for a Continuous Delivery pipeline. The pipeline is Docker based, i.e. each service in the pipeline is implemented as a Docker image. The pipeline consists of typical Continuous Delivery services like Jenkins master, Jenkins slaves (provisioned on demand), Artifactory. The provisioning of Docker host is done with docker-machine, orchestration with docker-compose, and scaling with docker-swarm.<br/><br/><br/>
+![Jan Sørensen](/jues15/images/speakers/jsørensen.jpg){: .round #left}This presentation will demonstrate a one-click provisioning of infrastructure for a Continuous Delivery pipeline. The pipeline is Docker based, i.e. each service in the pipeline is implemented as a Docker image. The pipeline consists of typical Continuous Delivery services like Jenkins master, Jenkins slaves (provisioned on demand), Artifactory. The provisioning of Docker host is done with docker-machine, orchestration with docker-compose, and scaling with docker-swarm.<br/><br/><br/>
 
 ## Continuous Deployment to the Device
 

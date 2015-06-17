@@ -24,7 +24,6 @@
   color: #FFFFFF;
   padding: 12px;
   font-size: 130%;
-  clear:both;
   border-radius: 8px;
 
 
@@ -36,7 +35,6 @@
   color: #ffffff;
   padding: 12px;
   font-size: 130%;
-  clear:both;
   border-radius: 8px;
 }
 .goldbox {
@@ -195,8 +193,8 @@ a.pushbox:hover {
 	background-image: url("/images/boxes/CoDeU-CPH.jpg");
 }
 
-#jcicph.pushbox {
-	background-image: url("/images/boxes/jcicph_automate.png");
+#jues.pushbox {
+	background-image: url("/images/boxes/jues_automate.png");
 }
 
 .pushbox.meetup, a.pushbox.meetup:hover {
