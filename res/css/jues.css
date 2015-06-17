@@ -19,8 +19,7 @@ header {
   padding-bottom: 0px;
   background: #abe1fa;
   height: 213px;
-  background-image: url("/jues15/images/jues15-banner-a.png");
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 	background-position: center center;
 }
 
@@ -68,7 +67,7 @@ header .menu {
   margin-top: 0px;
   padding-top: 0px;
   width: 120px;
-  color: #fe950d;
+  color: #52baea;
   height: 26px;
   text-align: center;
   border-radius: 10px;
