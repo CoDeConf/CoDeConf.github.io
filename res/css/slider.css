@@ -116,7 +116,7 @@ html[xmlns] .slides {
     height: 20px;
     margin: -16px 0 0;
     display: block;
-    background: url("/images/directionbg2.png") no-repeat;
+    /*background: url("/images/directionbg2.png") no-repeat;*/
     position: absolute;
     bottom: 10px;
     cursor: pointer;
