@@ -25,9 +25,13 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+article, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
+}
+
+aside {
+	display: inline-block;
 }
 
 header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .bluebox, .menu, a.button{
