@@ -198,6 +198,10 @@ a.pushbox:hover {
 	background-image: url("/images/boxes/jues_automate.png");
 }
 
+#gotocph.pushbox {
+	background-image: url("/images/boxes/gotocph.png");
+}
+
 .pushbox.meetup, a.pushbox.meetup:hover {
   background: #4b4b4b;
   height:190px;
