@@ -1,0 +1,157 @@
+/* http://praqma.com
+   License: none (public domain)
+*/
+
+.banner{
+	/*text-shadow: 2px 2px 4px #444444;*/
+  clear:both;
+	color: #ffffff;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	display: block;
+	float: left;
+	width: 990px;
+	height: 225px;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	position: relative;
+	background-color:transparent;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+a.banner {
+	text-decoration: none;
+	color: #ffffff;
+}
+a.banner:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.banner location, .banner event{
+	display:inline;
+	padding-right: 7px;
+	padding-left: 7px;
+	margin-left: -8px;
+	margin-right: 0px;
+}
+
+.banner ribbon{
+	float: right;
+  display: block;
+  position: absolute;
+  bottom: 16px;
+  right: 0px;
+  background: transparent;
+  font-size: 33px;
+  line-height: 100%;
+	text-transform:uppercase;
+	z-index: 1;
+}
+
+.banner icon{
+  display: block;
+  width: 165px;
+  height: 225px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  z-index: 2;
+}
+
+.banner location{
+  background-color: red;
+}
+
+.banner event{
+  background-color: black;
+}
+
+.banner tagline{
+	color: #fe9900;
+  display: block;
+  position: absolute;
+  left: 150px;
+  top: 14px;
+  text-shadow: 2px 2px 4px #444444;
+  font-size: 35px;
+}
+
+.banner dot date{
+	display: table-cell;
+  vertical-align: middle;
+	font-size: 26px;
+	font-weight: bold;
+	text-transform:uppercase;
+	line-height: 110%;
+	-ms-transform: rotate(345deg); /* IE 9 */
+  -webkit-transform: rotate(345deg); /* Chrome, Safari, Opera */
+  transform: rotate(345deg);
+
+}
+
+.banner dot{
+	display: table;
+	background-color: black;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  height: 136px;
+  width: 136px;
+  position: absolute;
+  right: 35px;
+  top: 50px;
+	text-align: center;
+
+}
+
+
+#juescodecamp15.banner {
+	background-image: url("/jues15/images/jues15top2.png");
+}
+#pipe1.banner {
+	background-image: url("/jues15/images/pipe1.png");
+}
+#pipe2.banner {
+	background-image: url("/jues15/images/pipe2.png");
+}
+#pipe3.banner {
+	background-image: url("/jues15/images/pipe3.png");
+}
+
+icon#jenkinsflow{
+	background-image: url("/images/jenkins-flow.png");
+}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 403px) {
+
+
+}
