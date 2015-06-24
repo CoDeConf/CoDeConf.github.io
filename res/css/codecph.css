@@ -75,6 +75,10 @@ header .menu {
   font-weight: bold;
 }
 
+blockquote {
+  border-left: 10px solid #5d9a42;
+}
+
 
 /* COMMON STYLES */
 
