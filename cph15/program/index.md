@@ -9,6 +9,10 @@ title: CoDe CPH 2015 - Preliminary program
 
 ![Edward Thomson](/cph15/images/speakers/ethomson.jpg){: .round #right} Edward Thomson is a Senior Software Development Engineer at Microsoft, where he develops Git integration for Visual Studio and Team Foundation Server. Edward is a core contributor to the libgit2 and LibGit2Sharp projects, which are the open-source Git libraries used by Microsoft tools (and many others). Edward is a contributing author to "Professional Team Foundation Server 2013," available from Wrox Publishing.
 
+His speak at CoDe CPH has the title _Great Artists Steal_ it refers to the decision Microsoft made regarding the underlying versions control system of TFS, simply to cease development on their own technology and just give the users what the wanted: Git. The abstract in Ed's own words goes like this: 
+
+>In 2011, Microsoft was building "Team Foundation Version Control", a centralized version control system for enterprises.  Two years later, we were building Git support into Visual Studio and Team Foundation Server.  Learn how Microsoft avoided "not invented here" syndrome and adopted a great tool for its Distributed Version Control System by using Git (instead of creating an inferior copy of Git) and learn about the mistakes we made (and the ones we avoided) along the way.
+
 Twitter: [@ethomson](http://twitter.com/ethomson){: target="\_blank"}
 Blog: [edwardthomson.com](http://edwardthomson.com){: target="\_blank"}
 
