@@ -14,7 +14,7 @@ Meals and refreshments are also served in the exhibition area. There will be ple
 * Booth at the exhibition area, including space for your roll-ups and materials
 * Premium location of sponsor booth at exhibition area
 * Logo on web, printed program, conference roll-ups, and the conference token
-* Full access to the attendees list ( title / name / address / phone number / email)
+* Full access to the attendees list ( title / name / email)
 * A mention in the Welcome & Announcements
 
 
