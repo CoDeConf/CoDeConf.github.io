@@ -17,11 +17,10 @@ Jim Coplien has over 40 years of experience in software development and has been
 
 Jim gives a refreshingly different view on continuous-x in his keynote. This is the abstract in his own words:
 
->Continuous deployment helps the enterprise finish its work and ready the product for delivery into the client’s hands at a moment’s notice. Technology can triumph over uncertainty. But the bigger challenges lie in managing the market expectations, and those of the people outside the enterprise — the end users. It’s less about being always ready to synchronise with their readiness rather than theirs. Software is never just a product, and delivers value only when running and providing a service. So it’s not really about either the product nor about delivery. It must be a living product. This means that the product isn’t at the end of the deployment loop but that it is in the loop. Continuous service doesn’t end with delivery, but starts there.
+>Continuous deployment helps the enterprise finish its work and ready the product for delivery into the client’s hands at a moment’s notice. Technology can triumph over uncertainty. But the bigger challenges lie in managing the market expectations, and those of the people outside the enterprise — the end users. It’s less about being always ready to synchronise with your readiness rather than theirs. Software is never just a product, and delivers value only when running and providing a service. So it’s not really about either the product nor about delivery. It must be a living product. This means that the product isn’t at the end of the deployment loop but that it is in the loop. Continuous service doesn’t end with delivery, but starts there.
 
 Twitter: [@jcoplien](http://twitter.com/jcoplien){: target="\_blank"}
 Publications: [gertrudandcope.com](https://sites.google.com/a/gertrudandcope.com/info/Publications){: target="\_blank"}
-
 
 ## Great Artists Steal: Adding Git Support to Microsoft Visual Studio
 {: #steal}
