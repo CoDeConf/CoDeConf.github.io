@@ -50,7 +50,10 @@ Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"
 ##What does Continuous Delivery demand of me as a person?
 
 ###Mark Coleman, Implicit-Explicit
-![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is a freelance Continuous Delivery consultant, a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create and deliver software to their users. Mark lives in Amsterdam, the Netherlands.
+![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014.
+He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
+When he's not hacking tech, he's hacking humans. Why do they do the things they do?
+Mark lives in Amsterdam, the Netherlands.
 
 Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 
