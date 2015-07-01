@@ -50,10 +50,16 @@ Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"
 ##What does Continuous Delivery demand of me as a person?
 
 ###Mark Coleman, Implicit-Explicit
-![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014.
-He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
+![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
 When he's not hacking tech, he's hacking humans. Why do they do the things they do?
 Mark lives in Amsterdam, the Netherlands.
+
+In this talk we will assume that continuous delivery is the solution to your problem and will discover through various stories which character traits should be present in your team members if they are to build and deliver cutting edge software. We will conclude with suggestions on how to build such a team.This is a non-technical talk for anyone who is managing, or is a member of, a team who are trying to implement continuous delivery.
+
+>Anyone looking to learn more about Continuous Delivery can find reams of information; from tooling to organisational design, it seems that all topics are covered by an ever growing amount of information in books and online.
+Over the last 5 years I've introduced continuous delivery to several teams, and in every single project, the biggest hurdle to be overcome is not one of insufficient knowledge, but one of personality. Quite simply, if your team were already mature enough to implement continuous delivery, and if continuous delivery were the solution to a problem they were facing, they would have already implemented it. If you're struggling to implement continuous delivery then, that can only tell you one of two things:<br/>
+1. Your team is not mature enough.<br/>
+2. Continuous Delivery is not the solution to your problem.
 
 Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 
@@ -64,7 +70,7 @@ Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 
 In his speak Lars takes DevOps one step beyond forming a happy collaborative relation between Dev and Ops. He advocates for an entirely elastic and automated R&D infrastructure, with the software developer in the driver's seat. In his own words:
 
->A glimpse into a very near future where where quality is actually built into the software, as opposed to glued on after it's finished. It's a future where software developers aren't dependent on IT Operations at all. In a Continuous Delivery NoOps world queues have disappeared, resources are available at your command and everything is automated.
+>A glimpse into a very near future where quality is actually built into the software, as opposed to glued on after it's finished. It's a future where software developers aren't dependent on IT Operations at all. In a Continuous Delivery NoOps world queues have disappeared, resources are available at your command and everything is automated.
 
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
 Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
