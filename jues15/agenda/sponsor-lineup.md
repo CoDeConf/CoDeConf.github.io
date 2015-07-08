@@ -3,7 +3,7 @@ layout: jues/program
 title: Sponsor Lineup
 ---
 #Sponsor Lineup
- 
+
 ###Sponsor preparation for the lineup
 
 All sponsors are invited to participate in the sponsor-lineup, which will be held at 9:20. Immediately after the welcome and announcements.
@@ -29,6 +29,3 @@ This is just for inspiration - it's your pitch
 * Why do you sponsor the event?
 * Sell ...whatever you're selling.
 * Call to action!
-
-
-
