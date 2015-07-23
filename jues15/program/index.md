@@ -55,3 +55,24 @@ Twitter: [@nielsbech](https://twitter.com/nielsbech){: target="\_blank"}
 ![Laurits Søgaard Nielsen](/jues15/images/speakers/nsnielsen.jpg){: .round #right}Briefly speaking, we have developed a tool for Excel that allows Excel developers to: Put code sheets and Excel files in Git, develop VBA test driven and perform unit and acceptance tests on code and sheets. In addition, we have integrated all of this into Jenkins pipelines, which means that we can test 8 different Excel platforms in parallel and run static code analysis of the VBA code. All this reduces the number of errors that can happen when developing Excel - and documents the business rules of the business in tests.
 
 LinkedIN: [Laurits Søgaard Nielsen](https://dk.linkedin.com/in/lauritssogaardnielsen){: target="\_blank"}
+
+##Continuous Delivery of Embedded Systems
+
+###Mike Long, Partner Praqma Norway
+![Mike Long](/jues15/images/speakers/mlong.jpg){: .round #left} As a DevOps and Continuous Delivery consultant, Mike’s specialties include coaching and mentoring teams to adopt modern technical practices in hostile embedded and legacy environments. He holds over 10 years of professional software engineering experience, working in a variety of cultures and business domains. He considers software as a craft, and enjoys sharing the pursuit of technical excellence with fellow professionals.
+
+
+Continuous Delivery is all the rage, but many of the practices are not applied in the embedded world because the literature seems to focus on the web development community. That is a great shame, because there is a great deal we can apply on our embedded software development projects. This talk will show you how to apply some of the key techniques, such as embedded versioning and software traceability, embedded continuous delivery pipelines, acceptance testing with hardware, automatic deployment to hardware, continuous deployment. Beyond that, the talk will show some real-life examples of companies who are at the leading edge of this adoption.
+
+Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
+Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
+
+##Continuous Delivery CoDe. with Jenkins and Chef
+
+###Alex Manly, Solutions Architect, Chef
+![Alex Manly](/jues15/images/speakers/amanly.jpg){: .round #right}
+Alex Manly is a Solutions Architect for Chef Software, and previous to Chef, the Vice President of Product Development at MidVision. He designed and built the RapidDeploy product, which primarily is used for deployment automation of middleware systems." Alex has previously spoken at the Jenkins User Conference in Boston, Berlin, and Copenhagen on the subject of automated application deployments.
+
+Delivery Truck is an open source project written by Chef which allows you to control the process for delivering Chef code in a well defined pipeline. In this talk you will learn about best practices to continuously deliver infrastructure code using Jenkins.
+
+Twitter: [@apmanly](https://twitter.com/apmanly){: target="\_blank"}
