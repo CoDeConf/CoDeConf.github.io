@@ -18,5 +18,8 @@ _As always we'll precede the JUES conference with a Code Camp on the dayt before
 
 We welcome you and other leading Jenkins developers, QA, DevOps, and operations personnel to this years Scandinavian Jenkins CI festival hoping to continuously support the growth of the Jenkins Open Source community.
 
+__NOTE__
+*If you come as a private person, not representing a company and you are paying the ticket out of your own pocket, they you're entitled to our special loyalty non-corporate priced ticket: Half price - and no VAT. Simply DKK 499,- flat. Just send a mail to [events@praqma.net](mailto:events@praqma.net?subject=Please%20send%20me%20the%20promotion%20code%20for%20non-corporate%20tickets%20to%20the%20JUES%2015%20event) to request a promotion code that will give you access to the non-corporate ticket type.*
+
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=17385654962&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Powered by Eventbrite</a></div></div>
