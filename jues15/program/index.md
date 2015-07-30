@@ -29,7 +29,7 @@ Mail: [mar@rehfeld.dk]()
 ##Version your build process as you version your code with Literate plugin
 
 ###Vincent Latombe, Amadeus
-![Vincent Latombe](/jues15/images/speakers/vlatombe.png){: .round #left} Vincent is a developer advocate in Amadeus. He worked for many years are a build manager, building hundreds of projects for airlines and travel agencies. He focuses mostly on build, automation and developer productivity. Vincent is currently the maintainer for the Clearcase plugin and contributes also to core, Git and literate plugins.
+![Vincent Latombe](/jues15/images/speakers/vlatombe.png){: .round #left} Vincent is part of the Engineering team at CloudBees. Before that he managed a large Jenkins infrastructure at Amadeus. He likes building smart solutions with a focus on usability and user empowerment. He is the maintainer of the Clearcase plugin, and contributes to Jenkins core, Git and Literate plugins.
 The Literate plugin allows a project to define its build process directly in a description file (Markdown or YAML supported). Project owners have control over their build process and can refactor it as they refactor their code, while reusing all of the Jenkins goodness. Meet this beautiful plugin and fall in love with it!
 
 Twitter: [@Vlatombe](https://twitter.com/vlatombe){: target="\_blank"}
