@@ -14,6 +14,8 @@ title: Sponsors
 
 [__Container Solutions is gold sponsor__<br/>Specialised in advanced technologies, including Docker and Mesos.](/cph15/sponsors/container-solutions.html){: .sponsorbox .gold #container style="vertical-align:middle"}
 
+[__Trifork is gold sponsor__<br/>A leading full service supplier of high-quality custom-built applications and end-to-end solutions.](/cph15/sponsors/trifork.html){: .sponsorbox .gold #trifork style="vertical-align:middle"}
+
 [__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/cph15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
 
 [__Atlassian is silver sponsor__ <br/> Helping teams to work smarter, and create better software together.](/cph15/sponsors/atlassian.html){: .sponsorbox .silver #atlassian style="vertical-align:middle"}
