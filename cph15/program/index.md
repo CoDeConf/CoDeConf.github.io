@@ -9,7 +9,7 @@ title: CoDe CPH 2015 - Preliminary program
 
 ### Keynote
 
-### Jim Coplien, Gertudandcope
+### Jim Coplien, Gertrudandcope
 
 ![Jim Coplien](/cph15/images/speakers/jcoplien.jpg){: .round #left}
 
@@ -36,13 +36,35 @@ His speak at CoDe CPH has the title _Great Artists Steal_ it refers to the decis
 Twitter: [@ethomson](http://twitter.com/ethomson){: target="\_blank"}
 Blog: [edwardthomson.com](http://edwardthomson.com){: target="\_blank"}
 
+## The Rationale for Continuous Delivery
+{: #rationale}
+
+### Dave Farley, Continuous Delivery Ltd
+![Dave Farley](/cph15/images/speakers/dfarley.jpg){: .round #left} Dave Farley is a thought-leader in the field of Continuous Delivery, DevOps and Software Development in general. He is also the co-author of the Jolt-award winning book 'Continuous Delivery' a regular conference speaker and blogger and one of the authors of the 'Reactive Manifesto'.
+
+Dave has been having fun with computers for over 30 years. Covering most types of software, from firmware, through tinkering with operating systems and device drivers, to writing games, and commercial applications of all shapes and sizes.
+
+Dave has a wide range of experience leading the development of complex software in teams, both large and small, in the UK and USA. He was an early adopter of agile development techniques, employing iterative development, continuous integration and significant levels of automated testing on commercial projects from the early 1990s.
+
+Today Dave is an independent software developer and consultant, and founder and director of Continuous Delivery Ltd.
+
+Dave presents his speak at the CoDeCPH conference like this:
+
+>Many people working in software development spend their careers without seeing what good looks like. Our history is littered with inefficient processes creating poor quality output, too late to capitalise on the expected business value. How have we got to this state? How do we get past it? What does good really look like?
+Continuous Delivery changes the economics of software development, find out how and why.
+
+Twitter: [@davefarley77](https://twitter.com/davefarley77){: target="\_blank"}
+Blog: [www.davefarley.net](http://www.davefarley.net){: target="\_blank"}
+
 ## Continuous Delivery War stories - deploying 10 times per day
 
 ###Allan Ebdrup, E-conomics
-![Allan Ebdrup](/cph15/images/speakers/eebdrup.jpg){: .round #left} Allan Ebdrup studied Computer Science at universities in Århus and København.
+![Allan Ebdrup](/cph15/images/speakers/eebdrup.jpg){: .round #right} Allan Ebdrup studied Computer Science at universities in Århus and København.
 He has worked 16 years in IT as self-employed, developer, IT-architect, enterprise-architect, tech & team-lead.
 Three years ago Allan took the leap form working with technologies from the evil empires of Microsoft, Oracle and IBM to working exclusively with Open Source technologies like Node.js, NoSql and MongoDB.
-The talk is about how to do Continuous Delivery and deploy to production 10 times a day or more. The techniques in the talk can be used no matter if you are on an Open Source technology stack or not.
+The talk is about:
+
+>How to do Continuous Delivery and deploy to production 10 times a day or more. The techniques in the talk can be used no matter if you are on an Open Source technology stack or not.
 
 Twitter: [@allanebdrup](http://twitter.com/allanebdrup){: target="\_blank"}
 Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"}
@@ -50,9 +72,8 @@ Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"
 ##What does Continuous Delivery demand of me as a person?
 
 ###Mark Coleman, Implicit-Explicit
-![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #right} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
-When he's not hacking tech, he's hacking humans. Why do they do the things they do?
-Mark lives in Amsterdam, the Netherlands.
+![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #left} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
+When he's not hacking tech, he's hacking humans. Why do they do the things they do? Mark lives in Amsterdam, the Netherlands.
 
 In this talk we will assume that continuous delivery is the solution to your problem and will discover through various stories which character traits should be present in your team members if they are to build and deliver cutting edge software. We will conclude with suggestions on how to build such a team.This is a non-technical talk for anyone who is managing, or is a member of, a team who are trying to implement continuous delivery.
 
@@ -66,7 +87,7 @@ Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 ##NoOps - beyond the DevOps frontier!
 
 ###Lars Kruse, Praqma
-![Lars Kruse](/cph15/images/speakers/lkruse.jpg){: .round #left} Lars Kruse, Continuous Delivery Coach and partner and co-founder of Praqma. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
+![Lars Kruse](/cph15/images/speakers/lkruse.png){: .round #right} Lars Kruse, Continuous Delivery Coach and partner and co-founder of Praqma. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
 
 In his speak Lars takes DevOps one step beyond forming a happy collaborative relation between Dev and Ops. He advocates for an entirely elastic and automated R&D infrastructure, with the software developer in the driver's seat. In his own words:
 
