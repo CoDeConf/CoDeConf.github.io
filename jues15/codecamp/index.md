@@ -1,5 +1,5 @@
 ---
-layout: jues/front
+layout: jues/codecamp
 title: Jenkins CI Code Camp 2015
 ---
 #Jenkins CI Code Camp 2015
