@@ -93,8 +93,3 @@ Novelda is the company behind Xethru, a radical new radar technology that has ap
 As a startup, we rely on the rapid development and quality assurance that continuous delivery provides.  But we had a challenge, how do we test the seemingly untestable?  Radar technology relies on analog and digital hardware, embedded systems, real time signal processing and RF propagation.  What would be a full system test?  How can we control the environment?  How do we simulate a baby breathing?  How do we know when things go wrong?
 
 Come to this talk to find out how we solved this testing challenge!
-
-
-
-
-Home: [xethru](https://xethru.com/){: target="\_blank"}
