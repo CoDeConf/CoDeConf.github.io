@@ -16,9 +16,14 @@ As Always, lunch, drinks and snacks are included and served on-site throughout t
 
 ### How to get there
 
-- **By car:** You can park at the guest parking lot on Ørestads Boulevard.
+- **By car:** Please notice that parking on campus-ground is not possible for guests. A few free spots might be available on the gravel lot next to the metro stop on Ørestad Boulevard. See [map](/jues15/images/Map-of-KUA.png) for paid parking options.
 - **By bus:** Bus number 12 (from Vesterport Station and the town hall square) and number 33 (from the town hall square).
 - **By metro:** Take the metro to Islands Brygge Station. From the station you have a 5-minute walk to the campus area.
+
+[Map View:](/jues15/images/Map-of-KUA.png)
+
+<a href="/jues15/images/Map-of-KUA.png" target="_blank">
+<img style="border:1px solid black" src="/jues15/images/Map-of-KUA.png" alt="KUA Map" title="Click the map" width="105" height="60"/></a>
 
 ### Accommodation in Copenhagen
 
