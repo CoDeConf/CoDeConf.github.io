@@ -25,7 +25,7 @@ title: JUES 2015 Agenda
   <timeslot>
     <start>09:30</start>
     <point><strong>KEYNOTE<br/></strong>
-    <a href="/jues15/program/#Kohsuke Kawaguchi"><strong>Kohsuke Kawaguchi, Jenkins Founder </strong></a>
+    <a href="/jues15/program/#kohsuke-kawaguchi-cloudbees-and-jenkins-creator"><strong>Kohsuke Kawaguchi, Jenkins Founder </strong></a>
     <em><br/>State of The Union<br/></em>
     </point>
   </timeslot>
@@ -48,12 +48,12 @@ title: JUES 2015 Agenda
       <timeslot>
       <start>10:50</start>
       <point id="two-tracks">
-      <a href="/jues15/program/#Mike Long"><strong>Continuous Delivery of Embedded Systems</strong></a>
+      <a href="/jues15/program/#mike-long-partner-praqma-norway"><strong>Continuous Delivery of Embedded Systems</strong></a>
         <br /><em>Mike Long, <br/>Praqma Norway</em><br/>
       </point>
 
       <point id="two-tracks">
-      <a href="/jues15/program/#Niels Bech"> <strong>Configuration as Code and JobDSL</strong></a>
+      <a href="/jues15/program/#niels-bech-nielsen"> <strong>Configuration as Code and JobDSL</strong></a>
         <br/>&nbsp;<br/><em>Niels Bech Nielsen,<br/>Logical</em><br/>
       </point>
 
@@ -69,7 +69,7 @@ title: JUES 2015 Agenda
     <timeslot>
       <start>11:50</start>
       <point id="two-tracks">
-      <a href="/jues15/program/#Alex Manly"><strong>Continuous Delivery with Jenkins <br/>and Chef</strong></a>
+      <a href="/jues15/program/#alex-manly-solutions-architect-chef"><strong>Continuous Delivery with Jenkins <br/>and Chef</strong></a>
         <br/>&nbsp;<br/><em>Alex Manly,<br/>Chef</em>
       </point>
 
@@ -91,12 +91,12 @@ title: JUES 2015 Agenda
         <timeslot>
           <start>13:35</start>
           <point id="two-tracks">
-          <a href="/jues15/program/#Laurits Søgaard"><strong>Test Driven Development in Excel</strong></a><br/>
+          <a href="/jues15/program/#laurits-sgaard-nielsen-visual-reporting"><strong>Test Driven Development in Excel</strong></a><br/>
             <em>Laurits Søgaard Nielsen, <br/>Visual Reporting</em>
           </point>
 
           <point id="two-tracks">
-          <a href="/jues15/program/#Jan Sørensen"><strong>Continuous Delivery in a Box</strong></a><br/>
+          <a href="/jues15/program/#jan-srensenpraqma"><strong>Continuous Delivery in a Box</strong></a><br/>
             <em>Jan Sørensen,<br/> Praqma</em><br/>
           </point>
 
@@ -112,12 +112,12 @@ title: JUES 2015 Agenda
         <timeslot>
           <start>14:20</start>
           <point id="two-tracks">
-          <a href="/jues15/program/#Vincent Latombe"><strong>Version your Build Process as you Version your Code with Literate Plugin</strong></a><br/>
+          <a href="/jues15/program/#vincent-latombe-amadeus"><strong>Version your Build Process as you Version your Code with Literate Plugin</strong></a><br/>
             <em>Vincent Latombe, <br/>ClouBees</em>
           </point>
 
           <point id="two-tracks">
-          <a href="/jues15/program/#Olav Liseth"><strong>Xethrubot - Testing the Untestable with Jenkins</strong></a><br/>
+          <a href="/jues15/program/#olav-liseth--senior-development-manager"><strong>Xethrubot - Testing the Untestable with Jenkins</strong></a><br/>
             <em>Olav Liseth &amp; Stig Støa, <br/>Novelda</em>
           </point>
 
@@ -133,12 +133,12 @@ title: JUES 2015 Agenda
         <timeslot>
           <start>16:05</start>
           <point id="two-tracks">
-          <a href="/jues15/program/#Mikkel Arentoft"><strong>Continuous Deployment to the Device</strong></a><br/>
+          <a href="/jues15/program/#mikkel-arentoft-scaut"><strong>Continuous Deployment to the Device</strong></a><br/>
             <em>Mikkel Arentoft, <br/>SCAUT</em>
           </point>
 
           <point id="two-tracks">
-          <a href="/jues15/program/#Robert Sandell"><strong>How to Connect your Slave</strong></a><br/>
+          <a href="/jues15/program/#robert-sandell-cloudbees"><strong>How to Connect your Slave</strong></a><br/>
             <em>Robert Sandell, <br/>CloudBees</em>
           </point>
 
