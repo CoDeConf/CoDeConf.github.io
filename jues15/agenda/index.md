@@ -134,7 +134,7 @@ title: JUES 2015 Agenda
           <start>16:05</start>
           <point id="two-tracks">
           <a href="/jues15/program/#Mikkel Arentoft"><strong>Continuous Deployment to the Device</strong></a><br/>
-            </em>Mikkel Arentoft, <br/>SCAUT</em>
+            <em>Mikkel Arentoft, <br/>SCAUT</em>
           </point>
 
           <point id="two-tracks">
