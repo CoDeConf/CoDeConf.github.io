@@ -76,3 +76,25 @@ Alex Manly is a Solutions Architect for Chef Software, and previous to Chef, the
 Delivery Truck is an open source project written by Chef which allows you to control the process for delivering Chef code in a well defined pipeline. In this talk you will learn about best practices to continuously deliver infrastructure code using Jenkins.
 
 Twitter: [@apmanly](https://twitter.com/apmanly){: target="\_blank"}
+
+##Xethrubot - Testing the Untestable with Jenkins
+
+###Olav Liseth – Senior Development Manager
+![Olav Liseth](/jues15/images/speakers/oliseth.jpg){: .round #left}
+Since receiving his Masters from the University of Oslo Olav has been working as an Analog/Mixed-signal ASIC Engineer and participated in the research and development of today’s generation of Novelda radars. Today he utilizes his thorough knowledge of the core Novelda technology to develop unique radar sensor solutions.
+
+###Stig Støa – Senior Development Engineer
+![Stig Støa](/jues15/images/speakers/sstoa.jpg){: .round #right}
+Stig received his Ph.D degree from the University of Oslo in 2012. While conducting his research on electromagnetic propagation in tissues and medical sensor networks, Stig joined the Novelda team in 2007.
+
+Together they are part of Noveldas SW and Applications team, a team that has evolved from a small group developing customized applications, to an agile team delivering advanced sensor systems.
+
+Novelda is the company behind Xethru, a radical new radar technology that has applications in Healthcare, Emergency Response, Personal Wellness plus many more.  We make everything from the silicon to the complex signal processing algorithms that analyze and interpret the data.
+As a startup, we rely on the rapid development and quality assurance that continuous delivery provides.  But we had a challenge, how do we test the seemingly untestable?  Radar technology relies on analog and digital hardware, embedded systems, real time signal processing and RF propagation.  What would be a full system test?  How can we control the environment?  How do we simulate a baby breathing?  How do we know when things go wrong?
+
+Come to this talk to find out how we solved this testing challenge!
+
+
+
+
+Home: [xethru](https://xethru.com/){: target="\_blank"}
