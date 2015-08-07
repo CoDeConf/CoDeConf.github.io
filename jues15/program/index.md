@@ -28,7 +28,7 @@ Mail: [mar@rehfeld.dk]()
 
 ##Version your build process as you version your code with Literate plugin
 
-###Vincent Latombe, Amadeus
+###Vincent Latombe, CloudBees
 ![Vincent Latombe](/jues15/images/speakers/vlatombe.png){: .round #left} Vincent is part of the Engineering team at CloudBees. Before that he managed a large Jenkins infrastructure at Amadeus. He likes building smart solutions with a focus on usability and user empowerment. He is the maintainer of the Clearcase plugin, and contributes to Jenkins core, Git and Literate plugins.
 The Literate plugin allows a project to define its build process directly in a description file (Markdown or YAML supported). Project owners have control over their build process and can refactor it as they refactor their code, while reusing all of the Jenkins goodness. Meet this beautiful plugin and fall in love with it!
 
@@ -93,3 +93,18 @@ Novelda is the company behind Xethru, a radical new radar technology that has ap
 As a startup, we rely on the rapid development and quality assurance that continuous delivery provides.  But we had a challenge, how do we test the seemingly untestable?  Radar technology relies on analog and digital hardware, embedded systems, real time signal processing and RF propagation.  What would be a full system test?  How can we control the environment?  How do we simulate a baby breathing?  How do we know when things go wrong?
 
 Come to this talk to find out how we solved this testing challenge!
+
+##Transforming Enterprise Release Management in Elastic Beanstalk using Jenkins, Docker and Jenkins Job Builder
+
+###Yves Hwang, Internet & Mobility Architect, Statoil Fuel & Retail
+![Yves Hwang](/jues15/images/speakers/yhwang.jpg){: .round #left}
+Yves is a full stack software craftsman with a passion for software architecture and product development. A developer at heart and working in Statoil Fuel & Retail as the Internet & Mobility Architect, Yves is opinionated about advocating devops culture that is open source, agile, test driven and peer reviewed. Yves codes daily and is no stranger to 3rd line support duties. A big fan of Docker and Ansible, he primarily programs in Java, Javascript and dabbles in a bit of C.
+
+Releasing software is hard. Getting rid of bad habits under the guise of old school enterprise I.T. is even harder. This is a devOps story about transforming an enterprise and its dated methods of release management into something modern, scalable, reliable and state of the art. On a technical level, and at the heart of this transformation, lies Jenkins, Docker, and Jenkins Job Builder.
+
+A number of our new microservices lives in Elastic Beanstalk in AWS. Coupled with bursty release cycles and multiple development teams, a need for a common build pipeline soon surfaced. Reliability and scalability is the shangri la of any build pipelines. The aforementioned toolchain allowed us to perform verification on the buildpipeline itself, template jobs for reusability, and most of all, deploy and track all changes to any Jenkins jobs via Git. This significantly sped up the process of configuring complex Jenkins jobs, and enabled highly parameterized build pipeline to take shape. Ultimately this allowed our teams to utilize Jenkins a lot more efficiently and to better manage Jenkins and the build pipeline overtime.
+
+This presentation aims to share the findings, lessons, and the slightly macabre story that is enterprise I.T. and how we went about cleaning up this mess.
+
+Twitter: [@yveshwang](https://twitter.com/yveshwang){: target="\_blank"}
+Blog: [A developer's perspective by Yves Hwang](https://macyves.wordpress.com/){: target="\_blank"}

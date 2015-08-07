@@ -74,7 +74,7 @@ title: JUES 2015 Agenda
       </point>
 
       <point id="two-tracks">
-      <a href="/jues15/program/#Yves Hwang"> <strong>Transforming Enterprise Release Management in Elastic Beanstalk w. Jenkins, Docker, Jenkins Job Builder</strong><br/></a>
+      <a href="/jues15/program/#yves-hwang-internet--mobility-architect-statoil-fuel--retail"> <strong>Transforming Enterprise Release Management in Elastic Beanstalk w. Jenkins, Docker, Jenkins Job Builder</strong><br/></a>
         <em>Yves Hwang, <br/>Statoil</em>
       </point>
 
@@ -113,7 +113,7 @@ title: JUES 2015 Agenda
           <start>14:20</start>
           <point id="two-tracks">
           <a href="/jues15/program/#vincent-latombe-amadeus"><strong>Version your Build Process as you Version your Code with Literate Plugin</strong></a><br/>
-            <em>Vincent Latombe, <br/>ClouBees</em>
+            <em>Vincent Latombe, <br/>CloudBees</em>
           </point>
 
           <point id="two-tracks">
