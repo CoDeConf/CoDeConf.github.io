@@ -112,7 +112,7 @@ title: JUES 2015 Agenda
         <timeslot>
           <start>14:20</start>
           <point id="two-tracks">
-          <a href="/jues15/program/#vincent-latombe-amadeus"><strong>Version your Build Process as you Version your Code with Literate Plugin</strong></a><br/>
+          <a href="/jues15/program/#vincent-latombe-cloudbees"><strong>Version your Build Process as you Version your Code with Literate Plugin</strong></a><br/>
             <em>Vincent Latombe, <br/>CloudBees</em>
           </point>
 
