@@ -11,7 +11,7 @@ title: JUES 2015 Program
 Twitter: [@kohsukekawa](https://twitter.com/kohsukekawa){: target="\_blank"}
 Blog: [kohsuke.org](http://kohsuke.org/){: target="\_blank"}
 
-##Praqma & Zetta Work
+##Continuous Delivery in a Box
 
 ###Jan Sørensen,Praqma
 ![Jan Sørensen](/jues15/images/speakers/jsørensen.jpg){: .round #left}This presentation will demonstrate a one-click provisioning of infrastructure for a Continuous Delivery pipeline. The pipeline is Docker based, i.e. each service in the pipeline is implemented as a Docker image. The pipeline consists of typical Continuous Delivery services like Jenkins master, Jenkins slaves (provisioned on demand), Artifactory. The provisioning of Docker host is done with docker-machine, orchestration with docker-compose, and scaling with docker-swarm.<br/><br/><br/>
