@@ -44,7 +44,7 @@ Twitter: [@robert_sandell](https://twitter.com/robert_sandell){: target="\_blank
 
 ##Configuration as code and JobDSL
 
-###Niels Bech Nielsen
+###Niels Bech Nielsen, Logical
 ![Niels Bech Nielsen](/jues15/images/speakers/nbnielsen.png){: .round #left}Niels Bech Nielsen is a very experienced developer and architect, who likes working on the leading edge of software development. Probably more hardcore than you immediately think. Have amble team and technical leadership experiences, but also a very valuable expert in software technology and java in particular. Predominantly using agile methods such as scrum and kanban with focus on continuous delivery, but also experienced in other processes including RUP and waterfall. Have been teaching and mentoring and always offering skill boosts. Been used often to raise the bar of the development team.
 
 Twitter: [@nielsbech](https://twitter.com/nielsbech){: target="\_blank"}
@@ -79,11 +79,11 @@ Twitter: [@apmanly](https://twitter.com/apmanly){: target="\_blank"}
 
 ##Xethrubot - Testing the Untestable with Jenkins
 
-###Olav Liseth – Senior Development Manager
+###Olav Liseth, Senior Development Manager, Xethru
 ![Olav Liseth](/jues15/images/speakers/oliseth.jpg){: .round #left}
 Since receiving his Masters from the University of Oslo Olav has been working as an Analog/Mixed-signal ASIC Engineer and participated in the research and development of today’s generation of Novelda radars. Today he utilizes his thorough knowledge of the core Novelda technology to develop unique radar sensor solutions.
 
-###Stig Støa – Senior Development Engineer
+###Stig Støa, Senior Development Engineer, Xethru
 ![Stig Støa](/jues15/images/speakers/sstoa.jpg){: .round #right}
 Stig received his Ph.D degree from the University of Oslo in 2012. While conducting his research on electromagnetic propagation in tissues and medical sensor networks, Stig joined the Novelda team in 2007.
 
