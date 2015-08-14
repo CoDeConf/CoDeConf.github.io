@@ -2,6 +2,13 @@
 layout: jues/front
 title: JUES 2015 Front
 ---
+
+[If you attended the conference
+Please fill out the evaluation form.
+We need it](/program/eval.html)
+
+---
+
 #Jenkins User Event Scandinavia 2015
 
 ## in the heart of Copenhagen.
