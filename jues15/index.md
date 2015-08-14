@@ -21,7 +21,7 @@ __August 12th, 2015 at Københavns Universitet Amager (KUA).__
 
 The program consists of invited as and submitted speaks, tech talks, and case stories from experienced Jenkins CI developers, community frontrunners, executives, and others who are engaged in building quality software and accelerating the delivery process through Continuous Integration and Continuous Delivery.
 
-_As always we'll precede the JUES conference with a Code Camp on the dayt before_{: .inverted} The Code Camp is a full day community event where developers learn from fellow developers on coding and plugin enhancement, all delivered back to the community.
+_As always we'll precede the JUES conference with a Code Camp on the day before_{: .inverted} The Code Camp is a full day community event where developers learn from fellow developers on coding and plugin enhancement, all delivered back to the community.
 
 We welcome you and other leading Jenkins developers, QA, DevOps, and operations personnel to this years Scandinavian Jenkins CI festival hoping to continuously support the growth of the Jenkins Open Source community.
 
