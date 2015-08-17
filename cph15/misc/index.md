@@ -30,7 +30,7 @@ Please let us know if you are planning to stay at the Hotel Scandic Copenhagen a
 
 ###Information to sponsors<br/>
 Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: Conference name: “Continuous Delivery & DevOps Conference”, name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
-NOTE: All material must reach the event venue, no later than Oct. 20th.
+NOTE: All material must reach the event venue, no later than Friday October 2nd.
 
 **Please send to**<br/>
 Hotel Scandic Copenhagen<br/>
