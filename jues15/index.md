@@ -7,6 +7,8 @@ title: JUES 2015 Front
 Please fill out the evaluation form.
 We need it](/jues15/program/eval.html)
 
+[Get the presentation slidedecks](http://bit.ly/1U0KtsO)
+
 ---
 
 #Jenkins User Event Scandinavia 2015
