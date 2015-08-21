@@ -16,7 +16,7 @@ Continuous Delivery allows you to get new features and capabilities to market fa
 
 DevOps is a movement designed to facilitate the collaboration between development and IT operations to bring the portfolio of IT technology and applications forward in a cadence of faster, more predictable releases that support positive business outcomes.
 
-Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the perfect venue at Hotel Marriott Copenhagen and meet your peers for new experiences, knowledge sharing, and network. <br/>
+Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Join us at Hotel Scandic Copenhagen and meet your peers for new experiences, knowledge sharing, and network. <br/>
 
 <a href="http://cdmi.praqma.net/">
 Is your company mature? Take the test
