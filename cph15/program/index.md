@@ -58,7 +58,7 @@ Blog: [www.davefarley.net](http://www.davefarley.net){: target="\_blank"}
 
 ## Continuous Delivery War stories - deploying 10 times per day
 
-###Allan Ebdrup, E-conomics
+###Allan Ebdrup, Debitoor
 ![Allan Ebdrup](/cph15/images/speakers/eebdrup.jpg){: .round #right} Allan Ebdrup studied Computer Science at universities in Århus and København.
 He has worked 16 years in IT as self-employed, developer, IT-architect, enterprise-architect, tech & team-lead.
 Three years ago Allan took the leap form working with technologies from the evil empires of Microsoft, Oracle and IBM to working exclusively with Open Source technologies like Node.js, NoSql and MongoDB.
@@ -95,3 +95,10 @@ In his speak Lars takes DevOps one step beyond forming a happy collaborative rel
 
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
 Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
+
+###Jan Bosch, Professor of Software Engineering, Chalmers University of Technology
+![Jan Bosch](/cph15/images/speakers/jbosch.png){: .round #left}
+Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
+
+Twitter: [@JanBosch](https://twitter.com/janbosch){: target="\_blank"}
+Blog: [janbosch.com](http://www.janbosch.com){: target="\_blank"}
