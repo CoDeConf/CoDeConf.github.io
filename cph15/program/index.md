@@ -11,7 +11,7 @@ title: CoDe CPH 2015 - Preliminary program
 
 ### Jim Coplien, Gertrudandcope
 
-![Jim Coplien](/cph15/images/speakers/jcoplien.jpg){: .round #left}
+![Jim Coplien](/cph15/images/speakers/jcoplien.jpg){: .round #right}
 
 Jim Coplien has over 40 years of experience in software development and has been a pioneer of object-oriented design, agile development process, and software patterns. He has written books covering a versatile spectrum of disciplines ranging from organizational structure to programming. Cope leads and facilitates the industry Scrum PLoP® community effort (scrumplop.org) to create a de facto standard of rationalized Scrum.
 
@@ -21,6 +21,13 @@ Jim gives a refreshingly different view on continuous-x in his keynote. This is 
 
 Twitter: [@jcoplien](http://twitter.com/jcoplien){: target="\_blank"}
 Publications: [gertrudandcope.com](https://sites.google.com/a/gertrudandcope.com/info/Publications){: target="\_blank"}
+
+###Jan Bosch, Professor of Software Engineering, Chalmers University of Technology
+![Jan Bosch](/cph15/images/speakers/jbosch.png){: .round #left}
+Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
+
+Twitter: [@JanBosch](https://twitter.com/janbosch){: target="\_blank"}
+Blog: [janbosch.com](http://www.janbosch.com){: target="\_blank"}
 
 ## Great Artists Steal: Adding Git Support to Microsoft Visual Studio
 {: #steal}
@@ -57,6 +64,7 @@ Twitter: [@davefarley77](https://twitter.com/davefarley77){: target="\_blank"}
 Blog: [www.davefarley.net](http://www.davefarley.net){: target="\_blank"}
 
 ## Continuous Delivery War stories - deploying 10 times per day
+{: #stories}
 
 ###Allan Ebdrup, Debitoor
 ![Allan Ebdrup](/cph15/images/speakers/eebdrup.jpg){: .round #right} Allan Ebdrup studied Computer Science at universities in Århus and København.
@@ -70,6 +78,7 @@ Twitter: [@allanebdrup](http://twitter.com/allanebdrup){: target="\_blank"}
 Blog: [version2.dk](http://www.version2.dk/blogs/allanebdrup){: target="\_blank"}
 
 ##What does Continuous Delivery demand of me as a person?
+{: #demand}
 
 ###Mark Coleman, Implicit-Explicit
 ![Mark Coleman](/cph15/images/speakers/mcoleman.jpg){: .round #left} Mark Coleman is the founder of [implicit-explicit.com](http://www.implicit-explicit.com), a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create, deliver and market software to their users.
@@ -85,6 +94,7 @@ Over the last 5 years I've introduced continuous delivery to several teams, and 
 Twitter: [@mrmrcoleman](https://twitter.com/mrmrcoleman){: target="\_blank"}
 
 ##NoOps - beyond the DevOps frontier!
+{: #frontier}
 
 ###Lars Kruse, Praqma
 ![Lars Kruse](/cph15/images/speakers/lkruse.png){: .round #right} Lars Kruse, Continuous Delivery Coach and partner and co-founder of Praqma. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
@@ -95,10 +105,3 @@ In his speak Lars takes DevOps one step beyond forming a happy collaborative rel
 
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
 Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
-
-###Jan Bosch, Professor of Software Engineering, Chalmers University of Technology
-![Jan Bosch](/cph15/images/speakers/jbosch.png){: .round #left}
-Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
-
-Twitter: [@JanBosch](https://twitter.com/janbosch){: target="\_blank"}
-Blog: [janbosch.com](http://www.janbosch.com){: target="\_blank"}
