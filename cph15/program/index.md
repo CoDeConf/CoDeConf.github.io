@@ -105,3 +105,10 @@ In his speak Lars takes DevOps one step beyond forming a happy collaborative rel
 
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
 Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
+
+###Aino Vonge Corry, Retrospectives Facilitator, GOTO Aarhus Program Advisory Board
+![Aino Vonge Corry](/cph15/images/speakers/avcorry.png){: .round #left} Aino Corry is technical conference editor and retrospectives facilitator. She holds a masters degree and a ph.d. in computer science. She has 12 years of experience with Patterns in Software Development, and teaches OO design, software architecture and development in academia and industry.
+
+Aino is member of GOTO Aarhus Program Advisory Board. In her spare time, she runs and sings (but not at the same time).
+
+Twitter: [@apaipi](https://twitter.com/apaipi){: target="\_blank"}
