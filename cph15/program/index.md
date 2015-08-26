@@ -106,9 +106,12 @@ In his speak Lars takes DevOps one step beyond forming a happy collaborative rel
 Twitter: [@lakruzz](https://twitter.com/lakruzz){: target="\_blank"}
 Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
 
-###Aino Vonge Corry, Retrospectives Facilitator, GOTO Aarhus Program Advisory Board
-![Aino Vonge Corry](/cph15/images/speakers/avcorry.png){: .round #left} Aino Corry is technical conference editor and retrospectives facilitator. She holds a masters degree and a ph.d. in computer science. She has 12 years of experience with Patterns in Software Development, and teaches OO design, software architecture and development in academia and industry.
+##Dating Patterns
+{: #dating}
 
-Aino is member of GOTO Aarhus Program Advisory Board. In her spare time, she runs and sings (but not at the same time).
+###Aino Vonge Corry, Metadeveloper
+![Aino Vonge Corry](/cph15/images/speakers/avcorry.png){: .round #left} <br><br> Aino Corry is technical conference editor and retrospectives facilitator. She holds a masters degree and a Ph.D. in computer science.<br> She has 12 years of experience with Patterns in Software Development, and teaches OO design, software architecture and development in academia and industry.<br>
+
+> <br>This talk will change your life. And maybe your partner's life.<br> Please read [this book](http://www.amazon.co.uk/Dating-Design-Patterns-Ericha-Gordon/dp/0974312002/ref=sr_1_3?ie=UTF8&qid=1429180574&sr=8-3&keywords=dating+patterns){: target="\_blank"} review on Amazon and know that you will have <br>an entertaining, yet valuable afternoon with the Dating Patterns explained.
 
 Twitter: [@apaipi](https://twitter.com/apaipi){: target="\_blank"}
