@@ -22,12 +22,14 @@ Jim gives a refreshingly different view on continuous-x in his keynote. This is 
 Twitter: [@jcoplien](http://twitter.com/jcoplien){: target="\_blank"}
 Publications: [gertrudandcope.com](https://sites.google.com/a/gertrudandcope.com/info/Publications){: target="\_blank"}
 
-## Vicious cycles & Contagious debt
+## Contagious Architecture Technical Debt and Vicious Cycles
 {: #vicious}
 
 ###Jan Bosch, Professor of Software Engineering, Chalmers University of Technology
 ![Jan Bosch](/cph15/images/speakers/jbosch.png){: .round #left}
 Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
+
+>Software architecture is central in allowing agile development teams to move fast over time. Hence, architecture refactoring needs to be combined with agile development and continuous deployment. Practice however shows that many companies have great difficulty in accomplishing this. In this talk, we present the challenges that originate from accumulating architecture technical debt, the patterns that underlie this behaviour as well as better ways to deal with technical debt. Specifically, we will talk about vicious cycles, i.e. typical behavioural patterns in the organisation that accelerate the accumulation of technical debt, and contagious debt, I.e. types of architectural technical debt that spread through the system like a virus and that need to be prioritised in refactoring. The concepts will be illustrated with several examples from software-intensive systems companies in the nordics.
 
 Twitter: [@JanBosch](https://twitter.com/janbosch){: target="\_blank"}
 Blog: [janbosch.com](http://www.janbosch.com){: target="\_blank"}
