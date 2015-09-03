@@ -9,6 +9,4 @@ title: Sponsors
   <div style="height:40px;text-align:center;font-size:82%;"><br/></div>
 </div>
 
-Coverity, a Synopsys company, is a leading provider of software quality and security testing solutions. Our award-winning software testing platform helps developers create and deliver better software, faster, by automatically testing source code for software defects that could lead to product crashes, unexpected behavior, security breaches or catastrophic system failure.
-
-Founded in the Computer Science Laboratory at Stanford University, we invented a fundamentally different way to test complex source code to find hard to spot, yet critical software defects. Our approach: arm developers with static analysis solutions that help them quickly and efficiently test their code and address critical quality and security issues – as the code is written. Since our inception in 2003, we have cemented our leadership position in the industry with a full suite of software testing solutions.Today, the world’s largest brands rely on us to help ensure the quality, safety and security of their products and services.
+Synopsys, Inc. is the Silicon to Software partner for innovative companies developing products and software applications we all rely on. Synopsys has a long history of being a leader in electronic design automation and semiconductor IP, and is also a leader in software quality and security with its Coverity solutions.

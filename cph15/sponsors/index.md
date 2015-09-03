@@ -20,6 +20,6 @@ title: Sponsors
 
 [__Atlassian is silver sponsor__ <br/> Helping teams to work smarter, and create better software together.](/cph15/sponsors/atlassian.html){: .sponsorbox .silver #atlassian style="vertical-align:middle"}
 
-[__Coverity is silver sponsor__ <br/> A leading provider of software quality and security testing solutions.](/cph15/sponsors/coverity.html){: .sponsorbox .silver #coverity style="vertical-align:middle"}
+[__Synopsys is silver sponsor__ <br/> A leading provider of software quality and security testing solutions.](/cph15/sponsors/coverity.html){: .sponsorbox .silver #coverity style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>
