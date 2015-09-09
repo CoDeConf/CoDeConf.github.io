@@ -124,9 +124,24 @@ a.banner:hover {
 	background-image: url("/jues15/images/pipe3.png");
 }
 
+#dod1.banner {
+	background-image: url("/day-of-docker-sthlm15/images/containers1-990x225.png");
+}
+#dod2.banner {
+	background-image: url("/day-of-docker-sthlm15/images/containers2-990x225.png");
+}
+#dod3.banner {
+	background-image: url("/day-of-docker-sthlm15/images/people1-990x225.png");
+}
+
 icon#jenkinsflow{
 	background-image: url("/images/jenkins-flow.png");
 }
+
+icon#dockerwhale{
+	background-image: url("/images/docker-whale.png");
+}
+
 
 /* #Media Queries
 ================================================== */
