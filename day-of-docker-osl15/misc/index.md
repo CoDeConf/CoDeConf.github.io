@@ -1,5 +1,5 @@
 ---
-layout: jues/blogfront
+layout: day-of-docker/default
 title: The rest
 ---
 #All the information you need...<br/>

@@ -1,5 +1,5 @@
 ---
-layout: jues/program
+layout: day-of-docker/program
 title: Sponsor Lineup
 ---
 #Sponsor Lineup
