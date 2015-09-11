@@ -3,12 +3,7 @@ layout: day-of-docker/sponsor
 title: Sponsors
 ---
 #Organizers, Hosts and Sponsors
-[__Praqma is your conference host__<br/>We drive the initiative behind the CoDe conferences and meetups. Our business is simply Praqmatic  software development.](/jues15/sponsors/praqma.html){: .sponsorbox  .host #praqma }
-
-
-[__XebiaLabs is gold sponsor__<br/>Leading provider of Continuous Delivery and DevOps tools for the Enterprise.](/jues15/sponsors/xebialabs.html){: .sponsorbox .gold #xebialabs style="clear:left;"}
-
-[__CloudBees is silver sponsor__<br/>CloudBees, the Jenkins Enterprise company.](/jues15/sponsors/cloudbees.html){: .sponsorbox .silver #cloudbees style="vertical-align:middle"}
+[__Praqma is your conference host__<br/>We drive the initiative behind the CoDe conferences and meetups. Our business is simply Praqmatic software development.](/day-of-docker-osl15/sponsors/praqma.html){: .sponsorbox  .host #praqma }
 
 <div style="clear:both;">&nbsp;</div>
 
