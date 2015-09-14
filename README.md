@@ -12,7 +12,12 @@ Dev env setup on Mac OS and Windows
   docker-machine create --driver virtualbox gijeli
 ```
 
-* Before you start you need to setup port forwarding from guest machine to your host so you can use your browser to see web pages from docker container. To do so open VirtualBox -> rigth click on gijeli virtual machine -> Settings -> Network -> Port Forwarding -> Add one more rule that looks like ssh one but use 4000 as port number in both cases
+* We need to setup port forwarding in order to be able to access web pages from the container in browser on host machine
+
+```shell
+  VBoxManage controlvm jenkins-checkpoints-demo natpf1 "HTTP,tcp,127.0.0.1,4000,,4000"
+```
+
 * Jump into virtual machine by running
 
 ```shell
