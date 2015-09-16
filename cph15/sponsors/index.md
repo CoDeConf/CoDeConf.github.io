@@ -20,7 +20,7 @@ title: Sponsors
 
 [__Atlassian is silver sponsor__ <br/> Helping teams to work smarter, and create better software together.](/cph15/sponsors/atlassian.html){: .sponsorbox .silver #atlassian style="vertical-align:middle"}
 
-[__T2Data is community and drink-up sponsor__ Provider of Continuous Delivery tools and services.](/cph15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
+[__T2Data is silver sponsor and drink-up sponsor__ Provider of Continuous Delivery tools and services.](/cph15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
 
 [__Synopsys is silver sponsor__ <br/> A leading provider of software quality and security testing solutions.](/cph15/sponsors/coverity.html){: .sponsorbox .silver #coverity style="vertical-align:middle"}
 
