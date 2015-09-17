@@ -120,3 +120,16 @@ Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
 > <br>This talk will change your life. And maybe your partner's life.<br> Please read [this book](http://www.amazon.co.uk/Dating-Design-Patterns-Ericha-Gordon/dp/0974312002/ref=sr_1_3?ie=UTF8&qid=1429180574&sr=8-3&keywords=dating+patterns){: target="\_blank"} review on Amazon and know that you will have <br>an entertaining, yet valuable afternoon with the Dating Patterns explained.
 
 Twitter: [@apaipi](https://twitter.com/apaipi){: target="\_blank"}
+
+
+## Continuous Value Delivery in The Context of Web Development
+{: #web}
+
+###Sven Malvik, Lead Software Engineer, SopraSteria
+![Sven Malvik](/cph15/images/speakers/smalvik.png){: .round #right}
+Sven Malvik is the Head of Developer Competence Network and a Senior Software Developer at Nordea Bank. He is driven by the question how to decrease Time to Market and how DevOps can help. For him, DevOps is about the people. Their motivation dictates the Time to Market. In his spare time he writes about DevOps and IT Technologies.
+
+>Continuous Value Delivery is an extension of Continuous Delivery in the matter that business has a key role in the process of software development. In this session we will talk about the key elements of Continuous Value Delivery and how architecture decisions influences Time to Market. There is one key element that is more important than the others, the team. How does the perfect team look like and how can a team outline other teams. What are the main challenges of a team and how should a team deal with those in larger organisations. Finally we will talk about the Value Triangle and how to make it part of Continuous Delivery.
+
+Twitter: [@SvenMalvik](https://twitter.com/svenmalvik){: target="\_blank"}
+Blog: [sven.malvik.de](http://sven.malvik.de/blog){: target="\_blank"}
