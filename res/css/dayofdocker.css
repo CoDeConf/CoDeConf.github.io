@@ -1,0 +1,83 @@
+
+
+a {
+  color: #ef9025;
+}
+
+a:hover {
+  color: #2268b2;
+}
+
+.subheading {
+  font-weight: bold;
+  margin-bottom:20px;
+}
+
+
+header {
+  background: #22b8eb;
+  height: 225px;
+  background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.menubar {
+  position: relative;
+  background: #000000;
+  height: 30px;
+}
+
+header h1 {
+  letter-spacing: -1px;
+  font-size: 47px;
+  color: #fff;
+  line-height: 1;
+  margin-bottom: 0.2em;
+  width: 540px;
+}
+
+
+header h2 {
+  font-size: 30px;
+  color: #fe950d;
+  font-weight: normal;
+  line-height: 1.3;
+  width: 540px;
+  letter-spacing: 0;
+}
+
+header .menu {
+  float: left;
+  margin-left: 5px;
+  margin-top: 5px;
+  padding-top: 0px;
+  width: 87px;
+  color: #fff;
+  height: 21px;
+  background-color: #fe950d;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.menubar .menu {
+  float: left;
+  margin-left: 5px;
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 120px;
+  color: #52baea;
+  height: 26px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 130%;
+  font-weight: bold;
+}
+
+/* COMMON STYLES */
+
+hr {
+  height: 1px;
+  border: none;
+  background: transparent url('/images/ef9025.png') 0 0 repeat;
+}
