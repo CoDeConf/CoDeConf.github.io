@@ -7,7 +7,7 @@ title: Day Of Docker - Front
 
 ## A CoDe Event
 
-__November 26th 2015 at Mesh in Oslo.__
+__December 1st 2015 at Mesh in Oslo.__
 
 ###### We're introducing a different kind of conference...
 

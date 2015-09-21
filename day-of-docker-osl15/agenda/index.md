@@ -8,7 +8,7 @@ title: Day of Docker 2015 Agenda
     <start>&nbsp;</start>
     <point class="header">
       <strong>Day of Docker Agenda</strong><br/>
-      Oslo November 26th
+      Oslo December 1st
     </point>
   </timeslot>
 
