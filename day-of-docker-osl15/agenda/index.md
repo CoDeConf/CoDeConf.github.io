@@ -39,18 +39,18 @@ title: Day of Docker 2015 Agenda
       <timeslot>
       <start>10:00</start>
       <point id="three-tracks">
+        <strong>Docker 101<br/>&nbsp;</strong><br/>
+        <em>Mike Long, Praqma Norway</em>
+      </point>
+
+      <point id="three-tracks">
         <strong>Workshop<br/>&nbsp;</strong><br/>
         <em>To be announced</em>
       </point>
 
       <point id="three-tracks">
-        <strong>Technology<br/>demonstration</strong><br/>
-        <em>To be announced</em>
-      </point>
-
-      <point id="three-tracks">
-        <strong>Birds of a Feather<br/>&nbsp;</strong><br/>
-        <em>To be announced</em>
+        <strong>Build your own Docker<br/>&nbsp;</strong><br/>
+        <em>Jan Sørensen, Independent</em>
       </point>
 
 
@@ -72,12 +72,12 @@ title: Day of Docker 2015 Agenda
     </point>
 
     <point id="three-tracks">
-      <strong>Technology<br/>demonstration</strong><br/>
+      <strong>Workshop<br/>&nbsp;</strong><br/>
       <em>To be announced</em>
     </point>
 
     <point id="three-tracks">
-      <strong>Birds of a Feather<br/>&nbsp;</strong><br/>
+      <strong>Workshop<br/>&nbsp;</strong><br/>
       <em>To be announced</em>
     </point>
 
@@ -99,12 +99,12 @@ title: Day of Docker 2015 Agenda
   </point>
 
   <point id="three-tracks">
-    <strong>Technology<br/>demonstration</strong><br/>
+    <strong>Workshop<br/>&nbsp;</strong><br/>
     <em>To be announced</em>
   </point>
 
   <point id="three-tracks">
-    <strong>Birds of a Feather<br/>&nbsp;</strong><br/>
+    <strong>Workshop<br/>&nbsp;</strong><br/>
     <em>To be announced</em>
   </point>
 
@@ -120,7 +120,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <strong>Keynote</strong>
+      <strong>Keynote with Kelsey Hightower (CoreOS)</strong>
     </point>
   </timeslot>
 
