@@ -4,165 +4,181 @@ title: CoDe & DevOps Conference
 ---
 #{{site.name}}
 
-<div class="container">
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Welcome</div>
-  </div>
+##Copenhagen-2015
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">8:00</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Registration &amp; Light Breakfast</strong></div>
-  </div>
+<agenda>
+  <timeslot>
+    <start>&nbsp;</start>
+    <point class="header">
+      <strong>CoDeCPH Conference Agenda</strong><br/>
+      Copenhagen October 7th
+    </point>
+  </timeslot>
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:00</div>
-    <div class="agenda-column agenda-1col agenda-item">
-      <strong>Welcome &amp; Announcements</strong><br /><em></em>
-    </div>
-  </div>
+  <timeslot>
+    <start>8:30</start>
+    <point><strong>Registration &amp; Light Breakfast</strong><br/></point>
+  </timeslot>
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:10</div>
-    <div class="agenda-column agenda-1col agenda-item">
-      <a href="/cph15/program/#devops">Keynote: DevOps, Cloud and Your SDLC</a><br />
-      <em>Andi Mann, CA Technologies</em>
-    </div>
-  </div>
+  <timeslot>
+    <start>09:00</start>
+    <point><strong>Welcome &amp; Announcements</strong></point>
+  </timeslot>
 
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">09:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Branch Track - 45 Minutes per Session</div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:10</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/cph15/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
-    </div>
-
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/cph15/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time">&nbsp;</div>
-  <div class="agenda-column agenda-1col agenda-header-item">30 Minutes Per Session</div>
-</div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-    <a href="/cph15/program#embedded">Implementing Continuous Delivery in Practice for Embedded Devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="/cph15/program#sdlc">Robust Functional- and Integration Testing Earlier in
- the SDLC is Mandatory When Introducing Continuous Delivery</a><br/><em>Allan Tange, Testhuset</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:35</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Lunch</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:20</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/cph15/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
-    </div>
-
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/cph15/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
-    </div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:50</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:00</div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="/cph15/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/cph15/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:30</div>
-  <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:40</div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="/cph15/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
-  <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-  <a href="/cph15/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
-</div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:10</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Exhibition</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 15 minutes per talk</div>
-  </div>  
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/cph15/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/cph15/program/#howto">How to Find and Grow Your Own Experts..</a><br /><em>Paul Speers, Speerhead</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:10</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Swap speaker</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:15</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/cph15/program/#agility">DevOps Agility: Lifecycle Reporting & Dashboards</a><br/><em>Florin Iten, QACube</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/cph15/program/#xrayed">Continuous Delivery X-rayed<br /></a><em>Lars Bendix, Lund University</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:30</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Merge tracks</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">15:40</div>
-  <div class="agenda-column agenda-1col agenda-item">
-    <a href="/cph15/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
-    <em>Jan Bosch, Professor of Software Engineering, Chalmers University of Technology</em>
-  </div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:25</div>
-
-  <div class="agenda-column agenda-1col agenda-item"><a href="/cph15/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codecph</a> during the day</em></div>
+  <timeslot>
+    <start>09:30</start>
+    <point><strong>KEYNOTE<br/></strong>
+    <a href="/cph15/program/#vicious"><strong>Contagious Architecture Technical Debt and Vicious Cycles</strong></a>
+    <em><br/>Jan Bosch, Professor of Software Engineering,<br/> Chalmers University of Technology</em>
+    </point>
+  </timeslot>
 
 
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:55</div>
-  <div class="agenda-column agenda-1col agenda-item"><strong>Wrap Up</strong></div>
-</div>
+  <timeslot>
+    <start>10:15</start>
+    <point class="break">
+    <strong>Break</strong>
+    </point>
+  </timeslot>
+
+
+    <timeslot>
+      <start>10:35</start>
+      <point>
+      <a href="/cph15/program/#steal"><strong>Great Artists Steal: Adding Git Support to Microsoft Visual Studio</strong></a>
+        <br /><em>Ed Thomson,
+  Snr. Software Dev. Engr.<br/> Microsoft</em><br/>
+      </point>
+    </timeslot>
+
+    <timeslot>
+      <start>11:20</start>
+      <point class="break">
+      <strong>Break</strong>
+      </point>
+    </timeslot>
+
+    <timeslot>
+      <start>&nbsp;</start>
+      <point class="header">
+        Branch out
+      </point>
+    </timeslot>
+
+    <timeslot>
+      <start>11:40</start>
+      <point id="two-tracks">
+      <a href="/cph15/program/#rationale"><strong>The Rationale for Continuous Delivery</strong></a>
+        <br/><em>Dave Farley,<br/> Continuous Delivery Ltd.</em>
+      </point>
+
+      <point id="two-tracks">
+      <a href="/cph15/program/#"><strong></strong></a><br/>TBA<br/>
+        <em><br/></em>
+      </point>
+
+    </timeslot>
+
+
+        <timeslot>
+          <start>12:10</start>
+          <point class="break">
+          <strong>Lunchbuffet</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>13:10</start>
+          <point id="two-tracks">
+          <a href="/cph15/program/#demand"><strong>What does Continuous Delivery demand of me as a person?</strong></a><br/>
+            <em>Mark Coleman, <br/>Implicit-Explicit</em>
+          </point>
+
+          <point id="two-tracks">
+          <a href="/cph15/program/#stories"><strong>Continuous Delivery war stories - deploying 10 times per day</strong></a><br/>
+            <em>Allan Ebdrup,<br/>Debitoor</em>
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>13:40</start>
+          <point class="break">
+          <strong>Swap Track</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>13:50</start>
+          <point id="two-tracks">
+          <a href="/cph15/program/#frontier"><strong>NoOps -<br/>beyond the DevOps frontier!</strong></a><br/>
+            <em>Lars Kruse, Continuous Delivery Consultant, Praqma</em>
+          </point>
+
+          <point id="two-tracks">
+          <a href="/cph15/program/#web"><strong>Continuous Value Delivery in The Context of Web Development</strong></a><br/>
+            <em>Sven Malvik, Lead Software Engineer, <br/>SopraSteria</em>
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>14:20</start>
+          <point class="break">
+          <strong>Exhibition/Coffe &amp; Cake</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>15:20</start>
+          <point id="two-tracks">
+          <a href="/cph15/program/#dating"><strong>Dating Patterns</strong></a><br/>
+            <em>Aino Corry, <br/>Metadeveloper</em>
+          </point>
+
+          <point id="two-tracks">
+          <a href="/cph15/program/#"><strong></strong></a><br/>TBA<br/>
+            <em><br/></em>
+          </point>
+
+        </timeslot>
+
+        <timeslot>
+          <start>15:50</start>
+          <point class="break">
+          <strong>Break</strong>
+          </point>
+        </timeslot>
+
+        <timeslot>
+          <start>&nbsp;</start>
+          <point class="header">
+            Merge
+          </point>
+        </timeslot>
+
+  <timeslot>
+    <start>16:00</start>
+    <point>
+      <strong>KEYNOTE<br/></strong>
+      <a href="/cph15/program/#afterwards"><strong>Continuous Deployment: What happens afterwards</strong></a><br/>
+      <em> Jim Coplien,<br/>Gertrudandcope</em>
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>16:45</start>
+    <point>
+    <a href="/cph15/program/"><strong>Panel Discussion</strong></a>
+    </point>
+  </timeslot>
+
+  <timeslot>
+    <start>17:05</start>
+    <point>
+      <strong>Wrap Up</strong>
+    </point>
+  </timeslot>
+
+
+  </timeslot>
