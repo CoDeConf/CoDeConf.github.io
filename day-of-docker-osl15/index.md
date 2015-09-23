@@ -9,7 +9,7 @@ title: Day Of Docker - Front
 
 __December 1st 2015 at Mesh in Oslo.__
 
-###### We're introducing a different kind of conference...
+###### A full day of hands-on workshops and demos of the Docker ecosystem
 
 ![Day of Docker](/day-of-docker-osl15/images/island_1.png) _A full day festival focused on hands-on workshops and demos of the Docker ecosystem and traditional Norwegian Julebord!_{: .inverted} Throughout the day we'll gather in informal groups doing technical workshops, technology demonstrations, and Birds of a Feather sessions. We will close the afternoon with a smashing Keynote talk and in the evening we'll throw a party and a huge traditional Norwegian _julebord_ buffet, with some fantastic entertainment.
 
