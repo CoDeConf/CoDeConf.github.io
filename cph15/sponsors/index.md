@@ -22,6 +22,6 @@ title: Sponsors
 
 [__T2Data is silver sponsor and drink-up sponsor__ Provider of Continuous Delivery tools and services.](/cph15/sponsors/t2data.html){: .sponsorbox .silver #t2data style="vertical-align:middle"}
 
-[__Synopsys is silver sponsor__ <br/> A leading provider of software quality and security testing solutions.](/cph15/sponsors/coverity.html){: .sponsorbox .silver #coverity style="vertical-align:middle"}
+[__Synopsys is silver sponsor__ <br/> A leading provider of software quality and security testing solutions.](/cph15/sponsors/synopsys.html){: .sponsorbox .silver #synopsys style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>
