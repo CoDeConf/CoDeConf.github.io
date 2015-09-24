@@ -2,8 +2,11 @@
 layout: codecph/agenda
 title: CoDe & DevOps Conference
 ---
-#Continuous Delivery & DevOps Conference Copenhagen -2015
+#Continuous Delivery & DevOps Conference
 
+#Copenhagen -2015
+
+<hr style="height:6px; margin-left:62px;" align="left" width="65%"> <br/>
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
