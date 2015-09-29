@@ -9,18 +9,17 @@ title: Day Of Docker - Front
 
 __December 1st 2015 at Mesh in Oslo.__
 
-###### A full day of hands-on workshops and demos of the Docker ecosystem
+###### A full day of hands-on workshops and demos exploring the Docker ecosystem
 
-![Day of Docker](/day-of-docker-osl15/images/island_1.png) _A full day festival focused on hands-on workshops and demos of the Docker ecosystem and traditional Norwegian Julebord!_{: .inverted} Throughout the day we'll gather in informal groups doing technical workshops, technology demonstrations, and Birds of a Feather sessions. We will close the afternoon with a smashing Keynote talk and in the evening we'll throw a party and a huge traditional Norwegian _julebord_ buffet, with some fantastic entertainment.
+![Day of Docker](/day-of-docker-osl15/images/island_1.png) _A full day festival focused on hands-on workshops and demos exploring the Docker ecosystem followed by a traditional Norwegian Julebord!_{: .inverted} Throughout the day we'll gather in groups to participate in technical workshops, technology demonstrations, and "Birds of a Feather" sessions. The afternoon will culminate with a smashing Keynote talk given by Kelsey Hightower. In the evening we'll throw a party with a traditional Norwegian _julebord_ buffet, followed by some fantastic entertainment.
 
-Developers of all experience levels will learn about and get hands-on with all different aspects of Docker. From introductory sessions on creating and running Docker containers, to advanced composition and orchestration in cloud environments, there is sure to be something for everyone!
+Developers of all experience levels will learn about and all different aspects of Docker by becoming truly interactive. From introductory sessions on creating and running Docker containers, to advanced composition and orchestration in cloud environments, there is sure to be something for everyone!
 
 ## Julebord
-We will finish the day with a fantastic Julebord, with food provided by a top chef. There will be a band, a DJ, and lot's of fun!
+We will finish the day with a fantastic Julebord provided by a top chef. There will also be a band, a DJ, and lot's of fun!
 
 ## Call for workshops
-Day of Docker is not about presentations, papers, or sitting still...
-If you have something interesting to share about Docker and are interested in running a workshop, we want to hear from you!  Please fill out our call for papers here, or send a mail to [mil@praqma.net](mailto:mil@praqma.net) to discuss your thoughts.
+Day of Docker is much more than the usual procession of presentations and papers where everyone sits still.... If you have something interesting to share about Docker and would like to in run a workshop we want to hear from you!  Please fill out our call for papers here, or send a mail to [mil@praqma.net](mailto:mil@praqma.net) to discuss your thoughts.
 
 ## Sponsors
 If you are interested in sponsoring DayOfDocker please reach out to [events@praqma.com](events@praqma.com).
