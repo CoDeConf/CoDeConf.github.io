@@ -74,8 +74,8 @@ title: CoDe & DevOps Conference
       </point>
 
       <point id="two-tracks">
-      <a href="/cph15/program/#"><strong></strong></a><br/>TBA<br/>
-        <em><br/></em>
+      <a href="/cph15/program/#archetypes"><strong>Archetypes of Strategists</strong></a>
+      <br/><em>Jamie Dobson, CEO,<br/>Container Solutions<br/></em>
       </point>
 
     </timeslot>
