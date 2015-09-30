@@ -19,7 +19,14 @@ Developers of all experience levels will learn about and all different aspects o
 We will finish the day with a fantastic Julebord provided by a top chef. There will also be a band, a DJ, and lot's of fun!
 
 ## Call for workshops
-Day of Docker is much more than the usual procession of presentations and papers where everyone sits still.... If you have something interesting to share about Docker and would like to in run a workshop we want to hear from you!  Please fill out our call for papers here, or send a mail to [mil@praqma.net](mailto:mil@praqma.net) to discuss your thoughts.
+Day of Docker is much more than the usual procession of presentations and papers where everyone sits still.... If you have something interesting to share about Docker and would like to in run a workshop we want to hear from you!  Please send a mail to [mil@praqma.net](mailto:mil@praqma.net) to discuss your thoughts.
+
+Here are some of the topic areas that we are especially interested in:
+
+ * Best practices with networking, storage, or security
+ * Docker at scale
+ * What's new in docker 1.9
+ * Docker in the wild (but these must bring educational value)
 
 ## Sponsors
 If you are interested in sponsoring DayOfDocker please reach out to [events@praqma.com](events@praqma.com).
