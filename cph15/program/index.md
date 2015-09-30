@@ -66,7 +66,7 @@ Dave presents his speak at the CoDeCPH conference like this:
 Continuous Delivery changes the economics of software development, find out how and why.
 
 Twitter: [@davefarley77](https://twitter.com/davefarley77){: target="\_blank"}
-Blog: [www.davefarley.net](http://www.davefarley.net){: target="\_blank"}
+Blog: [davefarley.net](http://www.davefarley.net){: target="\_blank"}
 
 ## Continuous Delivery War stories - deploying 10 times per day
 {: #stories}
@@ -122,12 +122,23 @@ Blog: [lakruzz.com](http://www.lakruzz.com){: target="\_blank"}
 Twitter: [@apaipi](https://twitter.com/apaipi){: target="\_blank"}
 
 
+##Archetypes of Strategists
+{: #archetypes}
+
+###Jamie Dobson, CEO Container Solutions
+![Jamie Dobson](/cph15/images/speakers/jdobson.jpg){: .round #right}
+Jamie specializes in innovation and technical strategy. He works with clients on tricky strategic problems where he teaches executives how to ‘win’ with technology.
+
+>This talk is based on over a decade of rolling out new technologies, that range from automated tests to containers and Mesos. Drawing heavily on this work, and the influence of Andy Grove's Strategic Inflection Points, we developed 'archetypes' of good and bad strategists. Armed with these, I will show how companies can safely survive the 'valley of death' and go on to succeed. This talk draws heavily from the HolidayCheck, who Container Solutions collaborated with.
+
+Twitter: [@jamiedobson](https://twitter.com/jamiedobson){: target="\_blank"}
+
 ## Continuous Value Delivery in The Context of Web Development
 {: #web}
 
 ###Sven Malvik, Lead Software Engineer, SopraSteria
-![Sven Malvik](/cph15/images/speakers/smalvik.png){: .round #right}
-Sven Malvik is the Head of Developer Competence Network and a Senior Software Developer at Nordea Bank. He is driven by the question how to decrease Time to Market and how DevOps can help. For him, DevOps is about the people. Their motivation dictates the Time to Market. In his spare time he writes about DevOps and IT Technologies.
+![Sven Malvik](/cph15/images/speakers/smalvik.png){: .round #left}
+<br><br>Sven Malvik is the Head of Developer Competence Network and a Senior Software Developer at Nordea Bank. He is driven by the question how to decrease Time to Market and how DevOps can help. For him, DevOps is about the people. Their motivation dictates the Time to Market. In his spare time he writes about DevOps and IT Technologies.<br>
 
 >Continuous Value Delivery is an extension of Continuous Delivery in the matter that business has a key role in the process of software development. In this session we will talk about the key elements of Continuous Value Delivery and how architecture decisions influences Time to Market. There is one key element that is more important than the others, the team. How does the perfect team look like and how can a team outline other teams. What are the main challenges of a team and how should a team deal with those in larger organisations. Finally we will talk about the Value Triangle and how to make it part of Continuous Delivery.
 
