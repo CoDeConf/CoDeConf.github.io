@@ -159,7 +159,7 @@ title: CoDe & DevOps Conference
         </timeslot>
 
   <timeslot>
-    <start>16:00</start>
+    <start>16:10</start>
     <point>
       <strong>KEYNOTE<br/></strong>
       <a href="/cph15/program/#afterwards"><strong>Continuous Deployment: What happens afterwards</strong></a><br/>
@@ -168,14 +168,14 @@ title: CoDe & DevOps Conference
   </timeslot>
 
   <timeslot>
-    <start>16:45</start>
+    <start>16:55</start>
     <point>
     <a href="/cph15/program/"><strong>Panel Discussion</strong></a>
     </point>
   </timeslot>
 
   <timeslot>
-    <start>17:05</start>
+    <start>17:15</start>
     <point>
       <strong>Wrap Up</strong>
     </point>
