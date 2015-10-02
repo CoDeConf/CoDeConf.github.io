@@ -144,3 +144,10 @@ Twitter: [@jamiedobson](https://twitter.com/jamiedobson){: target="\_blank"}
 
 Twitter: [@SvenMalvik](https://twitter.com/svenmalvik){: target="\_blank"}
 Blog: [sven.malvik.de](http://sven.malvik.de/blog){: target="\_blank"}
+
+## Continuous Integration as a step in the Stairway to Heaven Vision
+{: #stairway}
+
+###Peter Thorgren, Volvo GTT AB ![Peter Thorngren](/cph15/images/speakers/pthorgren.jpg){: .round #right}
+
+The automotive industry is on the verge of a fundamental revolution as the vehicle themselves becomes autonomous – Continuous Integration and Continuous Delivery will play key roles in making this happen. The heavy duty truck industry will be in the center of this change. Trucks are already today advanced technical products with internet integrated functions, however, this is still very limited compared to what we will see in the upcoming years. This change will offer fascinating possibilities for innovation and creativity when trucks that already today have very advanced functions will be parts of integrated autonomous transport solutions.

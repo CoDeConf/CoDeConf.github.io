@@ -48,7 +48,7 @@ title: CoDe & DevOps Conference
       <point>
       <a href="/cph15/program/#steal"><strong>Great Artists Steal: Adding Git Support to Microsoft Visual Studio</strong></a>
         <br /><em>Ed Thomson,
-  Snr. Software Dev. Engr.<br/> Microsoft</em><br/>
+  Senior Software Development Engineer<br/> Microsoft</em><br/>
       </point>
     </timeslot>
 
@@ -69,12 +69,12 @@ title: CoDe & DevOps Conference
     <timeslot>
       <start>11:40</start>
       <point id="two-tracks">
-      <a href="/cph15/program/#rationale"><strong>The Rationale for Continuous Delivery</strong></a>
+      <a href="/cph15/program/#rationale"><strong>The Rationale for Continuous Delivery<br/>&nbsp;</strong></a>
         <br/><em>Dave Farley,<br/> Continuous Delivery Ltd.</em>
       </point>
 
       <point id="two-tracks">
-      <a href="/cph15/program/#archetypes"><strong>Archetypes of Strategists</strong></a>
+      <a href="/cph15/program/#archetypes"><strong>Archetypes of Strategists<br/>&nbsp;</strong></a>
       <br/><em>Jamie Dobson, CEO,<br/>Container Solutions<br/></em>
       </point>
 
@@ -133,13 +133,14 @@ title: CoDe & DevOps Conference
         <timeslot>
           <start>15:20</start>
           <point id="two-tracks">
-          <a href="/cph15/program/#dating"><strong>Dating Patterns</strong></a><br/>
+          <a href="/cph15/program/#dating"><strong>Dating Patterns<br/>&nbsp;</strong></a><br/>
             <em>Aino Corry, <br/>Metadeveloper</em>
           </point>
 
           <point id="two-tracks">
-          <a href="/cph15/program/#"><strong></strong></a><br/>TBA<br/>
-            <em><br/></em>
+          <a href="/cph15/program/#stairway"><strong>CI as a step in the Stairway to Heaven Vision</strong></a>
+            <br /><em>Peter Thorngren,
+      Technology Specialist<br/> Volvo GTT AB</em><br/>
           </point>
 
         </timeslot>
