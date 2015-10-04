@@ -125,7 +125,9 @@ a.banner:hover {
 }
 
 #dod1.banner {
-	background-image: url("/day-of-docker-osl15/images/dod-header-990x225.png");
+	/* background-image: url("/day-of-docker-osl15/images/dod-header-990x225.png"); */
+
+	background-image: url("/day-of-docker-osl15/images/dod-header-1980x450.png");
 }
 #dod2.banner {
 	background-image: url("/day-of-docker-osl15/images/containers2-990x225.png");
