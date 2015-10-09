@@ -8,11 +8,14 @@ title: CoDe CPH Conference 2015 Front
 ##In the heart of Copenhagen
 __Oct 7th 2015__
 
-######After successful events in Oslo and Stockholm the CoDe Feat. DevOps tour has finally come full circle and reached it's starting point Copenhagen again.
+######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Stay tuned for upcoming events.
 
-_This event is relevant to_{: .inverted} IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
+######Our CoDe Conferences target, gathering IT executives, managers, software architects & developers for a day of inspiring speaks and intensive knowledge exchange on the latest trends on delivering high quality software..
 
-_Join the movement_{: .inverted} and come to the CoDe conference to get an insight and [follow us on Twitter](http://www.twitter.com/codecph/){: target="_blank"}
+[![Evaluate](/images/evaluate.jpg){: .stdleft}](/cph15/program/eval.html) _DID YOU ATTEND? Please evaluate_{: .inverted}
 
+Do it before SUNDAY MIDNIGHT to participate in the raffle for three free conference tickets and two special edition Damaskus steel Praqma knives.
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=15633067927&ref=etckt" frameborder="0" height="352" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Sell Tickets</a> <span style="color:#ddd;">through</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
+##[Fill out the evaluation form](/cph15/program/eval.html)
+
+<br clear="all"/>
