@@ -7,7 +7,9 @@ title: CoDeCPH15 Post Conf. Blog
 
 # #CoDeCPH15
 
-#The Continuous Delivery & <br> DevOps conference Copenhagen, October 7th 2015
+
+##The Continuous Delivery & DevOps conference Copenhagen, October 7th 2015
+
 
 
 
