@@ -7,7 +7,7 @@ title: CoDeCPH15 Post Conf. Blog
 
 # #CoDeCPH15
 
-#The Continuous Delivery & DevOps conference Copenhagen, October 7th 2015
+#The Continuous Delivery & <br> DevOps conference Copenhagen, October 7th 2015
 
 
 
@@ -81,7 +81,7 @@ The rest of the audience were encouraged to go out and practise their code tools
 
 ![CoDe Conf. Blog](/cph15/images/blogs/blog-pic-7.png){: .stdleft}
 <br>
-**CoDe & CoDeCPH 2016**
+**CoDeCPH 2016**
 
 With great talks, great guests and very flattering feedback, the CoDeCPH crew is already encouraged to commit to a third annual conference in Copenhagen - so mark your calendar for October 2016!<br><br>
 
