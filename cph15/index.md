@@ -8,7 +8,7 @@ title: CoDe CPH Conference 2015 Front
 ##In the heart of Copenhagen
 __Oct 7th 2015__
 
-######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Stay tuned for upcoming events.
+######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Didn't have time to go? Get all the presentation slides [HERE!](https://drive.google.com/a/praqma.net/folderview?id=0B4fPio_UKSleMVFLRVJlZ09uN0U&usp=sharing){: target="_blank"} Stay tuned for upcoming events, we are already gearing up for 2016.
 
 ######Our CoDe Conferences target, gathering IT executives, managers, software architects & developers for a day of inspiring speaks and intensive knowledge exchange on the latest trends on delivering high quality software..
 
