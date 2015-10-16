@@ -1,10 +1,20 @@
 ---
-layout: jues/program
-title: JUES 2015 Program
+layout: day-of-docker/program
+title: DoD 2015 Program
 ---
-#JUES 15 - Program
+#Doy of Docker 15 - Program
 
 
+##Kelsey Hightower, CoreOS
+{: #khightower}
+
+![Kelsey Hightower](/day-of-docker-osl15/images/speakers/khightower.png){: .round #right}
+Kelsey Hightower is a open source advocate who is helping to build and advocate a modern way to run Linux servers at CoreOS. As an engineer Kelsey enjoys building simple tools that make people smile and is a regular contributor to Google's Kubernetes project. When he is not slinging Go code you can catch him giving technical workshops covering everything from programming, system administration, and CoreOS.
+
+Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_blank"}
+
+
+<!--
 ##Kohsuke Kawaguchi, CloudBees and Jenkins Creator
 ![Kohsuke Kawaguchi](/jues15/images/speakers/kkawaguchi.jpg){: .round #right}Kohsuke Kawaguchi is a well-respected developer and popular speaker at industry and Jenkins community events. He’s often asked to speak about his experience and approach in creating Jenkins; a CI platform that has become a widely adopted and successful community-driven open source project. The principles behind the Jenkins community – extensibility, inclusiveness, low barriers to participation – have been the keys to its success. Kohsuke’s sensibilities in creating Jenkins and his deep understanding of how to translate its capabilities into usable software have also had a major impact on CloudBees’ strategy as a company.
 
@@ -107,4 +117,4 @@ A number of our new microservices lives in Elastic Beanstalk in AWS. Coupled wit
 This presentation aims to share the findings, lessons, and the slightly macabre story that is enterprise I.T. and how we went about cleaning up this mess.
 
 Twitter: [@yveshwang](https://twitter.com/yveshwang){: target="\_blank"}
-Blog: [A developer's perspective by Yves Hwang](https://macyves.wordpress.com/){: target="\_blank"}
+Blog: [A developer's perspective by Yves Hwang](https://macyves.wordpress.com/){: target="\_blank"} -->
