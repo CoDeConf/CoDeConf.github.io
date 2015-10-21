@@ -3,15 +3,50 @@ layout: day-of-docker/program
 title: DoD 2015 Program
 ---
 #Doy of Docker 15 - Program
-
+<hr>
 
 ##Kelsey Hightower, CoreOS
 {: #khightower}
-
+<hr>
 ![Kelsey Hightower](/day-of-docker-osl15/images/speakers/khightower.png){: .round #right}
 Kelsey Hightower is a open source advocate who is helping to build and advocate a modern way to run Linux servers at CoreOS. As an engineer Kelsey enjoys building simple tools that make people smile and is a regular contributor to Google's Kubernetes project. When he is not slinging Go code you can catch him giving technical workshops covering everything from programming, system administration, and CoreOS.
 
 Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_blank"}
+
+
+###Mike Long, Partner Praqma Norway
+{: #mlong}
+<hr>
+![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #left} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
+
+Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
+Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
+
+<br/><br/><br/><br/>
+
+###Jan Sørensen,Praqma
+{: #jsørensen}
+<hr>
+![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
+Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
+<br/><br/><br/><br/><br/><br/>
+<hr>
+<br/>
+
+#<span style="background:#2BB598; color:#FFFFFF; padding:2px; border-radius: 5px;">Entertainment
+{: #entertainment}
+<br/><br/>
+**BEKKBand** is a Norwegian cover rock band sprung out from Bekk Consulting. Their setlist might contain songs from Queens of the Stoneage, Jack White, Mogwai, Blink-182, Turbonegro and Kvelertak. They have played most of the major venues in Oslo, including Rockefeller and Oslo Spektrum, and are renowned for putting on one hell of a show!
+
+![BEKKBand](/day-of-docker-osl15/images/speakers/bekkband.jpg){: #right .round}
+**Members of The Band:**
+
+ - Andreas Heim
+ - Jon Fageraas
+ - Olav Folkestad
+ - Rune Flobakk
+ - Torstein Gjengedal
+ - Stein Inge Morisbak
 
 
 <!--
