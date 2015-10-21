@@ -44,8 +44,8 @@ title: Day of Docker 2015 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong>Workshop<br/>&nbsp;</strong><br/>
-        <em>To be announced</em>
+        <strong>What's new in Docker 1.9<br/>&nbsp;</strong><br/>
+        <em>Vincent Demeester, Zenika</em>
       </point>
 
       <point id="three-tracks">
@@ -67,18 +67,18 @@ title: Day of Docker 2015 Agenda
     <timeslot>
     <start>13:00</start>
     <point id="three-tracks">
-      <strong>Workshop<br/>&nbsp;</strong><br/>
-      <em>To be announced</em>
+      <strong>Continuous Delivery with Containers<br/>&nbsp;</strong><br/>
+      <em>Praqma</em>
     </point>
 
     <point id="three-tracks">
-      <strong>Workshop<br/>&nbsp;</strong><br/>
-      <em>To be announced</em>
+      <strong>Docker Containers in Windows<br/>&nbsp;</strong><br/>
+      <em>Kristian Nese, Lumagate</em>
     </point>
 
     <point id="three-tracks">
-      <strong>Workshop<br/>&nbsp;</strong><br/>
-      <em>To be announced</em>
+      <strong>Microscaling-in-a-box<br/>&nbsp;</strong><br/>      &nbsp;<br/>
+      <em>Anne Currie, force12.io</em>
     </point>
 
   </timeslot>
@@ -94,7 +94,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
   <start>15:15</start>
   <point id="three-tracks">
-    <strong>Workshop<br/>&nbsp;</strong><br/>
+    <strong>Docker in the wild<br/>&nbsp;</strong><br/>
     <em>To be announced</em>
   </point>
 
@@ -120,7 +120,8 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <strong>Keynote with Kelsey Hightower (CoreOS)</strong>
+      <strong>Keynote: The Operating System is Dead<br/>&nbsp;</strong>
+      <em>Kelsey Hightower (CoreOS)</em>
     </point>
   </timeslot>
 
