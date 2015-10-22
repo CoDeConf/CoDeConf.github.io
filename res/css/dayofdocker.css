@@ -73,7 +73,9 @@ header .menu {
   font-size: 130%;
   font-weight: bold;
 }
-
+blockquote {
+    border-left: 10px solid #1F8DB3;
+}
 /* COMMON STYLES */
 
 hr {

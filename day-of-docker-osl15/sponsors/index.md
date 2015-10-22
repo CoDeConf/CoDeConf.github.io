@@ -6,7 +6,7 @@ title: Sponsors
 [__Praqma is your conference host__<br/>We drive the initiative behind the CoDe conferences and meetups. Our business is simply Praqmatic software development.](/day-of-docker-osl15/sponsors/praqma.html){: .sponsorbox  .host #praqma }
 
 
-[__XebiaLabs is event sponsor__<br/>](http://bekk.no){: .sponsorbox .gold #bekk style="clear:left;"}
+[__BEKK is event sponsor__<br/>](http://bekk.no){: .sponsorbox .gold #bekk style="clear:left;"}
 
 <div style="clear:both;">&nbsp;</div>
 

@@ -14,7 +14,7 @@ Kelsey Hightower is a open source advocate who is helping to build and advocate 
 Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_blank"}
 
 
-###Mike Long, Partner Praqma Norway
+##Mike Long, Partner Praqma Norway
 {: #mlong}
 <hr>
 ![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #left} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
@@ -24,21 +24,86 @@ Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
 
 <br/><br/><br/><br/>
 
-###Jan Sørensen,Praqma
+##Jan Sørensen,Praqma
 {: #jsørensen}
 <hr>
 ![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
 Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
 <br/><br/><br/><br/><br/><br/>
+
+##Vincent Demeester,Zenika
+{: #vdemeester}
 <hr>
+![Vincent Demeester](/day-of-docker-osl15/images/speakers/vdemeester.jpg){: .round #left}
+Vincent is an architect and polyglot developer, under Java and Go
+influence, for the last 7 years. After 6 years in energy management
+system startups, he is now a Trainer and Consultant in the parisian
+agency of Zenika. Passionnated, craftman, Factotum and sysadmin in his
+spare time, he's diving in Devops subject and got really interested in
+Docker when released. He's now a Docker engine and Libcompose maintainer.
+
+Twitter: [@vdemeest](https://twitter.com/vdemeest){: target="\_blank"}
+Blog: [vincent.demeester](http://vincent.demeester.fr/){: target="\_blank"}
+<br/><br/>
+
+##Kristian Nese,CTO & MVP Lumagate
+{: #knese}
+<hr>
+![Kristian Nese](/day-of-docker-osl15/images/speakers/knese.png){: .round #right}
+
+As CTO, Kristian is responsible for developing key strategical concepts, research and leverage new technology that differs us from the rest of the system integrators. Key objectives: to ensure business continuity across all countries where Lumagate is present. He manages our Product Managers to develop rapid market penetration tactics so that you can be certain that Lumagate is able to deliver what others can't. As an MVP, he leads and inspire through evangelizing technology and is the escalation point for Microsoft when people are having issues with SC, Hyper-V, Windows Azure Stack or Microsoft Azure.
+
+Twitter: [@KristianNese](https://twitter.com/KristianNese){: target="\_blank"}
+blog: [kristiannese.blogspot](http://kristiannese.blogspot.dk/){: target="\_blank"}
+
+##Microscaling-in-a-box: Scheduling 101 Using the Docker Toolbox
+{: #microscaling}
+<hr>
+
+###Anne Currie,Co-Founder Force12.io
+![Anne Currie](/day-of-docker-osl15/images/speakers/acurrie.jpg){: .round #left}<br/><br/><br/>
+Anne Currie is an engineer who is enthusiastic about containers (and everything else). She's been helping to build complex software systems for over 20 years (ouch).<br/><br/><br/><br/>
+
+>A quick tour through the new world of container schedulers and what they do. And at the very same time we'll try using Docker as a simple scheduler on your own laptop and watch your containers battling over resource in front of your eyes!
+
+##Building hybrid microservices with Docker(with Mesos/Marathon & Kubernetes)
+{: #microservices}
+<hr>
+
+###Michael Hausenblas, Developer and Cloud Advocate, Mesosphere Inc.
+![Michael Hausenblas](/day-of-docker-osl15/images/speakers/mhausenblas.png){: .round #right}
+Michael is a Developer and Cloud Advocate at Mesosphere. He helps devops to build and operate scalable & elastic distributed applications. His background is in large-scale data integration, Hadoop & NoSQL, IoT, as well as Web applications and he's experienced in advocacy and standardization. Michael is contributing to open source software at Apache (Mesos, Myriad, Drill, Spark) and shares his experience with the Datacenter OS and large-scale data processing through blog posts and public speaking engagements.
+
+>Docker plays an increasingly important role in building and operating modern applications, both on-premises and in the cloud. In this introductory workshop, you will get an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. The course will teach you about the low-level concepts that make up Linux containers, how to deploy Docker containers, and how to orchestrate them using tools like Kubernetes and Mesos/Marathon.
+
+At the end of the workshop you will have achieved the following learning goals:
+
+- Understand container basics (cgroups, namespaces) as well as Docker
+- Will be able to find and launch pre-defined Docker images and troubleshoot containers (inspecting and logging)
+- Understand orchestration options (Kubernetes, Mesos/Marathon, Docker Swarm, Nomad)
+- Understand deployment options (standalone, Google Container Engine, Amazon ECS, DCOS)
+- Will have implemented an end-to-end application using Docker, Kubernetes, and Marathon
+
+**Audience:** This workshop is particularly useful for application developers, devops, architects, and anybody interested in Docker, Kubernetes, Mesos/Marathon.
+
+_Note:_ that the hand-on sessions will be carried out on [Mesosphere DCOS](https://mesosphere.com/product/) clusters, which will be set up for the teams.
+
+All you need is a laptop with a Linux shell, and git installed. Linux/MacOS laptops preferred, but if you have a Windows laptop, make sure you've VirtualBox installed.
+
+#<span style="background:#F73E46; color:#FFFFFF; padding:5px; border-radius: 5px;">Julebord
+{: #julebord}
 <br/>
+
+![jbord](/day-of-docker-osl15/images/speakers/jbord.png){: #left .round style="border-style: dashed; border-width: 1px; border-color: #F73E46;"}
+Traditional Norwegian “Julebord” dinner prepared by a top chef.
+ <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> <!-- remove line breaks,accordingly, after text is added -->
 
 #<span style="background:#2BB598; color:#FFFFFF; padding:2px; border-radius: 5px;">Entertainment
 {: #entertainment}
-<br/><br/>
+<br/>
 **BEKKBand** is a Norwegian cover rock band sprung out from Bekk Consulting. Their setlist might contain songs from Queens of the Stoneage, Jack White, Mogwai, Blink-182, Turbonegro and Kvelertak. They have played most of the major venues in Oslo, including Rockefeller and Oslo Spektrum, and are renowned for putting on one hell of a show!
 
-![BEKKBand](/day-of-docker-osl15/images/speakers/bekkband.jpg){: #right .round}
+![BEKKBand](/day-of-docker-osl15/images/speakers/bekkband.jpg){: #right .round style="border-style: dashed; border-width: 1px; border-color: #2BB598;"}
 **Members of The Band:**
 
  - Andreas Heim
