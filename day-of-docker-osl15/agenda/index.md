@@ -39,17 +39,17 @@ title: Day of Docker 2015 Agenda
       <timeslot>
       <start>10:00</start>
       <point id="three-tracks">
-        <strong>Docker 101<br/>&nbsp;</strong><br/>
+        <a href="/day-of-docker-osl15/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
         <em>Mike Long, Praqma Norway</em>
       </point>
 
       <point id="three-tracks">
-        <strong>What's new in Docker 1.9<br/>&nbsp;</strong><br/>
+        <a href="/day-of-docker-osl15/program/#vdemeester"><strong>What's new in Docker 1.9<br/>&nbsp;</strong></a><br/>
         <em>Vincent Demeester, Zenika</em>
       </point>
 
       <point id="three-tracks">
-        <strong>Build your own Docker<br/>&nbsp;</strong><br/>
+        <a href="/day-of-docker-osl15/program/#jsorensen"><strong>Build your own Docker<br/>&nbsp;</strong></a><br/>
         <em>Jan Sørensen, Independent</em>
       </point>
 
@@ -72,12 +72,12 @@ title: Day of Docker 2015 Agenda
     </point>
 
     <point id="three-tracks">
-      <strong>Docker Containers in Windows<br/>&nbsp;</strong><br/>
+      <a href="/day-of-docker-osl15/program/#knese"><strong>Docker Containers in Windows<br/>&nbsp;</strong></a><br/>
       <em>Kristian Nese, Lumagate</em>
     </point>
 
     <point id="three-tracks">
-      <strong>Microscaling-in-a-box<br/>&nbsp;</strong><br/>      &nbsp;<br/>
+      <a href="/day-of-docker-osl15/program/#microscaling"><strong>Microscaling-in-a-box<br/>&nbsp;</strong></a><br/>      &nbsp;<br/>
       <em>Anne Currie, force12.io</em>
     </point>
 
@@ -120,7 +120,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <strong>Keynote: The Operating System is Dead<br/>&nbsp;</strong>
+      <a href="/day-of-docker-osl15/program/#khightower"><strong>Keynote: The Operating System is Dead<br/>&nbsp;</strong></a>
       <em>Kelsey Hightower (CoreOS)</em>
     </point>
   </timeslot>
@@ -135,7 +135,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>18:00</start>
     <point>
-      <strong>Julebord!!</strong><br/>
+      <a href="/day-of-docker-osl15/program/#julebord"><strong>Julebord!!</strong></a><br/>
 ...it ends when it ends!
     </point>
   </timeslot>

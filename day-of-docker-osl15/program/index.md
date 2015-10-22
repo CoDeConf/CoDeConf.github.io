@@ -5,18 +5,21 @@ title: DoD 2015 Program
 #Day of Docker 15 - Program
 <hr>
 
-##Kelsey Hightower, CoreOS
+##Keynote: The Operating System is Dead
 {: #khightower}
 <hr>
+###Kelsey Hightower, CoreOS
+
 ![Kelsey Hightower](/day-of-docker-osl15/images/speakers/khightower.png){: .round #right}
 Kelsey Hightower is a open source advocate who is helping to build and advocate a modern way to run Linux servers at CoreOS. As an engineer Kelsey enjoys building simple tools that make people smile and is a regular contributor to Google's Kubernetes project. When he is not slinging Go code you can catch him giving technical workshops covering everything from programming, system administration, and CoreOS.
 
 Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_blank"}
 
-
-##Mike Long, Partner Praqma Norway
+##Docker 101
 {: #mlong}
 <hr>
+
+###Mike Long, Partner Praqma Norway
 ![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #left} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
 
 Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
@@ -24,16 +27,18 @@ Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
 
 <br/><br/><br/><br/>
 
-##Jan Sørensen,Praqma
-{: #jsørensen}
+##Build your own Docker
+{: #jsorensen}
 <hr>
+###Jan Sørensen,Praqma
 ![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
 Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
 <br/><br/><br/><br/><br/><br/>
 
-##Vincent Demeester,Zenika
+##What's new in Docker 1.9
 {: #vdemeester}
 <hr>
+###Vincent Demeester,Zenika
 ![Vincent Demeester](/day-of-docker-osl15/images/speakers/vdemeester.jpg){: .round #left}
 Vincent is an architect and polyglot developer, under Java and Go
 influence, for the last 7 years. After 6 years in energy management
@@ -46,9 +51,10 @@ Twitter: [@vdemeest](https://twitter.com/vdemeest){: target="\_blank"}
 Blog: [vincent.demeester](http://vincent.demeester.fr/){: target="\_blank"}
 <br/><br/>
 
-##Kristian Nese,CTO & MVP Lumagate
+##Docker Containers in Windows
 {: #knese}
 <hr>
+###Kristian Nese,CTO & MVP Lumagate
 ![Kristian Nese](/day-of-docker-osl15/images/speakers/knese.png){: .round #right}
 
 As CTO, Kristian is responsible for developing key strategical concepts, research and leverage new technology that differs us from the rest of the system integrators. Key objectives: to ensure business continuity across all countries where Lumagate is present. He manages our Product Managers to develop rapid market penetration tactics so that you can be certain that Lumagate is able to deliver what others can't. As an MVP, he leads and inspire through evangelizing technology and is the escalation point for Microsoft when people are having issues with SC, Hyper-V, Windows Azure Stack or Microsoft Azure.
