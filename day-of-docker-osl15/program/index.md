@@ -2,7 +2,7 @@
 layout: day-of-docker/program
 title: DoD 2015 Program
 ---
-#Doy of Docker 15 - Program
+#Day of Docker 15 - Program
 <hr>
 
 ##Kelsey Hightower, CoreOS
