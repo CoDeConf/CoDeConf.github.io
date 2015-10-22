@@ -1,5 +1,5 @@
 ---
-layout: jues/sponsor
+layout: day-of-docker/sponsor
 title: Sponsor packages
 ---
 #Sponsor packages
