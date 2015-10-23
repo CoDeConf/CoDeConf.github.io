@@ -30,7 +30,7 @@ Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
 ##Build your own Docker
 {: #jsorensen}
 <hr>
-###Jan Sørensen,Praqma
+###Jan Sørensen, Independent Consultant
 ![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
 Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
 <br/><br/><br/><br/><br/><br/>
