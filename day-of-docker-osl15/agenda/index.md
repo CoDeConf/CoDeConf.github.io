@@ -66,10 +66,6 @@ title: Day of Docker 2015 Agenda
 
     <timeslot>
     <start>13:00</start>
-    <point id="three-tracks">
-      <strong>Continuous Delivery with Containers<br/>&nbsp;</strong><br/>
-      <em>Praqma</em>
-    </point>
 
     <point id="three-tracks">
       <a href="/day-of-docker-osl15/program/#knese"><strong>Docker Containers in Windows<br/>&nbsp;</strong></a><br/>
@@ -79,6 +75,11 @@ title: Day of Docker 2015 Agenda
     <point id="three-tracks">
       <a href="/day-of-docker-osl15/program/#microscaling"><strong>Microscaling-in-a-box<br/>&nbsp;</strong></a><br/>      &nbsp;<br/>
       <em>Anne Currie, force12.io</em>
+    </point>
+
+    <point id="three-tracks">
+      <strong>Continuous Delivery with Containers<br/>&nbsp;</strong><br/>
+      <em>Praqma</em>
     </point>
 
   </timeslot>
@@ -93,19 +94,25 @@ title: Day of Docker 2015 Agenda
 
   <timeslot>
   <start>15:15</start>
+
+  <point id="three-tracks">
+    <a href="/day-of-docker-osl15/program/#microservices">
+    <strong>Building hybrid microservices with Docker<br/>&nbsp;</strong></a><br/>
+    <em>Michael Hausenblas, Mesosphere Inc.</em>
+  </point>
+
   <point id="three-tracks">
     <strong>Docker in the wild<br/>&nbsp;</strong><br/>
-    <em>To be announced</em>
+    <br/>&nbsp;
+    <em>More info soon!</em>
+    <br/>&nbsp;
   </point>
 
   <point id="three-tracks">
     <strong>Workshop<br/>&nbsp;</strong><br/>
-    <em>To be announced</em>
-  </point>
-
-  <point id="three-tracks">
-    <strong>Workshop<br/>&nbsp;</strong><br/>
-    <em>To be announced</em>
+    <br/>&nbsp;
+    <em>More info soon!</em>
+    <br/>&nbsp;
   </point>
 
 </timeslot>
