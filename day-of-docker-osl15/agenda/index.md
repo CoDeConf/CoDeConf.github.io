@@ -127,7 +127,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <a href="/day-of-docker-osl15/program/#khightower"><strong>Keynote: The Operating System is Dead<br/>&nbsp;</strong></a>
+      <a href="/day-of-docker-osl15/program/#khightower"><strong>Keynote: Docker and the Future of Operating Systems<br/>&nbsp;</strong></a>
       <em>Kelsey Hightower (CoreOS)</em>
     </point>
   </timeslot>

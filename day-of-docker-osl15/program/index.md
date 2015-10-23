@@ -5,10 +5,12 @@ title: DoD 2015 Program
 #Day of Docker 15 - Program
 <hr>
 
-##Keynote: The Operating System is Dead
+##Keynote: Docker and the Future of Operating Systems
 {: #khightower}
 <hr>
 ###Kelsey Hightower, CoreOS
+
+> In this session we will take a look at the future of the operating system and how containers have the potential to destroy the Linux distro as we know it.
 
 ![Kelsey Hightower](/day-of-docker-osl15/images/speakers/khightower.png){: .round #right}
 Kelsey Hightower is a open source advocate who is helping to build and advocate a modern way to run Linux servers at CoreOS. As an engineer Kelsey enjoys building simple tools that make people smile and is a regular contributor to Google's Kubernetes project. When he is not slinging Go code you can catch him giving technical workshops covering everything from programming, system administration, and CoreOS.
