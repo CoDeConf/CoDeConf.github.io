@@ -29,7 +29,7 @@ var snowStorm = (function(window, document) {
   this.targetElement = 'snow';      // element which snow will be appended to (null = document.body) - can be an element ID eg. 'myDiv', or a DOM node reference
   this.useMeltEffect = true;      // When recycling fallen snow (or rarely, when falling), have it "melt" and fade out if browser supports it
   this.useTwinkleEffect = false;  // Allow snow to randomly "flicker" in and out of view while falling
-  this.usePositionFixed = false;  // true = snow does not shift vertically when scrolling. May increase CPU load, disabled by default - if enabled, used only where supported
+  this.usePositionFixed = true;  // true = snow does not shift vertically when scrolling. May increase CPU load, disabled by default - if enabled, used only where supported
 
   // --- less-used bits ---
 
