@@ -125,7 +125,7 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 }
 
 #devopsnorway.sponsorbox {
-  background-image: url("/sponsors/logos/devopsnorway_4x2.png");
+  background-image: url("/sponsors/logos/devops-norway_4x2.png");
 }
 #t2data.sponsorbox {
   background-image: url("/sponsors/logos/t2data_4x2.png");
@@ -145,4 +145,9 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 }
 #bekk.sponsorbox {
   background-image: url("/sponsors/logos/bekk_4x2.png");
+}
+
+#bluecoat.sponsorbox {
+    background-image: url("/day-of-docker-osl15/images/BCS_Logo_-_Vertical_-_Black_-_JPG.3.jpg");
+    background-size: 40%;
 }

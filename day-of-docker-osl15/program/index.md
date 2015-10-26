@@ -21,7 +21,7 @@ Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_bla
 
 <br/>
 <hr>
-##Keynote: Cyberdojo: executing your code for fun and not-for profit!
+##Keynote: cyber-dojo: executing your code for fun and not-for profit!
 {: #jjagger}
 <hr>
 ### Jon Jagger, Jaggersoft

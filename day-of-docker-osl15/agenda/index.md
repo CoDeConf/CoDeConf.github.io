@@ -25,7 +25,7 @@ title: Day of Docker 2015 Agenda
   <timeslot>
     <start>09:15</start>
     <point>
-      <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: Cyberdojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
+      <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: cyber-dojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
       <em>Jon Jagger, Jaggersoft</em>
     </point>
   </timeslot>
