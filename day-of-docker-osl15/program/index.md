@@ -17,25 +17,40 @@ Kelsey Hightower is a open source advocate who is helping to build and advocate 
 
 Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_blank"}
 
+> In this session we will take a look at the future of the operating system and how containers have the potential to destroy the Linux distro as we know it.
+
+<br/>
+<hr>
+##Keynote: Cyberdojo: executing your code for fun and not-for profit!
+{: #jjagger}
+<hr>
+### Jon Jagger, Jaggersoft
+
+![Jon Jagger](/day-of-docker-osl15/images/speakers/JonJaggerHelloWorld.JPG){: .round #left}
+Hi. I'm Jon Jagger. I'm a self employed software consultant specializing in practice, process, TDD, and complex-adaptive systems-thinking. I've worked with Accenture, Aviva, Cisco, Ericsson, Friends Provident, HP, Microsoft, Operator, Ordnance Survey, RBS, Reuters, Renault F1, Schlumberger, Tandberg and many many more. I'm 30 years old (hex) and I've loved software since I was 10 (decimal). I live in Somerset in England. I'm married to the beautiful Natalie and dad to Ellie, Penny and Patrick. I love coarse fishing and salmon fishing. I'm the ex ACCU conference chairman. I've had some C# books published. I'm the co-author with Olve Maudal of the Deep C/C++ slide deck (over 600,000 views). On twitter I'm @JonJagger. I built cyber-dojo.org to promote deliberate practice for software developers.
+
+> [http://cyber-dojo.org](http://cyber-dojo.org) is an open-source browser-based environment where individuals or teams can practise programming.
+Under the hood it uses docker - but in an unusual way.
+In this presentation I'll recount the story of cyber-dojo, starting from its origin - in the Scotsman pub in Oslo in 2009!
+I'll do a brief demo, talk about various aspects of its design and some core principles on which the design is based.
+I'll discuss how it has evolved, whose helped, some of the difficulties it's faced, and where it might by heading.
+
+<br/>
+
 ##Docker 101
 {: #mlong}
 <hr>
 
 ###Mike Long, Partner Praqma Norway
-![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #left} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
+![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #right} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
 
 Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
 Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
 
-<br/><br/><br/><br/>
 
-##Build your own Docker
-{: #jsorensen}
-<hr>
-###Jan Sørensen, Independent Consultant
-![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
-Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
-<br/><br/><br/><br/><br/><br/>
+> If you are new to docker, this session is for you!  In this sessions you will learn all the basics of docker and its main components.  We will go through the the concept of containers, writing your own docker files, connecting data volumes, and basic orchestration with compose and swarm.  Bring your laptops!
+
+<br/>
 
 ##What's new in Docker 1.9
 {: #vdemeester}
@@ -51,52 +66,89 @@ Docker when released. He's now a Docker engine and Libcompose maintainer.
 
 Twitter: [@vdemeest](https://twitter.com/vdemeest){: target="\_blank"}
 Blog: [vincent.demeester](http://vincent.demeester.fr/){: target="\_blank"}
-<br/><br/>
+
+
+> The 1.9 release comes with its bag of new features and fixes. The docker ecosystem is always in quite active state. From the integration of the new network stack (libnetwork) to work on runC integration and windows port, we'll try to cover it all in this session — with a lot of cool demos / hands-on.
+
+<br/>
+
+##Build your own Docker
+{: #jsorensen}
+<hr>
+###Jan Sørensen, Independent Consultant
+![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
+Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
+<br/><br/><br/><br/><br/><br/>
+
 
 ##Docker Containers in Windows
 {: #knese}
 <hr>
 ###Kristian Nese,CTO & MVP Lumagate
-![Kristian Nese](/day-of-docker-osl15/images/speakers/knese.png){: .round #right}
+![Kristian Nese](/day-of-docker-osl15/images/speakers/knese.png){: .round #left}
 
 As CTO, Kristian is responsible for developing key strategical concepts, research and leverage new technology that differs us from the rest of the system integrators. Key objectives: to ensure business continuity across all countries where Lumagate is present. He manages our Product Managers to develop rapid market penetration tactics so that you can be certain that Lumagate is able to deliver what others can't. As an MVP, he leads and inspire through evangelizing technology and is the escalation point for Microsoft when people are having issues with SC, Hyper-V, Windows Azure Stack or Microsoft Azure.
 
 Twitter: [@KristianNese](https://twitter.com/KristianNese){: target="\_blank"}
 blog: [kristiannese.blogspot](http://kristiannese.blogspot.dk/){: target="\_blank"}
 
+> Join Kristian in this session to see, learn and get hands-on on Microsoft’s new container technologies.  Learn how they will work in Windows Server, both on-prem and in Azure and how Docker will integrate with them and help you into the DevOp era.
+
+<br/>
+
 ##Microscaling-in-a-box: Scheduling 101 Using the Docker Toolbox
 {: #microscaling}
 <hr>
 
 ###Anne Currie,Co-Founder Force12.io
-![Anne Currie](/day-of-docker-osl15/images/speakers/acurrie.jpg){: .round #left}<br/><br/><br/>
-Anne Currie is an engineer who is enthusiastic about containers (and everything else). She's been helping to build complex software systems for over 20 years (ouch).<br/><br/><br/><br/>
+![Anne Currie](/day-of-docker-osl15/images/speakers/acurrie.jpg){: .round #right}
+Anne Currie is an engineer who is enthusiastic about containers (and everything else). She's been helping to build complex software systems for over 20 years (ouch).
+
 
 >A quick tour through the new world of container schedulers and what they do. And at the very same time we'll try using Docker as a simple scheduler on your own laptop and watch your containers battling over resource in front of your eyes!
+
+<br/>
 
 ##Building hybrid microservices with Docker(with Mesos/Marathon & Kubernetes)
 {: #microservices}
 <hr>
 
 ###Michael Hausenblas, Developer and Cloud Advocate, Mesosphere Inc.
-![Michael Hausenblas](/day-of-docker-osl15/images/speakers/mhausenblas.png){: .round #right}
+![Michael Hausenblas](/day-of-docker-osl15/images/speakers/mhausenblas.png){: .round #left}
 Michael is a Developer and Cloud Advocate at Mesosphere. He helps devops to build and operate scalable & elastic distributed applications. His background is in large-scale data integration, Hadoop & NoSQL, IoT, as well as Web applications and he's experienced in advocacy and standardization. Michael is contributing to open source software at Apache (Mesos, Myriad, Drill, Spark) and shares his experience with the Datacenter OS and large-scale data processing through blog posts and public speaking engagements.
 
 >Docker plays an increasingly important role in building and operating modern applications, both on-premises and in the cloud. In this introductory workshop, you will get an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. The course will teach you about the low-level concepts that make up Linux containers, how to deploy Docker containers, and how to orchestrate them using tools like Kubernetes and Mesos/Marathon.
+>
+> At the end of the workshop you will have achieved the following learning goals:
+>
+>- Understand container basics (cgroups, namespaces) as well as Docker
+>- Will be able to find and launch pre-defined Docker images and troubleshoot containers (inspecting and logging)
+>- Understand orchestration options (Kubernetes, Mesos/Marathon, Docker Swarm, Nomad)
+>- Understand deployment options (standalone, Google Container Engine, Amazon ECS, DCOS)
+>- Will have implemented an end-to-end application using Docker, Kubernetes, and Marathon
+>
+>**Audience:** This workshop is particularly useful for application developers, devops, architects, and anybody interested in Docker, Kubernetes, Mesos/Marathon.
+>
+>_Note:_ that the hand-on sessions will be carried out on [Mesosphere DCOS](https://mesosphere.com/product/) clusters, which will be set up for the teams.
+>
+>All you need is a laptop with a Linux shell, and git installed. Linux/MacOS laptops preferred, but if you have a Windows laptop, make sure you've VirtualBox installed.
 
-At the end of the workshop you will have achieved the following learning goals:
+<br/>
 
-- Understand container basics (cgroups, namespaces) as well as Docker
-- Will be able to find and launch pre-defined Docker images and troubleshoot containers (inspecting and logging)
-- Understand orchestration options (Kubernetes, Mesos/Marathon, Docker Swarm, Nomad)
-- Understand deployment options (standalone, Google Container Engine, Amazon ECS, DCOS)
-- Will have implemented an end-to-end application using Docker, Kubernetes, and Marathon
+## Service Composition & Discovery
+{: #jcamp}
+<hr>
+### Jonathan Camp, Principal Engineer and Platform Architect, Blue Coat Systems
+![Jonathan Camp](/day-of-docker-osl15/images/speakers/JonathanCamp.jpg){: .round #right}
 
-**Audience:** This workshop is particularly useful for application developers, devops, architects, and anybody interested in Docker, Kubernetes, Mesos/Marathon.
+Jonathan is a principal engineer and platform architect at Blue Coat Systems in Norway. He leverages his 17 years of industry experience to oversee the technical development of Blue Coat's Malware Analysis Appliance. Previously he worked for the U.S. Department of Energy as a reverse engineer, helping to develop several software-defined radio products. Jonathan is an avid technologist and is currently researching various interaction methods for petabyte-scale malware collection and analysis systems.
 
-_Note:_ that the hand-on sessions will be carried out on [Mesosphere DCOS](https://mesosphere.com/product/) clusters, which will be set up for the teams.
+Twitter: [@irondojo](https://twitter.com/irondojo){: target="\_blank"}
+Web: [https://keybase.io/kung_foo](https://keybase.io/kung_foo){: target="\_blank"}
 
-All you need is a laptop with a Linux shell, and git installed. Linux/MacOS laptops preferred, but if you have a Windows laptop, make sure you've VirtualBox installed.
+>Once a project moves beyond a simple set of containers, it readily becomes apparent that keeping track of the state and location of services is critical. In this workshop we'll explore and try out various service discovery and catalog approaches, running the gamut from Docker links to DNS based catalogs like Consul and SkyDNS. We'll also look at related catalog features like dynamic config file generation and service health checks.
+
+<hr/>
 
 #<span style="background:#F73E46; color:#FFFFFF; padding:5px; border-radius: 5px;">Julebord
 {: #julebord}
@@ -120,109 +172,3 @@ Traditional Norwegian “Julebord” dinner prepared by a top chef.
  - Rune Flobakk
  - Torstein Gjengedal
  - Stein Inge Morisbak
-
-
-<!--
-##Kohsuke Kawaguchi, CloudBees and Jenkins Creator
-![Kohsuke Kawaguchi](/jues15/images/speakers/kkawaguchi.jpg){: .round #right}Kohsuke Kawaguchi is a well-respected developer and popular speaker at industry and Jenkins community events. He’s often asked to speak about his experience and approach in creating Jenkins; a CI platform that has become a widely adopted and successful community-driven open source project. The principles behind the Jenkins community – extensibility, inclusiveness, low barriers to participation – have been the keys to its success. Kohsuke’s sensibilities in creating Jenkins and his deep understanding of how to translate its capabilities into usable software have also had a major impact on CloudBees’ strategy as a company.
-
-Twitter: [@kohsukekawa](https://twitter.com/kohsukekawa){: target="\_blank"}
-Blog: [kohsuke.org](http://kohsuke.org/){: target="\_blank"}
-
-##Continuous Delivery in a Box
-
-###Jan Sørensen,Praqma
-![Jan Sørensen](/jues15/images/speakers/jsørensen.jpg){: .round #left}This presentation will demonstrate a one-click provisioning of infrastructure for a Continuous Delivery pipeline. The pipeline is Docker based, i.e. each service in the pipeline is implemented as a Docker image. The pipeline consists of typical Continuous Delivery services like Jenkins master, Jenkins slaves (provisioned on demand), Artifactory. The provisioning of Docker host is done with docker-machine, orchestration with docker-compose, and scaling with docker-swarm.<br/><br/><br/>
-
-## Continuous Deployment to the Device
-
-###Mikkel Arentoft, SCAUT
-
-![Mikkel Arentoft](/jues15/images/speakers/marentoft.png){: .round #right} Mikkel Arentoft (M. Sc. in Computer Science) is principal consultant at Rehfeld and the lead architect of the Scaut. Mikkel has developed software professionally since 1998 and in a lot of areas such as monitoring, planning, GIS, traffic control, finance and health care. Mikkels primary area of interests are lean based software development and architecture  Publishing.
-Scaut is an interdisciplinary research and development project based in Copenhagen, Denmark. The project runs from 2014-2018 and aims to support collaboration of patients and clinicians around early detection of signs and symptoms. In this project, we develop an app that allows patients to take action on their condition from home and a clinical platform that uses advanced analytics to predict deterioration.
-
-Web: [rehfeld.dk](http://www.rehfeld.dk/){: target="\_blank"}
-Mail: [mar@rehfeld.dk]()
-
-##Version your build process as you version your code with Literate plugin
-
-###Vincent Latombe, CloudBees
-![Vincent Latombe](/jues15/images/speakers/vlatombe.png){: .round #left} Vincent is part of the Engineering team at CloudBees. Before that he managed a large Jenkins infrastructure at Amadeus. He likes building smart solutions with a focus on usability and user empowerment. He is the maintainer of the Clearcase plugin, and contributes to Jenkins core, Git and Literate plugins.
-The Literate plugin allows a project to define its build process directly in a description file (Markdown or YAML supported). Project owners have control over their build process and can refactor it as they refactor their code, while reusing all of the Jenkins goodness. Meet this beautiful plugin and fall in love with it!
-
-Twitter: [@Vlatombe](https://twitter.com/vlatombe){: target="\_blank"}
-
-##How To Connect Your Slave
-
-###Robert Sandell, CloudBees
-![Robert Sandell](/jues15/images/speakers/rsandell.jpg){: .round #right}Robert recently joined CloudBees as a Jenkins developer, and before that he developed and maintained the Jenkins installations at Sony Mobile. He has been a Jenkins community member since 2010 and is maintainer of several plugins like the Gerrit Trigger and Build Failure Analyzer. Perhaps most importantly, he is an enjoyer of fine Calvados.
-There are many plugins in Jenkins for connecting slaves in various ways. How do they work and is there anyone better than the other?
-
-Twitter: [@robert_sandell](https://twitter.com/robert_sandell){: target="\_blank"}
-
-##Configuration as code and JobDSL
-
-###Niels Bech Nielsen, Logical
-![Niels Bech Nielsen](/jues15/images/speakers/nbnielsen.png){: .round #left}Niels Bech Nielsen is a very experienced developer and architect, who likes working on the leading edge of software development. Probably more hardcore than you immediately think. Have amble team and technical leadership experiences, but also a very valuable expert in software technology and java in particular. Predominantly using agile methods such as scrum and kanban with focus on continuous delivery, but also experienced in other processes including RUP and waterfall. Have been teaching and mentoring and always offering skill boosts. Been used often to raise the bar of the development team.
-
-Twitter: [@nielsbech](https://twitter.com/nielsbech){: target="\_blank"}
-
-##Test Driven Development in Excel
-
-###Laurits Søgaard Nielsen, Visual Reporting
-![Laurits Søgaard Nielsen](/jues15/images/speakers/nsnielsen.jpg){: .round #right}Briefly speaking, we have developed a tool for Excel that allows Excel developers to: Put code sheets and Excel files in Git, develop VBA test driven and perform unit and acceptance tests on code and sheets. In addition, we have integrated all of this into Jenkins pipelines, which means that we can test 8 different Excel platforms in parallel and run static code analysis of the VBA code. All this reduces the number of errors that can happen when developing Excel - and documents the business rules of the business in tests.
-
-LinkedIN: [Laurits Søgaard Nielsen](https://dk.linkedin.com/in/lauritssogaardnielsen){: target="\_blank"}
-
-##Continuous Delivery of Embedded Systems
-
-###Mike Long, Partner Praqma Norway
-![Mike Long](/jues15/images/speakers/mlong.jpg){: .round #left} As a DevOps and Continuous Delivery consultant, Mike’s specialties include coaching and mentoring teams to adopt modern technical practices in hostile embedded and legacy environments. He holds over 10 years of professional software engineering experience, working in a variety of cultures and business domains. He considers software as a craft, and enjoys sharing the pursuit of technical excellence with fellow professionals.
-
-
-Continuous Delivery is all the rage, but many of the practices are not applied in the embedded world because the literature seems to focus on the web development community. That is a great shame, because there is a great deal we can apply on our embedded software development projects. This talk will show you how to apply some of the key techniques, such as embedded versioning and software traceability, embedded continuous delivery pipelines, acceptance testing with hardware, automatic deployment to hardware, continuous deployment. Beyond that, the talk will show some real-life examples of companies who are at the leading edge of this adoption.
-
-Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
-Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
-
-##Continuous Delivery CoDe. with Jenkins and Chef
-
-###Alex Manly, Solutions Architect, Chef
-![Alex Manly](/jues15/images/speakers/amanly.jpg){: .round #right}
-Alex Manly is a Solutions Architect for Chef Software, and previous to Chef, the Vice President of Product Development at MidVision. He designed and built the RapidDeploy product, which primarily is used for deployment automation of middleware systems." Alex has previously spoken at the Jenkins User Conference in Boston, Berlin, and Copenhagen on the subject of automated application deployments.
-
-Delivery Truck is an open source project written by Chef which allows you to control the process for delivering Chef code in a well defined pipeline. In this talk you will learn about best practices to continuously deliver infrastructure code using Jenkins.
-
-Twitter: [@apmanly](https://twitter.com/apmanly){: target="\_blank"}
-
-##Xethrubot - Testing the Untestable with Jenkins
-
-###Olav Liseth, Senior Development Manager, Xethru
-![Olav Liseth](/jues15/images/speakers/oliseth.jpg){: .round #left}
-Since receiving his Masters from the University of Oslo Olav has been working as an Analog/Mixed-signal ASIC Engineer and participated in the research and development of today’s generation of Novelda radars. Today he utilizes his thorough knowledge of the core Novelda technology to develop unique radar sensor solutions.
-
-###Stig Støa, Senior Development Engineer, Xethru
-![Stig Støa](/jues15/images/speakers/sstoa.jpg){: .round #right}
-Stig received his Ph.D degree from the University of Oslo in 2012. While conducting his research on electromagnetic propagation in tissues and medical sensor networks, Stig joined the Novelda team in 2007.
-
-Together they are part of Noveldas SW and Applications team, a team that has evolved from a small group developing customized applications, to an agile team delivering advanced sensor systems.
-
-Novelda is the company behind Xethru, a radical new radar technology that has applications in Healthcare, Emergency Response, Personal Wellness plus many more.  We make everything from the silicon to the complex signal processing algorithms that analyze and interpret the data.
-As a startup, we rely on the rapid development and quality assurance that continuous delivery provides.  But we had a challenge, how do we test the seemingly untestable?  Radar technology relies on analog and digital hardware, embedded systems, real time signal processing and RF propagation.  What would be a full system test?  How can we control the environment?  How do we simulate a baby breathing?  How do we know when things go wrong?
-
-Come to this talk to find out how we solved this testing challenge!
-
-##Transforming Enterprise Release Management in Elastic Beanstalk using Jenkins, Docker and Jenkins Job Builder
-
-###Yves Hwang, Internet & Mobility Architect, Statoil Fuel & Retail
-![Yves Hwang](/jues15/images/speakers/yhwang.jpg){: .round #left}
-Yves is a full stack software craftsman with a passion for software architecture and product development. A developer at heart and working in Statoil Fuel & Retail as the Internet & Mobility Architect, Yves is opinionated about advocating devops culture that is open source, agile, test driven and peer reviewed. Yves codes daily and is no stranger to 3rd line support duties. A big fan of Docker and Ansible, he primarily programs in Java, Javascript and dabbles in a bit of C.
-
-Releasing software is hard. Getting rid of bad habits under the guise of old school enterprise I.T. is even harder. This is a devOps story about transforming an enterprise and its dated methods of release management into something modern, scalable, reliable and state of the art. On a technical level, and at the heart of this transformation, lies Jenkins, Docker, and Jenkins Job Builder.
-
-A number of our new microservices lives in Elastic Beanstalk in AWS. Coupled with bursty release cycles and multiple development teams, a need for a common build pipeline soon surfaced. Reliability and scalability is the shangri la of any build pipelines. The aforementioned toolchain allowed us to perform verification on the buildpipeline itself, template jobs for reusability, and most of all, deploy and track all changes to any Jenkins jobs via Git. This significantly sped up the process of configuring complex Jenkins jobs, and enabled highly parameterized build pipeline to take shape. Ultimately this allowed our teams to utilize Jenkins a lot more efficiently and to better manage Jenkins and the build pipeline overtime.
-
-This presentation aims to share the findings, lessons, and the slightly macabre story that is enterprise I.T. and how we went about cleaning up this mess.
-
-Twitter: [@yveshwang](https://twitter.com/yveshwang){: target="\_blank"}
-Blog: [A developer's perspective by Yves Hwang](https://macyves.wordpress.com/){: target="\_blank"} -->

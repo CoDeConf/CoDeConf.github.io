@@ -13,13 +13,21 @@ title: Day of Docker 2015 Agenda
   </timeslot>
 
   <timeslot>
-    <start>8:00</start>
+    <start>08:00</start>
     <point><strong>Registration</strong><br/></point>
   </timeslot>
 
   <timeslot>
     <start>09:00</start>
     <point><strong>Welcome &amp; Announcements</strong></point>
+  </timeslot>
+
+  <timeslot>
+    <start>09:15</start>
+    <point>
+      <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: Cyberdojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
+      <em>Jon Jagger, Jaggersoft</em>
+    </point>
   </timeslot>
 
   <timeslot>
@@ -102,10 +110,9 @@ title: Day of Docker 2015 Agenda
   </point>
 
   <point id="three-tracks">
-    <strong>Docker in the wild<br/>&nbsp;</strong><br/>
-    <br/>&nbsp;
-    <em>More info soon!</em>
-    <br/>&nbsp;
+    <a href="/day-of-docker-osl15/program/#microservices">
+    <strong>Service Composition & Discovery<br/>&nbsp;</strong></a><br/>
+    <em>Jonathan Camp, Blue Coat Systems</em>
   </point>
 
   <point id="three-tracks">
