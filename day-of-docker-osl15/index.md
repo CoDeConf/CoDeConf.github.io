@@ -7,7 +7,7 @@ title: Day Of Docker - Front
 
 # A full day of Docker
 
-## Hands-on, energizing and fun
+## A bring-your-laptop, interactive conference
 
 ![Day of Docker](/day-of-docker-osl15/images/workshop-black-white.png)
 
@@ -17,15 +17,15 @@ title: Day Of Docker - Front
 
 * See, hear and learn about the technology
 * Explore the Docker ecosystem hands-on
-* Discuss the subjects that are central to you
+* Discuss the subjects with experts in the field
 
-### Subjects and learning styles for everyone
+### Hands-on workshops to learn the hard stuff
 
 * Tech demonstrations
 * Workshops in smaller groups
 * Final keynote by Kelsey Hightower
 
-### Social, delicious, and fun
+### A festival of Docker
 
 * Beautiful venue
 * Traditional Norwegian “Julebord” dinner prepared by a top chef
