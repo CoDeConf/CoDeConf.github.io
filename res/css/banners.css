@@ -64,6 +64,7 @@ a.banner:hover {
   z-index: 2;
 }
 
+
 .banner location{
   background-color: red;
 }
@@ -111,6 +112,7 @@ a.banner:hover {
 }
 
 
+
 #juescodecamp15.banner {
 	background-image: url("/jues15/images/jues15top2.png");
 }
@@ -129,6 +131,7 @@ a.banner:hover {
 	/* background-image: url("/day-of-docker-osl15/images/dod-header-1980x450.png"); */
 	/* background-image: url("/day-of-docker-osl15/images/dod-banner-iceberg.png"); */
 	background-image: url("/day-of-docker-osl15/images/dod-header-990x225-2.png");
+	/* background-color: #22B8EB; */
 }
 #dod2.banner {
 	background-image: url("/day-of-docker-osl15/images/containers2-990x225.png");
@@ -145,6 +148,10 @@ icon#dockerwhale{
 	background-image: url("/images/docker-whale.png");
 }
 
+icon#boat{
+	background-image: url("/day-of-docker-osl15/images/dod-boat.png");
+	width: 225px;
+}
 
 /* #Media Queries
 ================================================== */
