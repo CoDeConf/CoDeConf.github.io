@@ -9,8 +9,7 @@ title: Day Of Docker - Front
 
 ## Hands-on, energizing and fun
 
-{% include /day-of-docker/slider.html %}
-
+![Day of Docker](/day-of-docker-osl15/images/workshop-black-white.png)
 
 ###### We’ve made a wish list of all the things a great developer-event should have. And now you are invited to join us for the very first Day of Docker:
 
