@@ -76,8 +76,11 @@ Blog: [vincent.demeester](http://vincent.demeester.fr/){: target="\_blank"}
 ###Jan Sørensen, Independent Consultant
 ![Jan Sørensen](/day-of-docker-osl15/images/speakers/jsørensen.jpg){: .round #right} <br/><br/>
 Jan Sørensen is an independent software consultant with a special interest in docker and infrastructure as code.
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
+> How does Docker do its magic? This session will show you how to implement some essential Docker commands as shell scripts. You will learn how to setup a “containerized environment” using standard Linux features.  We will implement core docker features including image builds, pulling images, and running an image as a container.
+>
+>Participants are expected to have a good understanding of Docker and Linux.
 
 ##Docker Containers in Windows
 {: #knese}
