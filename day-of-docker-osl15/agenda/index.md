@@ -86,7 +86,7 @@ title: Day of Docker 2015 Agenda
     </point>
 
     <point id="three-tracks">
-      <strong>Continuous Delivery with Containers<br/>&nbsp;</strong><br/>
+      <a href="/day-of-docker-osl15/program/#code"><strong>Continuous Delivery with Containers<br/>&nbsp;</strong></a><br/>     
       <em>Praqma</em>
     </point>
 
