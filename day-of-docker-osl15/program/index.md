@@ -122,9 +122,9 @@ Kamran is an expert Linux sysadmin turned DevOps professional.  Working as a Sen
 Jan Krag works for Praqma in Copenhagen and calls himself Continuous Improvement Engineer. He has a developer background and now helps customers improve their software development pipelines. He is a certified docker trainer, and also teaches courses on Git, Jenkins and continuous delivery.
 <br/><br/><br/><br/>
 
-### Bo Nyström ![Anne Currie](/day-of-docker-osl15/images/speakers/bnystrom.png){: .round #left}
-Bosse is a seasoned Continuous Delivery consultant working with Praqma.  
-<br/><br/><br/><br/><br/><br/>
+### Bo Nyström ![Bo Nyström](/day-of-docker-osl15/images/speakers/bnystrom.jpg){: .round #left}
+Bosse is a seasoned Continuous Delivery consultant working for Praqma. He is a certified docker consultant with a background in research and embedded software development. Bosse believes strongly that Lean and Agile is the way to reduce waste and avoid unnecessary complicated solutions.
+<br/><br/><br/><br/>
 
 
 
