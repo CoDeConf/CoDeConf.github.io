@@ -151,3 +151,7 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
     background-image: url("/day-of-docker-osl15/images/BCS_Logo_-_Vertical_-_Black_-_JPG.3.jpg");
     background-size: 40%;
 }
+
+#redhat.sponsorbox {
+    background-image: url("/images/sponsors/Red_Hat.png");
+}
