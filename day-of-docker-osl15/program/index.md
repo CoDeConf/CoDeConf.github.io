@@ -185,13 +185,41 @@ Web: [https://keybase.io/kung_foo](https://keybase.io/kung_foo){: target="\_blan
 
 >Once a project moves beyond a simple set of containers, it readily becomes apparent that keeping track of the state and location of services is critical. In this workshop we'll explore and try out various service discovery and catalog approaches, running the gamut from Docker links to DNS based catalogs like Consul and SkyDNS. We'll also look at related catalog features like dynamic config file generation and service health checks.
 
+
+## Microservices at Scale with Nomad and Consul on elastic infrastructure.
+{: #dchoudhury}
+<hr>
+### Diptanu Choudhury, Senior Engineer at HashiCorp
+![Diptanu Choudhury](/day-of-docker-osl15/images/speakers/dchoudhury.jpg){: .round #left}
+
+Diptanu is a Senior Engineer at HashiCorp, and works on large-scale distributed systems, cluster schedulers, service discovery and highly available and high throughput systems on the public cloud. He is a core committer to the Nomad cluster scheduler which has a parallel and distributed scheduler and support heterogeneous virtualized workloads.
+
+Prior to HashiCorp, Diptanu worked in the Cloud Platform group at Netflix, where he worked on the core platform infrastructure that powered the Microservices infrastructure of Netflix. He worked on Apache Mesos and wrote a cluster scheduler for running Docker on AWS, and also contributed to various reactive IPC and service discovery infrastructure projects.
+
+Twitter: [@diptanu](https://twitter.com/diptanu){: target="\_blank"}
+
+
+>The Microservices architecture is becoming more common for writing scalable modern services targeted for public and private clouds. However, the architecture brings in with itself a lot of challenges with respect to availability, reliable inter-process communication across services, deployment orchestration and operations.  In this talk, I will go into how to design and run Microservices at scale on Docker and elastic infrastructure.
+>
+> We will cover the following topics in the talk-
+>
+   * Challenges of running services on commodity hardware and commodity network
+   * Reacting to traffic and failures at scale with a reactive cluster scheduler for running containers.
+   * Discovering services with Consul and inter-process communication on dynamically changing network topology of services
+   * Need for a distributed and parallel cluster scheduler for running Containerized workload
+   * Architecture and Internals of Nomad
+   * Hands on tutorial with Nomad and Consul to run services. We will cover the process of bootstrapping a Nomad cluster and Consul.
+  The users will learn how to register services running on Nomad with Consul.
+
+<br/>
 <hr/>
 
 #<span style="background:#F73E46; color:#FFFFFF; padding:5px; border-radius: 5px;">Julebord
 {: #julebord}
 <br/>
 
-![jbord](/day-of-docker-osl15/images/speakers/jbord.png){: #left .round style="border-style: dashed; border-width: 1px; border-color: #F73E46;"}
+
+![jbord](/day-of-docker-osl15/images/speakers/jbord.png){: #right .round style="border-style: dashed; border-width: 1px; border-color: #F73E46;"}
 Traditional Norwegian “Julebord” dinner prepared by a top chef.
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> <!-- remove line breaks,accordingly, after text is added -->
 
@@ -200,7 +228,7 @@ Traditional Norwegian “Julebord” dinner prepared by a top chef.
 <br/>
 **BEKKBand** is a Norwegian cover rock band sprung out from Bekk Consulting. Their setlist might contain songs from Queens of the Stoneage, Jack White, Mogwai, Blink-182, Turbonegro and Kvelertak. They have played most of the major venues in Oslo, including Rockefeller and Oslo Spektrum, and are renowned for putting on one hell of a show!
 
-![BEKKBand](/day-of-docker-osl15/images/speakers/bekkband.jpg){: #right .round style="border-style: dashed; border-width: 1px; border-color: #2BB598;"}
+![BEKKBand](/day-of-docker-osl15/images/speakers/bekkband.jpg){: #left .round style="border-style: dashed; border-width: 1px; border-color: #2BB598;"}
 **Members of The Band:**
 
  - Andreas Heim
