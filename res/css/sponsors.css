@@ -155,3 +155,7 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 #redhat.sponsorbox {
     background-image: url("/images/sponsors/Red_Hat.png");
 }
+
+#finn.sponsorbox {
+    background-image: url("/sponsors/logos/finn_4x2.png");
+}

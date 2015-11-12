@@ -11,3 +11,5 @@ title: Sponsors
 [__Blue Coat is community sponsor__<br/>](/day-of-docker-osl15/sponsors/bluecoat.html){: .sponsorbox .community #bluecoat style="clear:left;"}
 
 [__Devops Norway is community sponsor__<br/>](/day-of-docker-osl15/sponsors/devopsnorway.html){: .sponsorbox .community #devopsnorway }
+
+[__FINN.no is community sponsor__<br/>](/day-of-docker-osl15/sponsors/finn.html){: .sponsorbox .community #finn }
