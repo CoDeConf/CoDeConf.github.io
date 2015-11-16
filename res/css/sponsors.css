@@ -159,3 +159,7 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 #finn.sponsorbox {
     background-image: url("/sponsors/logos/finn_4x2.png");
 }
+
+#iterate.sponsorbox {
+    background-image: url("/sponsors/images/iterate.png");
+}
