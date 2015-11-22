@@ -39,17 +39,22 @@ title: Day of Docker 2015 Agenda
 
   <timeslot>
     <start>&nbsp;</start>
-    <point class="header">
-      Branch Out
+    <point class="header" id="three-tracks">
+      The Lounge
+    </point>
+    <point class="header" id="three-tracks">
+      The Gallery
+    </point>
+    <point class="header" id="three-tracks">
+      The Study
     </point>
   </timeslot>
-
   <timeslot>
       <start>10:00</start>
 
       <point id="three-tracks">
-        <a href="/day-of-docker-osl15/program/#jsorensen"><strong>Build your own Docker<br/>&nbsp;</strong></a><br/>
-        <em>Jan Sørensen, Independent</em>
+        <a href="/day-of-docker-osl15/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
+        <em>Mike Long, Praqma Norway</em>
       </point>
 
       <point id="three-tracks">
@@ -58,8 +63,8 @@ title: Day of Docker 2015 Agenda
       </point>
 
       <point id="three-tracks">
-        <a href="/day-of-docker-osl15/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
-        <em>Mike Long, Praqma Norway</em>
+        <a href="/day-of-docker-osl15/program/#jsorensen"><strong>Build your own Docker<br/>&nbsp;</strong></a><br/>
+        <em>Jan Sørensen, Independent</em>
       </point>
     </timeslot>
 
@@ -74,15 +79,15 @@ title: Day of Docker 2015 Agenda
     <start>13:00</start>
 
     <point id="three-tracks">
-      <a href="/day-of-docker-osl15/program/#microservices">
-      <strong>Building hybrid microservices with Docker<br/>&nbsp;</strong></a><br/>
-      <em>Michael Hausenblas, Mesosphere Inc.</em>
-    </point>
-
-    <point id="three-tracks">
       <a href="/day-of-docker-osl15/program/#knese"><strong>Docker Containers in Windows<br/>&nbsp;</strong></a><br/>
       <em>Kristian Nese, Lumagate</em>
       <br/>&nbsp;
+    </point>
+
+    <point id="three-tracks">
+      <a href="/day-of-docker-osl15/program/#microservices">
+      <strong>Building hybrid microservices with Docker<br/>&nbsp;</strong></a><br/>
+      <em>Michael Hausenblas, Mesosphere Inc.</em>
     </point>
 
     <point id="three-tracks">
@@ -107,6 +112,12 @@ title: Day of Docker 2015 Agenda
   <start>15:15</start>
 
     <point id="three-tracks">
+      <a href="/day-of-docker-osl15/program/#dchoudhury">
+      <strong>Microservices at Scale with Nomad and Consul on elastic infrastructure.<br/>&nbsp;</strong></a><br/>
+      <em>Diptanu Choudhury, Senior Engineer at HashiCorp</em>
+    </point>
+
+    <point id="three-tracks">
       <a href="/day-of-docker-osl15/program/#code"><strong>Continuous Delivery with Containers<br/>&nbsp;</strong></a><br/>     
       <br/>&nbsp;
       <em>Praqma</em>
@@ -118,12 +129,6 @@ title: Day of Docker 2015 Agenda
       <strong>Service Composition & Discovery<br/>&nbsp;</strong></a><br/>
       <br/>&nbsp;
       <em>Jonathan Camp, Blue Coat Systems</em>
-    </point>
-
-    <point id="three-tracks">
-      <a href="/day-of-docker-osl15/program/#dchoudhury">
-      <strong>Microservices at Scale with Nomad and Consul on elastic infrastructure.<br/>&nbsp;</strong></a><br/>
-      <em>Diptanu Choudhury, Senior Engineer at HashiCorp</em>
     </point>
 
 </timeslot>
