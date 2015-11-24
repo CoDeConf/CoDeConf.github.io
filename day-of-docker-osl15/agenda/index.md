@@ -14,7 +14,7 @@ title: Day of Docker 2015 Agenda
 
   <timeslot>
     <start>08:00</start>
-    <point><strong>Registration</strong><br/></point>
+    <point><strong>Registration opens & coffee</strong><br/></point>
   </timeslot>
 
   <timeslot>
@@ -23,7 +23,7 @@ title: Day of Docker 2015 Agenda
   </timeslot>
 
   <timeslot>
-    <start>09:15</start>
+    <start>09:20</start>
     <point>
       <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: cyber-dojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
       <em>Jon Jagger, Jaggersoft</em>
@@ -31,7 +31,7 @@ title: Day of Docker 2015 Agenda
   </timeslot>
 
   <timeslot>
-    <start>09:45</start>
+    <start>10:00</start>
     <point class="break">
     <strong>Break</strong>
     </point>
@@ -50,7 +50,7 @@ title: Day of Docker 2015 Agenda
     </point>
   </timeslot>
   <timeslot>
-      <start>10:00</start>
+      <start>10:15</start>
 
       <point id="three-tracks">
         <a href="/day-of-docker-osl15/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
