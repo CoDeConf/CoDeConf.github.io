@@ -147,10 +147,14 @@ icon#jenkinsflow{
 icon#dockerwhale{
 	background-image: url("/images/docker-whale.png");
 }
-
 icon#boat{
-	background-image: url("/day-of-docker-osl15/images/dod-boat.png");
-	width: 225px;
+    background-image: url("/day-of-docker-osl15/images/dod-boat.png");
+    width: 225px;
+}
+icon#soldout{
+    background-image: url("/day-of-docker-osl15/images/SoldOut.png");
+    width: 250px;
+    left: 250px;
 }
 
 /* #Media Queries
