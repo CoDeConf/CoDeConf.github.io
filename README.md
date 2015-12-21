@@ -12,19 +12,13 @@ Dev env setup on Mac OS and Windows
   docker-machine create --driver virtualbox gijeli
 ```
 
-* We need to setup port forwarding in order to be able to access web pages from the container in browser on host machine
+* Set environment for the newly created docker host
 
 ```shell
-  VBoxManage controlvm jenkins-checkpoints-demo natpf1 "HTTP,tcp,127.0.0.1,4000,,4000"
+  eval $(docker-machine env gijeli)
 ```
 
-* Jump into virtual machine by running
-
-```shell
-  docker-machine ssh gijeli
-```
-
-* Clone this repo (or transfer existing one into virtual machine using docker-machine scp) and do not forget to setup git before you start to commit
+* Clone this repo and do not forget to setup git before you start to commit
 
 ```shell
   git clone https://github.com/CoDeConf/CoDeConf.github.io.git
@@ -39,7 +33,13 @@ Dev env setup on Mac OS and Windows
   docker run --rm -v $(pwd):/data -p 8080:4000  praqma/gijeli:v17 serve --force_polling -H 0.0.0.0
 ```
 
-* Now you should be able to see your own version of code-conf.com on localhost:4000! Time to do things!
+* Check local ip address used by the docker host
+
+```shell
+  docker-machine ip gijeli
+```
+
+* Now you should be able to see your own version of code-conf.com on <local ip from the previous command>:4000! Time to do things!
 
 Dev env setup on Linux
 -----------------------  
