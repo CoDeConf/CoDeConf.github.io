@@ -11,7 +11,7 @@ title: Day Of Docker - Front
 
 ![Day of Docker](/day-of-docker-sthlm16/images/workshop-black-white.png)
 
-###### We’ve made a wish list of all the things a great developer-event should have. And now you are invited to join us for the very first Day of Docker:
+###### We’ve made a wish list of all the things a great developer-event should have. And now you are invited to join us for the very first Day of Docker at Stockholm:
 
 ### All aspects of Docker, for Developers of all experience levels
 
@@ -23,7 +23,6 @@ title: Day Of Docker - Front
 
 * Tech demonstrations
 * Workshops in smaller groups
-* Final keynote by Kelsey Hightower
 
 ### A festival of Docker
 
