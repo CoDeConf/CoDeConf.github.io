@@ -3,7 +3,7 @@ layout: day-of-docker-cph16/front
 title: Day Of Docker - Front
 ---
 
-## Day of Docker
+## Docker changes DevOps  - Day of Docker changes conferences
 
 # A full day of Docker
 
@@ -32,8 +32,6 @@ title: Day Of Docker - Front
 ## Tickets
 <!--TODO add here link to evenbrite to DoD at CPH16 -->
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=18551159016&ref=etckt" frameborder="0" height="339" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Powered by Eventbrite</a></div></div>
-
-## Docker changes DevOps  - Day of Docker changes conferences
 
 ## Sponsors
 If you are interested in sponsoring DayOfDocker please reach out to [events@praqma.com](events@praqma.com).
