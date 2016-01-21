@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/front
+layout: day-of-docker-sthlm16/front
 title: Day Of Docker - Front
 ---
 
@@ -15,6 +15,7 @@ title: Day Of Docker - Front
 
 ### All aspects of Docker, for Developers of all experience levels
 
+* Keynote by Kelsey Hightower
 * See, hear and learn about the technology
 * Explore the Docker ecosystem hands-on
 * Discuss the subjects with experts in the field
@@ -25,6 +26,8 @@ title: Day Of Docker - Front
 * Workshops in smaller groups
 
 ### A festival of Docker
+
+* An afterconference dinner
 
 ### Day of Docker is not your average conference - and we can’t wait to see you in Stockholm!
 
