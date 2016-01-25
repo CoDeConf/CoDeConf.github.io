@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/default
+layout: day-of-docker-sthlm16/default
 title: Info
 ---
 #All the information you need...<br/>

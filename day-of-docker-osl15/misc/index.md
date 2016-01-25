@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/default
+layout: day-of-docker-osl15/default
 title: Info
 ---
 #All the information you need...<br/>

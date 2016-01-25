@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/program
+layout: day-of-docker-sthlm16/program
 title: Sponsor Lineup
 ---
 #Sponsor Lineup

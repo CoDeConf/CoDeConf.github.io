@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/front
+layout: day-of-docker-osl15/front
 title: Day Of Docker - Front
 ---
 

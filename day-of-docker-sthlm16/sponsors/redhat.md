@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/sponsor
+layout: day-of-docker-sthlm16/sponsor
 title: Sponsors
 ---
 <div style="width:200px;float:left;padding:20px">

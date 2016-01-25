@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/agenda
+layout: day-of-docker-sthlm16/agenda
 title: Day of Docker 2015 Agenda
 ---
 #Day of Docker - Stockholm 2016

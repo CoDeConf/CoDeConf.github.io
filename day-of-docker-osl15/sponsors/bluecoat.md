@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/sponsor
+layout: day-of-docker-osl15/sponsor
 title: Sponsors
 ---
 #BlueCoat
