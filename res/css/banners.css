@@ -40,14 +40,14 @@ a.banner:hover {
 
 .banner ribbon{
 	float: right;
-  display: block;
-  position: absolute;
-  bottom: 3px;
-  right: 0px;
-  background: transparent;
-  font-size: 33px;
-  line-height: 100%;
-	text-transform:uppercase;
+	display: block;
+	position: absolute;
+ 	bottom: 3px;
+ 	right: 0px;
+ 	background: transparent;
+ 	font-size: 33px;
+ 	line-height: 100%;
+ 	text-transform:uppercase;
 	z-index: 1;
 }
 
@@ -106,7 +106,7 @@ a.banner:hover {
   width: 136px;
   position: absolute;
   right: 35px;
-  top: 50px;
+  top: 85px;
 	text-align: center;
 
 }
@@ -126,15 +126,18 @@ a.banner:hover {
 	background-image: url("/jues15/images/pipe3.png");
 }
 
-#dod1.banner {
+#dod.banner {
 	/* background-image: url("/day-of-docker-osl15/images/dod-header-990x225.png"); */
 	/* background-image: url("/day-of-docker-osl15/images/dod-header-1980x450.png"); */
 	/* background-image: url("/day-of-docker-osl15/images/dod-banner-iceberg.png"); */
 	background-image: url("/day-of-docker-sthlm16/images/dod-sky-water-01.png");
 	/* background-color: #22B8EB; */
 }
-#dod2.banner {
-	background-image: url("/day-of-docker-sthlm16/images/containers2-990x225.png");
+#dodsto.banner {
+	background-image: url("/day-of-docker-sthlm16/images/dod-sky-water_sto-01.png");
+}
+#dodcph.banner {
+	background-image: url("/day-of-docker-cph16/images/dod-sky-water_cph-01.png");
 }
 #dod3.banner {
 	background-image: url("/day-of-docker-sthlm16/images/people1-990x225.png");
@@ -147,8 +150,12 @@ icon#jenkinsflow{
 icon#dockerwhale{
 	background-image: url("/images/docker-whale.png");
 }
-icon#boat{
-    background-image: url("/day-of-docker-sthlm16/images/docker-ship.png");
+icon#boatsto{
+    background-image: url("/day-of-docker-sthlm16/images/docker-ship-sto.png");
+    width: 225px;
+}
+icon#boatcph{
+    background-image: url("/day-of-docker-cph16/images/docker-ship-cph.png");
     width: 225px;
 }
 icon#soldout{

@@ -1,6 +1,6 @@
 ---
 layout: day-of-docker-sthlm16/agenda
-title: Day of Docker 2015 Agenda
+title: Day of Docker 2016 Agenda
 ---
 #Day of Docker - Stockholm 2016
 <agenda>
@@ -8,7 +8,7 @@ title: Day of Docker 2015 Agenda
     <start>&nbsp;</start>
     <point class="header">
       <strong>Day of Docker Agenda</strong><br/>
-      Stockholm April 7th
+      Stockholm March 31st
     </point>
   </timeslot>
 

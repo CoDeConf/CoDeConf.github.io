@@ -201,10 +201,13 @@ a.pushbox:hover {
 #gotocph.pushbox {
 	background-image: url("/images/boxes/gotocph.png");
 }
-#docker.pushbox {
-	background-image: url("/images/boxes/day-of-docker.png");
+#dockersto.pushbox {
+	background-image: url("/images/boxes/day-of-docker-sto.png");
 }
 
+#dockercph.pushbox {
+  background-image: url("/images/boxes/day-of-docker-cph.png");
+}
 .pushbox.meetup, a.pushbox.meetup:hover {
   background: #4b4b4b;
   height:190px;
