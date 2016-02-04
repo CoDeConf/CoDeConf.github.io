@@ -114,7 +114,7 @@ a.pushbox:hover {
 .pushbox .title{
 	font-size: 25px;
 	font-weight: bold;
-	padding: 35px 0px 0px 10px;
+	/*padding: 35px 0px 0px 10px;*/
 }
 
 .pushbox .date, .pushbox .venue{

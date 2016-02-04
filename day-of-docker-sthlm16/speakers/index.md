@@ -1,8 +1,8 @@
 ---
 layout: jues/program
-title: JUES 2015 - speakers
+title: Day of Containers 2016 - speakers
 ---
-#JUES 1 - Speakers
+#Day of Containers 2016
 
 <!--
 ## Kohsuke Kawaguchi

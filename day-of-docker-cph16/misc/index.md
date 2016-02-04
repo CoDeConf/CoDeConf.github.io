@@ -2,33 +2,66 @@
 layout: day-of-docker/default
 title: Info
 ---
-#All the information you need...<br/>
-
+# All the information you need...<br/>
 
 ## Conference concept<br/>
 
-Details to come...
 
-### Catering
-As Always, lunch, drinks and snacks are included and served on-site throughout the day.
+### Hands-on workshops, at eye-level!
 
-### How to get there
+We are enthusiastic about containers (Hey, they allow us to build, ship, and deploy faster, smoother and better!) 
 
-Details to come...
+And when we are ready to learn new things, enthusiasm is always the key word: 
 
-### Accommodation in Oslo
 
-Details to come...
+Handpicked speakers from around the world who can’t wait to share their newest knowledge with you. 
 
-### Information for Sponsors
+Venues that makes us feel exited. 
 
-Delivery of stand material can be sent to  Praqma Stockholm. All items must have the following information clearly indicated: "Day Of Docker", name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
-_NOTE:_ All material must reach the event venue, no later than November 20th.
+Room for you to chat, snack and have fun.
 
-### Please send to
+{:highlight}
 
-**Praqma Stockholm**<br/>
-Ferkens gränd 3<br/>
-111 30 Stockholm<br/>
-Sweden<br/>
-Att. Andrey Devyatkin<br/>
+
+Highly qualified experts guarantee you the professional level that makes your day worth while - and a great variety of workshops will equip you to go home and apply all your new skills.
+
+
+## Catering
+
+As always, lunch, drinks and snacks are included and served on-site throughout the day.
+
+
+
+## How to get there
+
+Details to come…
+
+
+
+## Accommodation in Stockholm
+
+Details to come…
+
+## Information for Sponsors
+
+Delivery of stand material can be sent to Praqma Denmark. 
+All items must have the following information clearly indicated: 
+
+* “Day of Containers”, 
+
+* Name of the exhibiting company, 
+
+* Number of pieces, 
+
+* Name of the person in charge of stand
+
+NOTE: All materials must reach the event venue, no later than March 25th 2016<br/>
+
+Please send to<br/>
+
+Praqma Denmark<br/>
+Borgergade 24B<br/>
+1300 Kbh K<br/>
+Denmark<br/>
+Att. Mona S. Larsen<br/>
+

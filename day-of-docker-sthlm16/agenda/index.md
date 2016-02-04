@@ -1,20 +1,24 @@
 ---
 layout: day-of-docker-sthlm16/agenda
-title: Day of Docker 2016 Agenda
+title: Day of Containers 2016 Agenda
 ---
-#Day of Docker - Stockholm 2016
+#Day of Containers - Stockholm 2016
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
     <point class="header">
-      <strong>Day of Docker Agenda</strong><br/>
+      <strong>Day of Containers Agenda</strong><br/>
       Stockholm March 31st
     </point>
   </timeslot>
 
   <timeslot>
     <start>08:00</start>
-    <point><strong>Registration opens & coffee</strong><br/></point>
+    <point><strong>Registration opens</strong><br/></point>
+  </timeslot>
+  <timeslot>
+    <start>08:30</start>
+    <point><strong>Breakfast</strong><br/></point>
   </timeslot>
 
   <timeslot>
@@ -23,48 +27,44 @@ title: Day of Docker 2016 Agenda
   </timeslot>
 
   <timeslot>
-    <start>09:20</start>
+    <start>09:15</start>
     <point>
-      <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: cyber-dojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
-      <em>Jon Jagger, Jaggersoft</em>
+      <strong>Keynote from Docker</strong>
     </point>
   </timeslot>
 
   <timeslot>
     <start>10:00</start>
     <point class="break">
-    <strong>Break</strong>
+    <strong>Break. Room separation</strong>
     </point>
   </timeslot>
 
   <timeslot>
     <start>&nbsp;</start>
     <point class="header" id="three-tracks">
-      The Lounge
+      C1
     </point>
     <point class="header" id="three-tracks">
-      The Gallery
+      C2
     </point>
     <point class="header" id="three-tracks">
-      The Study
+      C3
     </point>
   </timeslot>
   <timeslot>
-      <start>10:15</start>
+      <start>10:30</start>
 
       <point id="three-tracks">
-        <a href="/day-of-docker-sthlm16/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
-        <em>Mike Long, Praqma Norway</em>
+        <strong> Docker 101. Praqma</strong>
       </point>
 
       <point id="three-tracks">
-        <a href="/day-of-docker-sthlm16/program/#vdemeester"><strong>What's new in Docker 1.9<br/>&nbsp;</strong></a><br/>
-        <em>Vincent Demeester, Zenika</em>
+        <strong> Tutum. Docker. Details comming soon</strong>
       </point>
 
       <point id="three-tracks">
-        <a href="/day-of-docker-sthlm16/program/#jsorensen"><strong>Build your own Docker<br/>&nbsp;</strong></a><br/>
-        <em>Jan Sørensen, Independent</em>
+        <strong> Container as a service. Details comming soon</strong>
       </point>
     </timeslot>
 
@@ -78,60 +78,50 @@ title: Day of Docker 2016 Agenda
     <timeslot>
     <start>13:00</start>
 
-    <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#knese"><strong>Docker Containers in Windows<br/>&nbsp;</strong></a><br/>
-      <em>Kristian Nese, Lumagate</em>
-      <br/>&nbsp;
-    </point>
+     <point id="three-tracks">
+        <strong> Free slot</strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#microservices">
-      <strong>Building hybrid microservices with Docker<br/>&nbsp;</strong></a><br/>
-      <em>Michael Hausenblas, Mesosphere Inc.</em>
-    </point>
+      <point id="three-tracks">
+        <strong> Free slot</strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#microscaling"><strong>Microscaling-in-a-box<br/>&nbsp;</strong></a><br/>      &nbsp;<br/>
-      <em>Anne Currie, force12.io</em>
-      <br/>&nbsp;
-    </point>
-
-
+      <point id="three-tracks">
+        <strong> UCP. Docker</strong>
+      </point>
 
   </timeslot>
 
   <timeslot>
-    <start>14:45</start>
+    <start>14:30</start>
     <point class="break">
-    <strong>Break</strong>
+    <strong>Coffee break</strong>
     </point>
   </timeslot>
 
 
   <timeslot>
-  <start>15:15</start>
+  <start>14:45</start>
 
     <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#dchoudhury">
-      <strong>Microservices at Scale with Nomad and Consul on elastic infrastructure.<br/>&nbsp;</strong></a><br/>
-      <em>Diptanu Choudhury, Senior Engineer at HashiCorp</em>
-    </point>
+        <strong> </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#code"><strong>Continuous Delivery with Containers<br/>&nbsp;</strong></a><br/>     
-      <br/>&nbsp;
-      <em>Praqma</em>
-      <br/>&nbsp;
-    </point>
+      <point id="three-tracks">
+        <strong> </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-docker-sthlm16/program/#jcamp">
-      <strong>Service Composition & Discovery<br/>&nbsp;</strong></a><br/>
-      <br/>&nbsp;
-      <em>Jonathan Camp, Blue Coat Systems</em>
-    </point>
+      <point id="three-tracks">
+        <strong> </strong>
+      </point>
 
-</timeslot>
+  </timeslot>
+  <timeslot>
+    <start>16:15</start>
+    <point class="break">
+    <strong>Afternoon break. Merge</strong>
+    </point>
+  </timeslot>
 
 <timeslot>
   <start>&nbsp;</start>
@@ -156,9 +146,9 @@ title: Day of Docker 2016 Agenda
   </timeslot>
 
   <timeslot>
-    <start>18:00</start>
+    <start>19:00</start>
     <point>
-      <a href="/day-of-docker-sthlm16/program/#julebord"><strong>Julebord!!</strong></a><br/>
+      <a href="/day-of-docker-sthlm16/program/#julebord"><strong>Dinner!!</strong></a><br/>
 ...it ends when it ends!
     </point>
   </timeslot>
