@@ -20,8 +20,6 @@ Venues that makes us feel exited.
 
 Room for you to chat, snack and have fun.
 
-{:highlight}
-
 
 Highly qualified experts guarantee you the professional level that makes your day worth while - and a great variety of workshops will equip you to go home and apply all your new skills.
 
