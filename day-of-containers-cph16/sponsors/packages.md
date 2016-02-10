@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/sponsor
+layout: day-of-containers-cph16/sponsor
 title: Sponsor packages
 ---
 #Sponsor packages
