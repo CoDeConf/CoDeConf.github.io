@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/program
+layout: day-of-containers-cph16/program
 title: Speaker Info
 ---
 # Speaker info

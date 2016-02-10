@@ -1,5 +1,5 @@
 ---
-layout: day-of-docker/default
+layout: day-of-containers-cph16/default
 title: Info
 ---
 # All the information you need...<br/>
@@ -36,7 +36,7 @@ Details to come…
 
 
 
-## Accommodation in Stockholm
+## Accommodation in Copenhagen
 
 Details to come…
 

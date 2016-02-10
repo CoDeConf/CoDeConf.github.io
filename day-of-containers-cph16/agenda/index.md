@@ -8,7 +8,7 @@ title: Day of Containers 2015 Agenda
     <start>&nbsp;</start>
     <point class="header">
       <strong>Day of Containers Agenda</strong><br/>
-      Stockholm April 7th
+      Stockholm April 4th
     </point>
   </timeslot>
 
