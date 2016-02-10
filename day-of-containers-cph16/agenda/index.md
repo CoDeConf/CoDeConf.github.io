@@ -2,13 +2,13 @@
 layout: day-of-containers-cph16/agenda
 title: Day of Containers 2015 Agenda
 ---
-#Day of Containers - Stockholm 2016
+#Day of Containers - Copenhagen 2016
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
     <point class="header">
       <strong>Day of Containers Agenda</strong><br/>
-      Stockholm April 4th
+      Copenhagen April 4th
     </point>
   </timeslot>
 
