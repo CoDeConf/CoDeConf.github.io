@@ -14,57 +14,53 @@ title: Day of Containers 2015 Agenda
 
   <timeslot>
     <start>08:00</start>
-    <point><strong>Registration opens & coffee</strong><br/></point>
+    <point><strong>Grill academy building (on land)</strong><br/></point>
   </timeslot>
-
+  
   <timeslot>
     <start>09:00</start>
     <point><strong>Welcome &amp; Announcements</strong></point>
   </timeslot>
 
   <timeslot>
-    <start>09:20</start>
+    <start>09:15</start>
     <point>
-      <a href="/day-of-docker-osl15/program/#jjagger"><strong>Keynote: cyber-dojo: executing your code for fun and not-for profit!<br/>&nbsp;</strong></a>
-      <em>Jon Jagger, Jaggersoft</em>
+      <strong>Docker - upcoming release, products and etc.</strong>
     </point>
   </timeslot>
 
   <timeslot>
     <start>10:00</start>
     <point class="break">
-    <strong>Break</strong>
+    <strong>Break. Room separation</strong>
     </point>
   </timeslot>
 
   <timeslot>
     <start>&nbsp;</start>
     <point class="header" id="three-tracks">
-      The Lounge
+      C1
     </point>
     <point class="header" id="three-tracks">
-      The Gallery
+      C2
     </point>
     <point class="header" id="three-tracks">
-      The Study
+      C3
     </point>
   </timeslot>
   <timeslot>
-      <start>10:15</start>
+      <start>10:30</start>
 
       <point id="three-tracks">
-        <a href="/day-of-containers-sthlm16/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
-        <em>Mike Long, Praqma Norway</em>
+        <strong> Docker 101. Praqma</strong>
       </point>
 
       <point id="three-tracks">
-        <a href="/day-of-containers-sthlm16/program/#vdemeester"><strong>What's new in Docker 1.9<br/>&nbsp;</strong></a><br/>
-        <em>Vincent Demeester, Zenika</em>
+        <strong> Tutum. Docker. Details comming soon</strong>
       </point>
 
       <point id="three-tracks">
-        <a href="/day-of-containers-sthlm16/program/#jsorensen"><strong>Build your own Docker<br/>&nbsp;</strong></a><br/>
-        <em>Jan Sørensen, Independent</em>
+        <strong> Mark Coleman - Container as a service </strong>
       </point>
     </timeslot>
 
@@ -78,60 +74,50 @@ title: Day of Containers 2015 Agenda
     <timeslot>
     <start>13:00</start>
 
-    <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#knese"><strong>Docker Containers in Windows<br/>&nbsp;</strong></a><br/>
-      <em>Kristian Nese, Lumagate</em>
-      <br/>&nbsp;
-    </point>
+     <point id="three-tracks">
+        <strong> TBA </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#microservices">
-      <strong>Building hybrid microservices with Docker<br/>&nbsp;</strong></a><br/>
-      <em>Michael Hausenblas, Mesosphere Inc.</em>
-    </point>
+      <point id="three-tracks">
+        <strong> TBA </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#microscaling"><strong>Microscaling-in-a-box<br/>&nbsp;</strong></a><br/>      &nbsp;<br/>
-      <em>Anne Currie, force12.io</em>
-      <br/>&nbsp;
-    </point>
-
-
+      <point id="three-tracks">
+        <strong> UCP. Docker. Details comming soon</strong>
+      </point>
 
   </timeslot>
 
   <timeslot>
-    <start>14:45</start>
+    <start>14:30</start>
     <point class="break">
-    <strong>Break</strong>
+    <strong>Coffee break</strong>
     </point>
   </timeslot>
 
 
   <timeslot>
-  <start>15:15</start>
+  <start>14:45</start>
 
     <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#dchoudhury">
-      <strong>Microservices at Scale with Nomad and Consul on elastic infrastructure.<br/>&nbsp;</strong></a><br/>
-      <em>Diptanu Choudhury, Senior Engineer at HashiCorp</em>
-    </point>
+        <strong> TBA </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#code"><strong>Continuous Delivery with Containers<br/>&nbsp;</strong></a><br/>     
-      <br/>&nbsp;
-      <em>Praqma</em>
-      <br/>&nbsp;
-    </point>
+      <point id="three-tracks">
+        <strong> Continuous Delivery with containers by Bosse Nyström and Jan Krag </strong>
+      </point>
 
-    <point id="three-tracks">
-      <a href="/day-of-containers-sthlm16/program/#jcamp">
-      <strong>Service Composition & Discovery<br/>&nbsp;</strong></a><br/>
-      <br/>&nbsp;
-      <em>Jonathan Camp, Blue Coat Systems</em>
-    </point>
+      <point id="three-tracks">
+        <strong> Trusted registery. Docker. Details comming soon</strong>
+      </point>
 
-</timeslot>
+  </timeslot>
+  <timeslot>
+    <start>16:15</start>
+    <point class="break">
+    <strong>Afternoon break. Merge</strong>
+    </point>
+  </timeslot>
 
 <timeslot>
   <start>&nbsp;</start>
@@ -143,8 +129,8 @@ title: Day of Containers 2015 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <a href="/day-of-containers-sthlm16/program/#khightower"><strong>Keynote: Docker and the Future of Operating Systems<br/>&nbsp;</strong></a>
-      <em>Kelsey Hightower (Google)</em>
+      <a href="/day-of-containers-cph16/program/#khightower"><strong>Keynote: Details comming soon <br/>&nbsp;</strong></a>
+      <em> Kelsey Hightower (Google)</em>
     </point>
   </timeslot>
 
@@ -156,9 +142,9 @@ title: Day of Containers 2015 Agenda
   </timeslot>
 
   <timeslot>
-    <start>18:00</start>
+    <start>19:00</start>
     <point>
-      <a href="/day-of-containers-sthlm16/program/#julebord"><strong>Julebord!!</strong></a><br/>
+      <a href="/day-of-containers-cph16/program/#julebord"><strong>Dinner!!</strong></a><br/>
 ...it ends when it ends!
     </point>
   </timeslot>

@@ -2,7 +2,7 @@
 layout: day-of-containers-sthlm16/agenda
 title: Day of Containers 2016 Agenda
 ---
-#Day of Containers - Stockholm 2016
+# Day of Containers - Stockholm 2016
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
@@ -29,7 +29,7 @@ title: Day of Containers 2016 Agenda
   <timeslot>
     <start>09:15</start>
     <point>
-      <strong>Keynote from Docker</strong>
+      <strong>Docker - upcoming release, products and etc.</strong>
     </point>
   </timeslot>
 
@@ -64,7 +64,7 @@ title: Day of Containers 2016 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> Container as a service. Details comming soon</strong>
+        <strong> Mark Coleman - Container as a service </strong>
       </point>
     </timeslot>
 
@@ -79,15 +79,15 @@ title: Day of Containers 2016 Agenda
     <start>13:00</start>
 
      <point id="three-tracks">
-        <strong> Free slot</strong>
+        <strong> TBA </strong>
       </point>
 
       <point id="three-tracks">
-        <strong> Free slot</strong>
+        <strong> TBA </strong>
       </point>
 
       <point id="three-tracks">
-        <strong> UCP. Docker</strong>
+        <strong> UCP. Docker. Details comming soon</strong>
       </point>
 
   </timeslot>
@@ -104,15 +104,15 @@ title: Day of Containers 2016 Agenda
   <start>14:45</start>
 
     <point id="three-tracks">
-        <strong> </strong>
+        <strong> TBA </strong>
       </point>
 
       <point id="three-tracks">
-        <strong> </strong>
+        <strong> Continuous Delivery with containers by Bosse Nyström and Jan Krag </strong>
       </point>
 
       <point id="three-tracks">
-        <strong> </strong>
+        <strong> Trusted registery. Docker. Details comming soon</strong>
       </point>
 
   </timeslot>
@@ -133,8 +133,8 @@ title: Day of Containers 2016 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <a href="/day-of-containers-sthlm16/program/#khightower"><strong>Keynote: Docker and the Future of Operating Systems<br/>&nbsp;</strong></a>
-      <em>Kelsey Hightower (Google)</em>
+      <a href="/day-of-containers-sthlm16/program/#khightower"><strong>Keynote: Details comming soon <br/>&nbsp;</strong></a>
+      <em> Kelsey Hightower (Google)</em>
     </point>
   </timeslot>
 
