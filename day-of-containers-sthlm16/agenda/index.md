@@ -56,11 +56,12 @@ title: Day of Containers 2016 Agenda
       <start>10:30</start>
 
       <point id="three-tracks">
-        <strong> Docker 101. Praqma</strong>
+        <a href="/day-of-containers-sthlm16/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
+        <em>Mike Long, Praqma Norway</em>
       </point>
 
       <point id="three-tracks">
-        <strong> Tutum. Docker. Details comming soon</strong>
+        <strong> Tutum. Docker. Details coming soon</strong>
       </point>
 
       <point id="three-tracks">
@@ -87,7 +88,7 @@ title: Day of Containers 2016 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> UCP. Docker. Details comming soon</strong>
+        <strong> UCP. Docker. Details coming soon</strong>
       </point>
 
   </timeslot>
@@ -112,7 +113,7 @@ title: Day of Containers 2016 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> Trusted registery. Docker. Details comming soon</strong>
+        <strong> Trusted registery. Docker. Details coming soon</strong>
       </point>
 
   </timeslot>
@@ -133,7 +134,7 @@ title: Day of Containers 2016 Agenda
   <timeslot>
     <start>17:00</start>
     <point>
-      <a href="/day-of-containers-sthlm16/program/#khightower"><strong>Keynote: Details comming soon <br/>&nbsp;</strong></a>
+      <a href="/day-of-containers-sthlm16/program/#khightower"><strong>Keynote: Details coming soon <br/>&nbsp;</strong></a>
       <em> Kelsey Hightower (Google)</em>
     </point>
   </timeslot>

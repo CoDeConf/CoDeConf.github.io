@@ -110,7 +110,7 @@ Anne Currie is an engineer who is enthusiastic about containers (and everything 
 
 <br/>
 
-## Continuous Delivery with Containers
+##Continuous Delivery with Containers
 {: #code}
 <hr>
 ### Kamran Azeem ![Anne Currie](/day-of-docker-osl15/images/speakers/kazeem.jpg){: .round #left}
