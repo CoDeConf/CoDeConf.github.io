@@ -62,7 +62,7 @@ html[xmlns] .slides {
 }
 
 .flexslider {
-    background: #fff;
+    /*background: #fff;*/
     position: relative;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -73,7 +73,7 @@ html[xmlns] .slides {
 
 .flexslider .slides {
     zoom: 1;
-    background: #fff;
+    /*background: #fff;*/
     position: relative;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
