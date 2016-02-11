@@ -32,7 +32,8 @@ As always, lunch, drinks and snacks are included and served on-site throughout t
 
 ## How to get there
 
-Details to come…
+Bus 26 going to Langelinjekaj. Stop: Indiakaj
+(By the DFDS terminal)
 
 
 
