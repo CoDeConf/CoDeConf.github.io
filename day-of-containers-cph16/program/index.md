@@ -2,14 +2,14 @@
 layout: day-of-containers-cph16/program
 title: Day of Containers 2015 Program
 ---
-#Day of Containers 2016 - Program
+# Day of Containers 2016 - Program
 
 <hr>
 
-##Keynote: Docker and the Future of Operating Systems
+##K eynote: Docker and the Future of Operating Systems
 {: #khightower}
 <hr>
-###Kelsey Hightower, Google
+### Kelsey Hightower, Google
 
 ![Kelsey Hightower](/day-of-docker-osl15/images/speakers/khightower.png){: .round #right}
 Kelsey Hightower is a open source advocate who is helping to build and advocate a modern way to run Linux servers at CoreOS. As an engineer Kelsey enjoys building simple tools that make people smile and is a regular contributor to Google's Kubernetes project. When he is not slinging Go code you can catch him giving technical workshops covering everything from programming, system administration, and CoreOS.
@@ -20,11 +20,11 @@ Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_bla
 
 <br/>
 
-##Docker 101
+## Docker 101
 {: #mlong}
 <hr>
 
-###Mike Long, Partner Praqma Norway
+### Mike Long, Partner Praqma Norway
 ![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #right} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
 
 Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
@@ -35,7 +35,7 @@ Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
 
 <br/>
 
-##Continuous Delivery with Containers
+## Continuous Delivery with Containers
 {: #code}
 <hr>
 

@@ -2,7 +2,7 @@
 layout: day-of-containers-cph16/agenda
 title: Day of Containers 2015 Agenda
 ---
-#Day of Containers - Copenhagen 2016
+# Day of Containers - Copenhagen 2016
 <agenda>
   <timeslot>
     <start>&nbsp;</start>
