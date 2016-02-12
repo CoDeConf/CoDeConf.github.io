@@ -15,9 +15,7 @@ And when we are ready to learn new things, enthusiasm is always the key word:
 
 
 * Handpicked speakers from around the world who can’t wait to share their newest knowledge with you. 
-
 * Venues that makes us feel exited. 
-
 * Room for you to chat, snack and have fun.
 
 
@@ -29,17 +27,10 @@ Highly qualified experts guarantee you the professional level that makes your da
 As always, lunch, drinks and snacks are included and served on-site throughout the day.
 
 
-
 ## How to get there
 
 Bus 26 going to Langelinjekaj. Stop: Indiakaj
 (By the DFDS terminal)
-
-
-
-## Accommodation in Copenhagen
-
-Details to come…
 
 ## Information for Sponsors
 
@@ -47,11 +38,8 @@ Delivery of stand material can be sent to Praqma Denmark.
 All items must have the following information clearly indicated: 
 
 * “Day of Containers”, 
-
 * Name of the exhibiting company, 
-
 * Number of pieces, 
-
 * Name of the person in charge of stand
 
 NOTE: All materials must reach the event venue, no later than March 25th 2016<br/>
