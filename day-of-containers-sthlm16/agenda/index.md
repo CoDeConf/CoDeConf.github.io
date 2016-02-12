@@ -26,13 +26,14 @@ title: Day of Containers 2016 Agenda
     <point><strong>Welcome &amp; Announcements</strong></point>
   </timeslot>
 
-  <timeslot>
+ <timeslot>
     <start>09:15</start>
     <point>
-      <strong>Docker - upcoming release, products and etc.</strong>
+      <strong>Keynote TBA<br/>&nbsp;</strong></a>
+      <em> Docker </em>
     </point>
   </timeslot>
-
+  
   <timeslot>
     <start>10:00</start>
     <point class="break">
@@ -56,8 +57,8 @@ title: Day of Containers 2016 Agenda
       <start>10:30</start>
 
       <point id="three-tracks">
-        <a href="/day-of-containers-sthlm16/program/#mlong"><strong>Docker 101<br/>&nbsp;</strong></a><br/>
-        <em>Mike Long, Praqma Norway</em>
+        <strong>Docker 101<br/>&nbsp;</strong><br/>
+        <a href="/day-of-containers-cph16/program/#mlong"><em>Mike Long, Praqma Norway</em></a>
       </point>
 
       <point id="three-tracks">
@@ -65,7 +66,7 @@ title: Day of Containers 2016 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> Mark Coleman - Container as a service </strong>
+        <strong> TBA </strong>
       </point>
     </timeslot>
 
@@ -109,7 +110,8 @@ title: Day of Containers 2016 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> Continuous Delivery with containers by Bosse Nyström and Jan Krag </strong>
+        <strong> Continuous Delivery with containers </strong><br/>
+        <a href="/day-of-containers-sthlm16/program/#code"><em>by Bosse Nyström and Jan Krag </em></a>
       </point>
 
       <point id="three-tracks">
@@ -149,7 +151,7 @@ title: Day of Containers 2016 Agenda
   <timeslot>
     <start>19:00</start>
     <point>
-      <a href="/day-of-containers-sthlm16/program/#julebord"><strong>Dinner!!</strong></a><br/>
+      <strong>Dinner!!</strong></a><br/>
 ...it ends when it ends!
     </point>
   </timeslot>

@@ -25,7 +25,7 @@ Twitter: [@kelseyhightower](https://twitter.com/kelseyhightower){: target="\_bla
 <hr>
 
 ### Mike Long, Partner Praqma Norway
-![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #right} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
+![Mike Long](/day-of-docker-osl15/images/speakers/mlong.jpg){: .round #left} Mike Long is a Continuous Delivery consultant working for Praqma in Oslo.  He is a certified docker trainer, and also consults and teaches courses on git, jenkins, and test driven development.  Mike is excited about the future of Infrastructure as Code!
 
 Twitter: [@meekrosoft](https://twitter.com/meekrosoft){: target="\_blank"}
 Blog: [meekrosoft](https://meekrosoft.wordpress.com/){: target="\_blank"}
