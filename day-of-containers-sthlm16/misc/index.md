@@ -26,9 +26,6 @@ Highly qualified experts guarantee you the professional level that makes your da
 
 As always, lunch, drinks and snacks are included and served on-site throughout the day.
 
-## Accommodation in Stockholm
-
-Details to come…
 
 ## Information for Sponsors
 
