@@ -62,7 +62,8 @@ title: Day of Containers 2015 Agenda
       </point>
 
       <point id="three-tracks">
-        <strong> TBA </strong>
+        <strong>Build your own Docker<br/>&nbsp;</strong><br/>
+        <a href="/day-of-containers-cph16/program/#jsorensen"><em>Jan Sørensen, Independent Consultant</em></a>
       </point>
     </timeslot>
 

@@ -58,15 +58,16 @@ title: Day of Containers 2016 Agenda
 
       <point id="three-tracks">
         <strong>Docker 101<br/>&nbsp;</strong><br/>
-        <a href="/day-of-containers-cph16/program/#mlong"><em>Mike Long, Praqma Norway</em></a>
+        <a href="/day-of-containers-sthlm16/program/#mlong"><em>Mike Long, Praqma Norway</em></a>
       </point>
 
       <point id="three-tracks">
         <strong> Tutum. Docker. Details coming soon</strong>
       </point>
 
-      <point id="three-tracks">
-        <strong> TBA </strong>
+       <point id="three-tracks">
+        <strong>Build your own Docker<br/>&nbsp;</strong><br/>
+        <a href="/day-of-containers-sthlm16/program/#jsorensen"><em>Jan Sørensen, Independent Consultant</em></a>
       </point>
     </timeslot>
 
