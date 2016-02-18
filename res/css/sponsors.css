@@ -60,9 +60,9 @@ a.sponsorbox.host, a.sponsorbox.host:hover{
 
 a.sponsorbox.gold, a.sponsorbox.gold:hover, a.sponsorbox.silver, a.sponsorbox.silver:hover,a.sponsorbox.community, a.sponsorbox.community:hover{
    background-size: 200px;
-   width: 200px;
+   width: 250px;
    height: 50px;
-   padding-top:108px /* height of image + the padding from a.sponsorbox*/
+   padding-top:90px /* height of image + the padding from a.sponsorbox*/
 
 }
 

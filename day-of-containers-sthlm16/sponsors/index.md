@@ -8,5 +8,5 @@ title: Sponsors
 [__The Delivery of Things World is media sponsor__<br/> The industry event for engaged, high level, DevOps oriented business.](/day-of-containers-sthlm16/sponsors/dotw.html){: .sponsorbox .community #dotw style="clear:left;"}
 
 
-[__Docker__<br/> An open platform for distributed applications for developers and sysadmins.](/day-of-containers-cph16/sponsors/docker.html){: .sponsorbox .community #docker style="clear:right;"}
+[__Docker is community sponsor__<br/> An open platform for distributed applications for developers and sysadmins.](/day-of-containers-cph16/sponsors/docker.html){: .sponsorbox .community #docker style="clear:right;"}
 
