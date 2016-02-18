@@ -87,6 +87,9 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 #dotw.sponsorbox {
    background-image: url("/images/sponsors/dotw.png");
 }
+#docker.sponsorbox {
+   background-image: url("/sponsors/images/dockerlogo.png");
+}
 #sample.sponsorbox {
    background-image: url("/sponsors/logos/sample_4x2.png");
 }
