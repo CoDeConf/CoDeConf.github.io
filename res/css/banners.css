@@ -86,7 +86,7 @@ a.banner:hover {
 .banner dot date{
 	display: table-cell;
   vertical-align: middle;
-	font-size: 26px;
+	font-size: 55px;
 	font-weight: bold;
 	text-transform:uppercase;
 	line-height: 110%;
@@ -105,8 +105,8 @@ a.banner:hover {
   height: 136px;
   width: 136px;
   position: absolute;
-  right: 35px;
-  top: 85px;
+  right: 5px;
+  top: 100px;
 	text-align: center;
 
 }
